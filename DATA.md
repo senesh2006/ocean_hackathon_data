@@ -2,7 +2,7 @@
 
 Sri Lanka / Indian Ocean datasets for Ocean Hackathon (SplitWater, GAL02).  
 **Study box (occurrence + env grids):** latitude 4°–11°N, longitude 77°–85°E (rectangle, not the exact EEZ).  
-**Built:** 2026-10-16 (`fish-data`, `fish-factors` part 1). **Maintainer:** Senesh (`senesh2006`).
+**Built:** 2026-10-16 (`fish-data`; `fish-factors` parts 1–2, complete). **Maintainer:** Senesh ([senesh2006](https://github.com/senesh2006)).
 
 Machine-readable indexes: `fish-data/catalog.csv`, `fish-factors/catalog.csv`, column defs in each package’s `data_dictionary.csv`, `fish-data/species_list.csv`.
 
@@ -15,7 +15,12 @@ ocean_hackathon_data/
 ├── README.md                 ← start here (short index)
 ├── DATA.md                   ← this file (schemas and types)
 ├── Fishing_sl.csv            ← fishing effort (AIS / GFW), monthly grid
-├── fish-factors/             ← extra env + habitat covariates (trawl / SDM)
+├── fish-factors/             ← env + habitat covariates (trawl / SDM; 22 catalogued files)
+│   ├── sst/, chlorophyll/, wind/, sea_level_eddies/, currents/, salinity_surface/
+│   ├── bottom_temp_salinity_oxygen_woa23/, mixed_layer_depth/, rainfall/
+│   ├── climate_indices/, moon_phase/, monsoon_calendar/
+│   ├── seabed_shelf_habitat/, coral_reefs_avoid/, species_flags/, scripts/
+│   └── catalog.csv, data_dictionary.csv, README.md
 └── fish-data/
     ├── catalog.csv           ← one row per file (counts, licences, QC)
     ├── data_dictionary.csv   ← merged + ML column definitions
@@ -36,9 +41,10 @@ ocean_hackathon_data/
 
 | Format | Where used | Notes |
 |--------|------------|--------|
-| **CSV** | Most tables and ERDDAP exports | UTF-8 text; comma-separated |
-| **Parquet** | `merged/*.parquet`, `train_ready/features.parquet` | Columnar binary; use pandas/pyarrow |
-| **Python** | `fish-data/scripts/` | Regenerate merged + docs (needs pandas, pyarrow) |
+| **CSV** | Most tables and ERDDAP exports | UTF-8 text; comma-separated; some ERDDAP bathy files have a units row on line 2 |
+| **Parquet** | `fish-data/merged/`, `fish-data/train_ready/`, `fish-factors/seabed_shelf_habitat/` | Columnar binary; use pandas/pyarrow |
+| **GeoJSON** | `fish-factors/coral_reefs_avoid/` | UNEP-WCMC reef polygons |
+| **Python** | `fish-data/scripts/`, `fish-factors/scripts/` | Download, merge, and regenerate docs |
 
 ---
 
@@ -269,7 +275,8 @@ df = pd.read_parquet("fish-data/train_ready/features.parquet")
 | Merged clean | Species presence + **env** at point | Points | 1900–2026 | Species distribution / SDM |
 | IOTC | **Catch tonnes** by fleet/area | No points | Annual 1950–2025 | Stock trends, priors |
 | FishBase | **Checklist** / traits | Country | — | Names, habitat, depth ranges |
-| `env/*` | **Ocean fields** | Grid | Monthly / static | Covariates, re-matching |
+| `fish-data/env/*` | **Ocean fields** (long history) | Grid | Monthly / static | Used in `build.py` merged set |
+| `fish-factors/*` | **Richer env + habitat** | Grid / vector / species | Daily–monthly + climatologies | Trawl models, extra covariates |
 
 **Presence-only:** occurrence files do not mean “species absent elsewhere.” Pair with background or pseudo-absence methods for SDMs (see `fish-data/README.md`).
 
@@ -305,40 +312,59 @@ Updates `merged/`, `train_ready/`, `catalog.*`, and `species_list.csv`.
 
 ---
 
-## 10. Environmental factors — `fish-factors/` (part 1)
+## 10. Environmental factors — `fish-factors/`
 
-**Type:** Gridded and tabular **covariates** for trawl or species-distribution models. Separate from `fish-data/`; join on `(year, month)` and nearest grid cell (see `fish-factors/README.md`).
+**Type:** Gridded and tabular **covariates** for trawl or species-distribution models. Complements `fish-data/env/` (which only has longer SST/chl/bathy used in `build.py`). Join to occurrences on `(year, month)` and nearest grid cell — see `fish-factors/README.md`.
 
-**Area:** same box (4–11°N, 77–85°E). ERDDAP longitudes may use 0–360°.
+**Area:** same box (4–11°N, 77–85°E). ERDDAP longitudes may appear as 0–360° (equivalent to 77–85°E).
 
-**Index:** `fish-factors/catalog.csv` (one row per file: source, licence, resolution, dates, row counts).
+**Column-level detail:** `fish-factors/data_dictionary.csv` (every column per file).
 
-| Folder / file | Content |
-|---------------|---------|
-| `sst/crw_sst_monthly_last24m_0.05deg.csv` | NOAA CRW monthly SST, ~0.05° |
-| `chlorophyll/esa_cci_chla_monthly_last24m_4km.csv` | ESA OC-CCI v6 monthly chlorophyll |
-| `wind/blended_winds_monthly_2014_latest.csv` | NOAA blended 10 m wind speed and u/v |
-| `wind/blended_windstress_monthly_2014_latest.csv` | Wind stress (upwelling driver) |
-| `bottom_temp_salinity_oxygen_woa23/*.csv` | WOA23 monthly climatology: T, S, O₂ at depth levels + near-bottom |
-| `mixed_layer_depth/mld_from_woa23_temperature_monthly_clim_0.25deg.csv` | MLD from WOA23 (0.5 °C criterion) |
-| `climate_indices/dmi_oni_monthly.csv` | IOD (DMI) and ENSO (ONI) with phase labels |
-| `moon_phase/moon_daily_2000_2027_colombo_midnight.csv` | Daily moon illumination, age, phase |
-| `monsoon_calendar/srilanka_monsoon_calendar.csv` | Monsoon season, rough-sea and upwelling flags by month |
-| `coral_reefs_avoid/unep_wcmc_coral_reefs_v4_1_srilanka.geojson` | UNEP-WCMC reef polygons (avoid trawl) |
-| `species_flags/species_demersal_trawl_flags.csv` | Species demersal / trawl-target flags (from `fish-data` list + FishBase) |
-| `sea_level_eddies/sla_daily_last24m.csv` | Daily sea level anomaly (eddies) |
-| `currents/surface_currents_daily_last24m.csv` | Daily surface current u/v |
-| `salinity_surface/smap_sss_daily_last24m.csv` | SMAP daily sea surface salinity |
-| `rainfall/chirps_*.csv`, `gpcp_*.csv` | CHIRPS (land) and GPCP rainfall |
-| `seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv` | 1′ depth, slope, shelf, trawl flags (water cells) |
-| `seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet` | Full grid including land |
-| `scripts/` | Download and rebuild (`dl_erddap.py`, `woa23.py`, `habitat.py`, …) |
+### 10.1 Complete file inventory
 
-**Format:** Most rasters are **long CSV**: `time` or month, `latitude`, `longitude`, value column(s). GeoJSON for reefs; Parquet for large habitat grids.
+| File | Dataset | Resolution | Rows (approx.) | Date range |
+|------|---------|------------|----------------|------------|
+| `sst/crw_sst_monthly_last24m_0.05deg.csv` | NOAA CRW SST v3.1 | 0.05°, monthly | 590,226 | 2024-08 – 2026-09 |
+| `chlorophyll/esa_cci_chla_monthly_last24m_4km.csv` | ESA OC-CCI chl-a v6 | ~4 km, monthly | 782,808 | 2024-07 – 2026-06 |
+| `wind/blended_winds_monthly_2014_latest.csv` | NOAA blended 10 m winds | 0.25°, monthly | 136,851 | 2014-01 – 2025-01 |
+| `wind/blended_windstress_monthly_2014_latest.csv` | Wind stress τ | 0.25°, monthly | 147,378 | 2014-01 – 2026-01 |
+| `sea_level_eddies/sla_daily_last24m.csv` | Sea level anomaly | 0.25°, daily | 581,856 | 2024-10 – 2026-09 |
+| `currents/surface_currents_daily_last24m.csv` | Surface u/v currents | 0.25°, daily | 695,739 | 2024-10 – 2026-09 |
+| `salinity_surface/smap_sss_daily_last24m.csv` | SMAP sea surface salinity | 0.25°, daily | 637,362 | 2024-11 – 2026-09 |
+| `bottom_temp_salinity_oxygen_woa23/woa23_temperature_monthly_clim_0.25deg.csv` | WOA23 temperature climatology | 0.25°, monthly clim. | 8,436 | months 1–12 |
+| `bottom_temp_salinity_oxygen_woa23/woa23_salinity_monthly_clim_0.25deg.csv` | WOA23 salinity climatology | 0.25°, monthly clim. | 8,436 | months 1–12 |
+| `bottom_temp_salinity_oxygen_woa23/woa23_oxygen_monthly_clim_1.00deg.csv` | WOA23 oxygen climatology | 1°, monthly clim. | 492 | months 1–12 |
+| `mixed_layer_depth/mld_from_woa23_temperature_monthly_clim_0.25deg.csv` | Mixed layer depth (0.5 °C) | 0.25°, monthly clim. | 8,436 | months 1–12 |
+| `rainfall/chirps_v2_monthly_srilanka_land_0.05deg_2024_latest.csv` | CHIRPS rainfall (land) | 0.05°, monthly | 79,744 | 2024-01 – 2026-08 |
+| `rainfall/chirps_island_mean_monthly.csv` | CHIRPS island mean | monthly | 32 | 2024-01 – 2026-08 |
+| `rainfall/gpcp_v23_monthly_2.5deg.csv` | GPCP v2.3 land + ocean | 2.5°, monthly | 11,400 | 1979-01 – 2026-06 |
+| `rainfall/gpcp_monthly_climatology_2.5deg.csv` | GPCP climatology | 2.5° | 240 | climatology |
+| `climate_indices/dmi_oni_monthly.csv` | IOD (DMI) + ENSO (ONI) | basin index | 1,880 | 1870 – 2026-05 |
+| `moon_phase/moon_daily_2000_2027_colombo_midnight.csv` | Moon phase (PyEphem) | daily | 10,227 | 2000 – 2027 |
+| `monsoon_calendar/srilanka_monsoon_calendar.csv` | Monsoon / rough sea / upwelling | by month | 12 | climatology |
+| `seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv` | Depth, slope, trawl flags (water) | 1 arc-min | 162,835 | static |
+| `seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet` | Same grid incl. land | 1 arc-min | 202,501 cells | static |
+| `coral_reefs_avoid/unep_wcmc_coral_reefs_v4_1_srilanka.geojson` | Coral reef polygons | vector | 79 features | static |
+| `species_flags/species_demersal_trawl_flags.csv` | Demersal / trawl-target flags | per species | 1,090 | static |
 
-**Parts:** part 1 (SST, chl, wind, WOA23, moon, …) + part 2 (SLA, currents, SMAP, rainfall, seabed habitat). Full file list: `fish-factors/catalog.csv`.
+Source URLs and licence strings: `fish-factors/catalog.csv`.
 
-**Licences:** NOAA public domain for most CoastWatch products; ESA CCI CC-BY 4.0; UNEP-WCMC reefs non-commercial; FishBase-derived flags CC-BY-NC.
+### 10.2 Common column patterns
+
+| Pattern | Example columns | Files |
+|---------|-----------------|-------|
+| ERDDAP time series | `time`, `latitude`, `longitude`, value | SST, chl, wind, SLA, currents, SMAP |
+| WOA23 climatology | `month`, `lat`, `lon`, depth-level temps/salinity/O₂ | `woa23_*.csv`, MLD |
+| Tabular index | month or species keys + flags | monsoon, climate indices, species_flags |
+| Habitat grid | `lat`, `lon`, `depth_m`, `slope_deg`, `shelf_lt200m`, `trawl_candidate`, … | seabed CSV / Parquet |
+
+**Value columns (selected):** `sea_surface_temperature` (°C), `chlor_a` (mg m⁻³), `windspeed` / `u_wind` / `v_wind`, `x_tau` / `y_tau`, `sla` (m), `u_current` / `v_current` (m s⁻¹), `sss` (PSU).
+
+### 10.3 Gaps and refresh
+
+CoastWatch ERDDAP did not return all months for every product (wind ends ~2025-01; SLA missing ~Apr–Jul 2026; coastal SMAP often NaN). See **Known gaps** in `fish-factors/README.md`. Re-download: `fish-factors/scripts/dl_erddap.py`, gap fill: `fill_gaps.py`.
+
+**Licences:** NOAA public domain (most CoastWatch / WOA); ESA CCI CC-BY 4.0; UNEP-WCMC reefs non-commercial ([doi:10.34892/t2wk-5t34](https://doi.org/10.34892/t2wk-5t34)); FishBase-derived flags CC-BY-NC.
 
 ---
 
