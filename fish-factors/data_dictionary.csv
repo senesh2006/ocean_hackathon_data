@@ -1,0 +1,138 @@
+file_path,column,dtype,description
+sst/crw_sst_monthly_last24m_0.05deg.csv,time,str,
+sst/crw_sst_monthly_last24m_0.05deg.csv,latitude,float64,
+sst/crw_sst_monthly_last24m_0.05deg.csv,longitude,float64,
+sst/crw_sst_monthly_last24m_0.05deg.csv,sea_surface_temperature,float64,SST (C)
+chlorophyll/esa_cci_chla_monthly_last24m_4km.csv,time,str,
+chlorophyll/esa_cci_chla_monthly_last24m_4km.csv,latitude,float64,
+chlorophyll/esa_cci_chla_monthly_last24m_4km.csv,longitude,float64,
+chlorophyll/esa_cci_chla_monthly_last24m_4km.csv,chlor_a,float64,chlorophyll-a (mg m-3)
+wind/blended_winds_monthly_2014_latest.csv,time,str,
+wind/blended_winds_monthly_2014_latest.csv,zlev,float64,
+wind/blended_winds_monthly_2014_latest.csv,latitude,float64,
+wind/blended_winds_monthly_2014_latest.csv,longitude,float64,
+wind/blended_winds_monthly_2014_latest.csv,windspeed,float64,10 m wind speed (m/s)
+wind/blended_winds_monthly_2014_latest.csv,u_wind,float64,eastward wind (m/s)
+wind/blended_winds_monthly_2014_latest.csv,v_wind,float64,northward wind (m/s)
+wind/blended_windstress_monthly_2014_latest.csv,time,str,
+wind/blended_windstress_monthly_2014_latest.csv,zlev,float64,
+wind/blended_windstress_monthly_2014_latest.csv,latitude,float64,
+wind/blended_windstress_monthly_2014_latest.csv,longitude,float64,
+wind/blended_windstress_monthly_2014_latest.csv,x_tau,float64,eastward wind stress (N/m2)
+wind/blended_windstress_monthly_2014_latest.csv,y_tau,float64,northward wind stress (N/m2)
+sea_level_eddies/sla_daily_last24m.csv,time,str,
+sea_level_eddies/sla_daily_last24m.csv,latitude,float64,
+sea_level_eddies/sla_daily_last24m.csv,longitude,float64,
+sea_level_eddies/sla_daily_last24m.csv,sla,float64,"sea level anomaly (m); +ve = anticyclonic/warm eddy, -ve = cyclonic/upwelling"
+currents/surface_currents_daily_last24m.csv,time,str,
+currents/surface_currents_daily_last24m.csv,latitude,float64,
+currents/surface_currents_daily_last24m.csv,longitude,float64,
+currents/surface_currents_daily_last24m.csv,u_current,float64,eastward surface current (m/s)
+currents/surface_currents_daily_last24m.csv,v_current,float64,northward surface current (m/s)
+salinity_surface/smap_sss_daily_last24m.csv,time,str,
+salinity_surface/smap_sss_daily_last24m.csv,altitude,float64,
+salinity_surface/smap_sss_daily_last24m.csv,latitude,float64,
+salinity_surface/smap_sss_daily_last24m.csv,longitude,float64,
+salinity_surface/smap_sss_daily_last24m.csv,sss,float64,sea surface salinity (PSU)
+bottom_temp_salinity_oxygen_woa23/woa23_temperature_monthly_clim_0.25deg.csv,month,int64,
+bottom_temp_salinity_oxygen_woa23/woa23_temperature_monthly_clim_0.25deg.csv,lat,float64,
+bottom_temp_salinity_oxygen_woa23/woa23_temperature_monthly_clim_0.25deg.csv,lon,float64,
+bottom_temp_salinity_oxygen_woa23/woa23_temperature_monthly_clim_0.25deg.csv,deepest_level_m,float64,deepest WOA standard level with data (~ seabed depth on shelf)
+bottom_temp_salinity_oxygen_woa23/woa23_temperature_monthly_clim_0.25deg.csv,t_bottom,float64,near-bottom temperature (C)
+bottom_temp_salinity_oxygen_woa23/woa23_temperature_monthly_clim_0.25deg.csv,t_0m,float64,near-bottom temperature (C)
+bottom_temp_salinity_oxygen_woa23/woa23_temperature_monthly_clim_0.25deg.csv,t_50m,float64,near-bottom temperature (C)
+bottom_temp_salinity_oxygen_woa23/woa23_temperature_monthly_clim_0.25deg.csv,t_100m,float64,near-bottom temperature (C)
+bottom_temp_salinity_oxygen_woa23/woa23_temperature_monthly_clim_0.25deg.csv,t_200m,float64,near-bottom temperature (C)
+bottom_temp_salinity_oxygen_woa23/woa23_temperature_monthly_clim_0.25deg.csv,mld_t0.5_m,float64,"mixed layer depth (m), first depth with T < T_surface - 0.5 C"
+bottom_temp_salinity_oxygen_woa23/woa23_salinity_monthly_clim_0.25deg.csv,month,int64,
+bottom_temp_salinity_oxygen_woa23/woa23_salinity_monthly_clim_0.25deg.csv,lat,float64,
+bottom_temp_salinity_oxygen_woa23/woa23_salinity_monthly_clim_0.25deg.csv,lon,float64,
+bottom_temp_salinity_oxygen_woa23/woa23_salinity_monthly_clim_0.25deg.csv,deepest_level_m,float64,deepest WOA standard level with data (~ seabed depth on shelf)
+bottom_temp_salinity_oxygen_woa23/woa23_salinity_monthly_clim_0.25deg.csv,s_bottom,float64,near-bottom salinity (PSU)
+bottom_temp_salinity_oxygen_woa23/woa23_salinity_monthly_clim_0.25deg.csv,s_0m,float64,near-bottom salinity (PSU)
+bottom_temp_salinity_oxygen_woa23/woa23_salinity_monthly_clim_0.25deg.csv,s_50m,float64,near-bottom salinity (PSU)
+bottom_temp_salinity_oxygen_woa23/woa23_salinity_monthly_clim_0.25deg.csv,s_100m,float64,near-bottom salinity (PSU)
+bottom_temp_salinity_oxygen_woa23/woa23_salinity_monthly_clim_0.25deg.csv,s_200m,float64,near-bottom salinity (PSU)
+bottom_temp_salinity_oxygen_woa23/woa23_oxygen_monthly_clim_1.00deg.csv,month,int64,
+bottom_temp_salinity_oxygen_woa23/woa23_oxygen_monthly_clim_1.00deg.csv,lat,float64,
+bottom_temp_salinity_oxygen_woa23/woa23_oxygen_monthly_clim_1.00deg.csv,lon,float64,
+bottom_temp_salinity_oxygen_woa23/woa23_oxygen_monthly_clim_1.00deg.csv,deepest_level_m,float64,deepest WOA standard level with data (~ seabed depth on shelf)
+bottom_temp_salinity_oxygen_woa23/woa23_oxygen_monthly_clim_1.00deg.csv,o_bottom,float64,near-bottom dissolved oxygen (umol/kg)
+bottom_temp_salinity_oxygen_woa23/woa23_oxygen_monthly_clim_1.00deg.csv,o_0m,float64,near-bottom dissolved oxygen (umol/kg)
+bottom_temp_salinity_oxygen_woa23/woa23_oxygen_monthly_clim_1.00deg.csv,o_50m,float64,near-bottom dissolved oxygen (umol/kg)
+bottom_temp_salinity_oxygen_woa23/woa23_oxygen_monthly_clim_1.00deg.csv,o_100m,float64,near-bottom dissolved oxygen (umol/kg)
+bottom_temp_salinity_oxygen_woa23/woa23_oxygen_monthly_clim_1.00deg.csv,o_200m,float64,near-bottom dissolved oxygen (umol/kg)
+mixed_layer_depth/mld_from_woa23_temperature_monthly_clim_0.25deg.csv,month,int64,
+mixed_layer_depth/mld_from_woa23_temperature_monthly_clim_0.25deg.csv,lat,float64,
+mixed_layer_depth/mld_from_woa23_temperature_monthly_clim_0.25deg.csv,lon,float64,
+mixed_layer_depth/mld_from_woa23_temperature_monthly_clim_0.25deg.csv,mld_t0.5_m,float64,"mixed layer depth (m), first depth with T < T_surface - 0.5 C"
+rainfall/chirps_v2_monthly_srilanka_land_0.05deg_2024_latest.csv,lat,float64,
+rainfall/chirps_v2_monthly_srilanka_land_0.05deg_2024_latest.csv,lon,float64,
+rainfall/chirps_v2_monthly_srilanka_land_0.05deg_2024_latest.csv,precip_mm_month,float64,rainfall (mm/month)
+rainfall/chirps_v2_monthly_srilanka_land_0.05deg_2024_latest.csv,date,str,
+rainfall/chirps_island_mean_monthly.csv,date,str,
+rainfall/chirps_island_mean_monthly.csv,island_mean_precip_mm_month,float64,
+rainfall/gpcp_v23_monthly_2.5deg.csv,time,str,
+rainfall/gpcp_v23_monthly_2.5deg.csv,lat,float64,
+rainfall/gpcp_v23_monthly_2.5deg.csv,lon,float64,
+rainfall/gpcp_v23_monthly_2.5deg.csv,precip_mm_day,float64,rainfall (mm/day)
+rainfall/gpcp_monthly_climatology_2.5deg.csv,month,int64,
+rainfall/gpcp_monthly_climatology_2.5deg.csv,lat,float64,
+rainfall/gpcp_monthly_climatology_2.5deg.csv,lon,float64,
+rainfall/gpcp_monthly_climatology_2.5deg.csv,precip_mm_day,float64,rainfall (mm/day)
+climate_indices/dmi_oni_monthly.csv,year,int64,
+climate_indices/dmi_oni_monthly.csv,month,int64,
+climate_indices/dmi_oni_monthly.csv,dmi,float64,Dipole Mode Index (C); >=0.4 positive IOD
+climate_indices/dmi_oni_monthly.csv,oni_season,float64,Oceanic Nino Index (C); >=0.5 El Nino
+climate_indices/dmi_oni_monthly.csv,oni,float64,Oceanic Nino Index (C); >=0.5 El Nino
+climate_indices/dmi_oni_monthly.csv,iod_phase,str,
+climate_indices/dmi_oni_monthly.csv,enso_phase,float64,
+moon_phase/moon_daily_2000_2027_colombo_midnight.csv,date,str,
+moon_phase/moon_daily_2000_2027_colombo_midnight.csv,illumination_frac,float64,fraction of the moon lit (0-1)
+moon_phase/moon_daily_2000_2027_colombo_midnight.csv,moon_age_days,float64,days since new moon
+moon_phase/moon_daily_2000_2027_colombo_midnight.csv,phase_angle_sin,float64,
+moon_phase/moon_daily_2000_2027_colombo_midnight.csv,phase_angle_cos,float64,
+moon_phase/moon_daily_2000_2027_colombo_midnight.csv,phase_name,str,
+monsoon_calendar/srilanka_monsoon_calendar.csv,month,int64,
+monsoon_calendar/srilanka_monsoon_calendar.csv,season,str,
+monsoon_calendar/srilanka_monsoon_calendar.csv,sw_coast_rough_sea,int64,
+monsoon_calendar/srilanka_monsoon_calendar.csv,east_coast_rough_sea,int64,
+monsoon_calendar/srilanka_monsoon_calendar.csv,upwelling_south_coast_strength,int64,
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv,lat,float64,
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv,lon,float64,
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv,elev_m,float64,
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv,slope_deg,float64,seabed slope (degrees)
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv,depth_m,float64,"seabed depth (m, positive down)"
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv,is_water,int64,FishBase DemersPelag is demersal / reef / bathydemersal / benthopelagic
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv,shelf_lt200m,int64,1 = water shallower than 200 m
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv,trawlable_depth_10_200m,int64,1 = 10-200 m depth
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv,upper_slope_200_1000m,int64,1 = 200-1000 m depth
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv,coral_reef,int64,1 = within ~1 km of mapped coral reef
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv,trawl_candidate,int64,1 = 10-200 m and not reef
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet,lat,float64,
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet,lon,float64,
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet,elev_m,float64,
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet,slope_deg,float64,seabed slope (degrees)
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet,depth_m,float64,"seabed depth (m, positive down)"
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet,is_water,int64,FishBase DemersPelag is demersal / reef / bathydemersal / benthopelagic
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet,shelf_lt200m,int64,1 = water shallower than 200 m
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet,trawlable_depth_10_200m,int64,1 = 10-200 m depth
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet,upper_slope_200_1000m,int64,1 = 200-1000 m depth
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet,coral_reef,int64,1 = within ~1 km of mapped coral reef
+seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet,trawl_candidate,int64,1 = 10-200 m and not reef
+species_flags/species_demersal_trawl_flags.csv,scientific_name,str,
+species_flags/species_demersal_trawl_flags.csv,family,str,
+species_flags/species_demersal_trawl_flags.csv,record_count,int64,
+species_flags/species_demersal_trawl_flags.csv,FBname,float64,
+species_flags/species_demersal_trawl_flags.csv,DemersPelag,float64,
+species_flags/species_demersal_trawl_flags.csv,DepthRangeShallow,float64,
+species_flags/species_demersal_trawl_flags.csv,DepthRangeDeep,float64,
+species_flags/species_demersal_trawl_flags.csv,Brack,float64,
+species_flags/species_demersal_trawl_flags.csv,Fresh,float64,
+species_flags/species_demersal_trawl_flags.csv,Status,float64,
+species_flags/species_demersal_trawl_flags.csv,is_demersal_or_reef,int64,FishBase DemersPelag is demersal / reef / bathydemersal / benthopelagic
+species_flags/species_demersal_trawl_flags.csv,is_reef_associated,int64,FishBase DemersPelag is demersal / reef / bathydemersal / benthopelagic
+species_flags/species_demersal_trawl_flags.csv,is_small_pelagic_family,int64,FishBase DemersPelag is demersal / reef / bathydemersal / benthopelagic
+species_flags/species_demersal_trawl_flags.csv,shelf_depth_possible_lt200m,int64,1 = water shallower than 200 m
+species_flags/species_demersal_trawl_flags.csv,trawl_target_likely,int64,"demersal or trawl-typical family, shallow depth limit < 200 m"
+species_flags/species_demersal_trawl_flags.csv,fishbase_matched,int64,

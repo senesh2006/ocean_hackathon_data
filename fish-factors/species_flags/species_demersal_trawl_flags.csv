@@ -1,0 +1,1091 @@
+scientific_name,family,record_count,FBname,DemersPelag,DepthRangeShallow,DepthRangeDeep,Brack,Fresh,Status,is_demersal_or_reef,is_reef_associated,is_small_pelagic_family,shelf_depth_possible_lt200m,trawl_target_likely,fishbase_matched
+Calotes versicolor,Agamidae,877,,,,,,,,0,0,0,0,0,0
+Varanus bengalensis,Varanidae,805,,,,,,,,0,0,0,0,0,0
+Varanus salvator,Varanidae,516,,,,,,,,0,0,0,0,0,0
+Calotes calotes,Agamidae,194,,,,,,,,0,0,0,0,0,0
+Hemidactylus frenatus,Gekkonidae,156,,,,,,,,0,0,0,0,0,0
+Hemidactylus parvimaculatus,Gekkonidae,121,,,,,,,,0,0,0,0,0,0
+Ptyas mucosa,Colubridae,103,,,,,,,,0,0,0,0,0,0
+Sitana ponticeriana,Agamidae,72,,,,,,,,0,0,0,0,0,0
+Acanthurus lineatus,Acanthuridae,57,Lined surgeonfish,reef-associated,0.0,15.0,0.0,0.0,native,1,1,0,1,1,1
+Caranx heberi,Carangidae,54,Blacktip trevally,reef-associated,,,1.0,0.0,native,1,1,1,0,0,1
+Acanthurus triostegus,Acanthuridae,51,Convict surgeonfish,reef-associated,0.0,90.0,0.0,0.0,native,1,1,0,1,1,1
+Eutropis lankae,Scincidae,46,,,,,,,,0,0,0,0,0,0
+Gehyra mutilata,Gekkonidae,46,,,,,,,,0,0,0,0,0,0
+Caranx ignobilis,Carangidae,42,Giant trevally,reef-associated,10.0,188.0,1.0,0.0,native,1,1,1,1,1,1
+Alticus saliens,Blenniidae,42,Leaping blenny,demersal,0.0,2.0,0.0,0.0,native,1,0,0,1,1,1
+Chaetodon decussatus,Chaetodontidae,42,Indian vagabond butterflyfish,reef-associated,1.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Zanclus cornutus,Zanclidae,42,Moorish idol,reef-associated,0.0,182.0,0.0,0.0,native,1,1,0,1,1,1
+Siganus javus,Siganidae,40,Streaked spinefoot,reef-associated,0.0,20.0,1.0,0.0,native,1,1,0,1,1,1
+Abudefduf vaigiensis,Pomacentridae,39,Indo-Pacific sergeant,reef-associated,0.0,15.0,0.0,0.0,native,1,1,0,1,1,1
+Caranx sexfasciatus,Carangidae,37,Bigeye trevally,reef-associated,0.0,146.0,1.0,1.0,native,1,1,1,1,1,1
+Dendrelaphis tristis,Colubridae,36,,,,,,,,0,0,0,0,0,0
+Diodon hystrix,Diodontidae,33,,,,,,,,0,0,0,0,0,0
+Riopa punctata,Scincidae,32,,,,,,,,0,0,0,0,0,0
+Hemidactylus leschenaultii,Gekkonidae,32,,,,,,,,0,0,0,0,0,0
+Pterois miles,Scorpaenidae,31,Devil firefish,reef-associated,0.0,85.0,0.0,0.0,native,1,1,0,1,1,1
+Pomacanthus semicirculatus,Pomacanthidae,31,Semicircle angelfish,reef-associated,1.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Caranx tille,Carangidae,31,Tille trevally,reef-associated,30.0,120.0,0.0,0.0,native,1,1,1,1,1,1
+Python molurus,Pythonidae,30,,,,,,,,0,0,0,0,0,0
+Ahaetulla nasuta,Colubridae,27,,,,,,,,0,0,0,0,0,0
+Naja naja,Elapidae,26,,,,,,,,0,0,0,0,0,0
+Fowlea asperrimus,Colubridae,26,,,,,,,,0,0,0,0,0,0
+Plectorhinchus vittatus,Haemulidae,25,Indian Ocean oriental sweetlips,reef-associated,2.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Acanthurus leucosternon,Acanthuridae,25,Powderblue surgeonfish,reef-associated,0.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Abudefduf septemfasciatus,Pomacentridae,24,Banded sergeant,reef-associated,0.0,20.0,0.0,0.0,native,1,1,0,1,1,1
+Abudefduf sordidus,Pomacentridae,24,Blackspot sergeant,reef-associated,0.0,3.0,1.0,0.0,native,1,1,0,1,1,1
+Monodactylus argenteus,Monodactylidae,23,Silver moony,pelagic-neritic,0.0,12.0,1.0,1.0,native,0,0,0,1,0,1
+Eutropis madaraszi,Scincidae,23,,,,,,,,0,0,0,0,0,0
+Balistapus undulatus,Balistidae,22,Orange-lined triggerfish,reef-associated,0.0,60.0,0.0,0.0,native,1,1,0,1,1,1
+Rhinecanthus aculeatus,Balistidae,22,White-banded triggerfish,reef-associated,0.0,50.0,0.0,0.0,native,1,1,0,1,1,1
+Lethrinus harak,Lethrinidae,21,Thumbprint emperor,reef-associated,0.0,20.0,1.0,0.0,native,1,1,0,1,1,1
+Gnathanodon speciosus,Carangidae,21,Golden trevally,reef-associated,0.0,80.0,0.0,0.0,native,1,1,1,1,1,1
+Lycodon fasciolatus,Colubridae,21,,,,,,,,0,0,0,0,0,0
+Scarus ghobban,Scaridae,21,Blue-barred parrotfish,reef-associated,1.0,90.0,1.0,0.0,native,1,1,0,1,1,1
+Arothron immaculatus,Tetraodontidae,20,Immaculate puffer,reef-associated,3.0,30.0,1.0,0.0,native,1,1,0,1,1,1
+Caranx melampygus,Carangidae,19,Bluefin trevally,reef-associated,0.0,190.0,1.0,0.0,native,1,1,1,1,1,1
+Echidna nebulosa,Muraenidae,19,Starry moray,reef-associated,0.0,48.0,0.0,0.0,native,1,1,0,1,1,1
+Echis carinatus,Viperidae,19,,,,,,,,0,0,0,0,0,0
+Alectis indica,Carangidae,18,,,,,,,,0,0,1,0,0,0
+Diodon holocanthus,Diodontidae,18,Longspined porcupinefish,reef-associated,2.0,200.0,0.0,0.0,native,1,1,0,1,1,1
+Pomacanthus annularis,Pomacanthidae,18,Bluering angelfish,reef-associated,1.0,60.0,0.0,0.0,native,1,1,0,1,1,1
+Thalassoma lunare,Labridae,17,Moon wrasse,reef-associated,1.0,20.0,0.0,0.0,native,1,1,0,1,1,1
+Cerberus rynchops,Homalopsidae,17,,,,,,,,0,0,0,0,0,0
+Daboia russelii,Viperidae,17,,,,,,,,0,0,0,0,0,0
+Lepidodactylus lugubris,Gekkonidae,17,,,,,,,,0,0,0,0,0,0
+Chaetodon trifasciatus,Chaetodontidae,17,Melon butterflyfish,reef-associated,,30.0,0.0,0.0,native,1,1,0,0,0,1
+Megalaspis cordyla,Carangidae,16,Torpedo scad,reef-associated,20.0,100.0,1.0,0.0,native,1,1,1,1,1,1
+Lankascincus fallax,Scincidae,16,,,,,,,,0,0,0,0,0,0
+Terapon jarbua,Terapontidae,16,Jarbua terapon,demersal,20.0,350.0,1.0,1.0,native,1,0,0,1,1,1
+Hemidactylus platyurus,Gekkonidae,16,,,,,,,,0,0,0,0,0,0
+Ostracion meleagris,Ostraciidae,16,Whitespotted boxfish,reef-associated,0.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Acanthurus xanthopterus,Acanthuridae,16,Yellowfin surgeonfish,reef-associated,1.0,100.0,0.0,0.0,native,1,1,0,1,1,1
+Rhinecanthus rectangulus,Balistidae,15,,,,,,,,0,0,0,0,0,0
+Coris formosa,Labridae,15,Queen coris,reef-associated,,20.0,0.0,0.0,native,1,1,0,0,0,1
+Balistoides viridescens,Balistidae,15,Titan triggerfish,reef-associated,0.0,60.0,0.0,0.0,native,1,1,0,1,1,1
+Thalassoma hardwicke,Labridae,14,Sixbar wrasse,reef-associated,0.0,15.0,0.0,0.0,native,1,1,0,1,1,1
+Indotyphlops braminus,Typhlopidae,14,,,,,,,,0,0,0,0,0,0
+Cephalopholis formosa,Epinephelidae,14,Bluelined hind,reef-associated,1.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Cheilinus chlorourus,Labridae,14,Floral wrasse,reef-associated,1.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Atule mate,Carangidae,14,Yellowtail scad,reef-associated,1.0,80.0,1.0,0.0,native,1,1,1,1,1,1
+Entomacrodus vermiculatus,Blenniidae,14,,,,,,,,0,0,0,0,0,0
+Ferdauia ferdau,Carangidae,14,Blue trevally,reef-associated,0.0,60.0,1.0,0.0,native,1,1,1,1,1,1
+Odonus niger,Balistidae,14,Red-toothed triggerfish,reef-associated,5.0,110.0,0.0,0.0,native,1,1,0,1,1,1
+Hemidactylus triedrus,Gekkonidae,14,,,,,,,,0,0,0,0,0,0
+Epinephelus faveatus,Epinephelidae,13,Barred-chest grouper,reef-associated,1.0,125.0,0.0,0.0,native,1,1,0,1,1,1
+Hemigymnus fasciatus,Labridae,13,Barred thicklip,reef-associated,0.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Amphiesma stolatum,Colubridae,13,,,,,,,,0,0,0,0,0,0
+Hemidactylus depressus,Gekkonidae,13,,,,,,,,0,0,0,0,0,0
+Boleophthalmus boddarti,Gobiidae,13,,,,,,,,0,0,0,0,0,0
+Lutjanus fulviflamma,Lutjanidae,13,Dory snapper,reef-associated,3.0,35.0,1.0,0.0,native,1,1,0,1,1,1
+Ostorhinchus cookii,Apogonidae,12,,,,,,,,0,0,0,0,0,0
+Thalassoma jansenii,Labridae,12,Jansen's wrasse,reef-associated,1.0,15.0,0.0,0.0,native,1,1,0,1,1,1
+Pomacanthus imperator,Pomacanthidae,12,Emperor angelfish,reef-associated,1.0,100.0,0.0,0.0,native,1,1,0,1,1,1
+Ecsenius bicolor,Blenniidae,12,Bicolor blenny,reef-associated,1.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Lactoria cornuta,Ostraciidae,12,Longhorn cowfish,reef-associated,1.0,100.0,1.0,0.0,native,1,1,0,1,1,1
+Sitana devakai,Agamidae,12,,,,,,,,0,0,0,0,0,0
+Rhinophis punctatus,Uropeltidae,12,,,,,,,,0,0,0,0,0,0
+Scomberoides lysan,Carangidae,12,Doublespotted queenfish,reef-associated,0.0,100.0,1.0,0.0,native,1,1,1,1,1,1
+Selar crumenophthalmus,Carangidae,12,Bigeye scad,reef-associated,0.0,170.0,0.0,0.0,native,1,1,1,1,1,1
+Craspedocephalus macrolepis,Viperidae,12,,,,,,,,0,0,0,0,0,0
+Sargocentron rubrum,Holocentridae,12,Redcoat,reef-associated,1.0,84.0,0.0,0.0,native,1,1,0,1,1,1
+Istigobius ornatus,Gobiidae,12,Ornate goby,reef-associated,0.0,5.0,1.0,0.0,native,1,1,0,1,1,1
+Dascyllus trimaculatus,Pomacentridae,12,Threespot dascyllus,reef-associated,0.0,55.0,0.0,0.0,native,1,1,0,1,1,1
+Cyttopsis rosea,Parazenidae,12,,,,,,,,0,0,0,0,0,0
+Melichthys indicus,Balistidae,12,,,,,,,,0,0,0,0,0,0
+Gymnothorax favagineus,Muraenidae,12,Laced moray,reef-associated,1.0,50.0,1.0,0.0,native,1,1,0,1,1,1
+Alepes djedaba,Carangidae,11,Shrimp scad,reef-associated,,,0.0,0.0,native,1,1,1,0,0,1
+Otolithes ruber,Sciaenidae,11,Tigertooth croaker,benthopelagic,10.0,50.0,1.0,0.0,native,1,0,0,1,1,1
+Hypnale hypnale,Viperidae,11,,,,,,,,0,0,0,0,0,0
+Apolemichthys xanthurus,Pomacanthidae,11,Yellowtail angelfish,reef-associated,5.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Otocryptis wiegmanni,Agamidae,11,,,,,,,,0,0,0,0,0,0
+Sitana marudhamneydhal,Agamidae,11,,,,,,,,0,0,0,0,0,0
+Coloconger raniceps,Colocongridae,11,,,,,,,,0,0,0,0,0,0
+Ctenochaetus striatus,Acanthuridae,11,Striated surgeonfish,reef-associated,0.0,60.0,0.0,0.0,native,1,1,0,1,1,1
+Parupeneus indicus,Mullidae,10,Indian goatfish,reef-associated,10.0,30.0,1.0,0.0,native,1,1,0,1,1,1
+Thunnus albacares,Scombridae,10,Yellowfin tuna,pelagic-oceanic,1.0,1602.0,1.0,0.0,native,0,0,1,1,0,1
+Oligodon taeniolatus,Colubridae,10,,,,,,,,0,0,0,0,0,0
+Epinephelus coioides,Epinephelidae,10,Orange-spotted grouper,reef-associated,1.0,100.0,1.0,0.0,native,1,1,0,1,1,1
+Katsuwonus pelamis,Scombridae,10,Skipjack tuna,pelagic-oceanic,0.0,260.0,0.0,0.0,native,0,0,1,1,0,1
+Rastrelliger kanagurta,Scombridae,10,Indian mackerel,pelagic-neritic,20.0,90.0,0.0,0.0,native,0,0,1,1,0,1
+Chaetodon collare,Chaetodontidae,10,Redtail butterflyfish,reef-associated,1.0,20.0,0.0,0.0,native,1,1,0,1,1,1
+Cephalopholis argus,Epinephelidae,10,Peacock hind,reef-associated,0.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Myripristis murdjan,Holocentridae,10,Pinecone soldierfish,reef-associated,1.0,50.0,0.0,0.0,native,1,1,0,1,1,1
+Sardinella longiceps,Dorosomatidae,10,Indian oil sardine,pelagic-neritic,20.0,200.0,0.0,0.0,native,0,0,1,1,0,1
+Cephalopholis sonnerati,Epinephelidae,10,Tomato hind,reef-associated,10.0,150.0,0.0,0.0,native,1,1,0,1,1,1
+Chlorophthalmus corniger,Chlorophthalmidae,10,,,,,,,,0,0,0,0,0,0
+Scatophagus argus,Scatophagidae,10,Spotted scat,demersal,0.0,5.0,1.0,1.0,native,1,0,0,1,1,1
+Lutjanus decussatus,Lutjanidae,10,Checkered snapper,reef-associated,0.0,50.0,0.0,0.0,native,1,1,0,1,1,1
+Beryx splendens,Berycidae,9,,,,,,,,0,0,0,0,0,0
+Chaetodon vagabundus,Chaetodontidae,9,Vagabond butterflyfish,reef-associated,0.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Chlorurus rhakoura,Scaridae,9,Raggedfin parrotfish,reef-associated,1.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Atretium schistosum,Colubridae,9,,,,,,,,0,0,0,0,0,0
+Ahaetulla oxyrhyncha,Colubridae,9,,,,,,,,0,0,0,0,0,0
+Scarus rubroviolaceus,Scaridae,9,,,,,,,,0,0,0,0,0,0
+Epinephelus merra,Epinephelidae,9,Honeycomb grouper,reef-associated,0.0,50.0,0.0,0.0,native,1,1,0,1,1,1
+Gymnothorax javanicus,Muraenidae,9,Giant moray,reef-associated,0.0,50.0,0.0,0.0,native,1,1,0,1,1,1
+Pterois mombasae,Scorpaenidae,9,Frillfin turkeyfish,reef-associated,10.0,70.0,0.0,0.0,native,1,1,0,1,1,1
+Siganus insomnis,Siganidae,9,Bronze-lined rabbitfish.,reef-associated,,,0.0,0.0,native,1,1,0,0,0,1
+Pycnocraspedum squamipinne,Ophidiidae,9,,,,,,,,0,0,0,0,0,0
+Hoplostethus rubellopterus,Trachichthyidae,9,,,,,,,,0,0,0,0,0,0
+Eutropis carinata,Scincidae,9,,,,,,,,0,0,0,0,0,0
+Pomacentrus similis,Pomacentridae,9,Similar damsel,reef-associated,2.0,15.0,0.0,0.0,native,1,1,0,1,1,1
+Platycaranx chrysophrys,Carangidae,9,Longnose trevally,reef-associated,10.0,90.0,1.0,0.0,native,1,1,1,1,1,1
+Plotosus lineatus,Plotosidae,9,Striped eel catfish,reef-associated,1.0,60.0,1.0,0.0,native,1,1,0,1,1,1
+Eryx conicus,Boidae,9,,,,,,,,0,0,0,0,0,0
+Halichoeres timorensis,Labridae,9,Timor wrasse,reef-associated,5.0,15.0,0.0,0.0,native,1,1,0,1,1,1
+Tetrosomus gibbosus,Ostraciidae,8,,,,,,,,0,0,0,0,0,0
+Arothron hispidus,Tetraodontidae,8,White-spotted puffer,reef-associated,1.0,50.0,1.0,0.0,native,1,1,0,1,1,1
+Boiga trigonata,Colubridae,8,,,,,,,,0,0,0,0,0,0
+Chaetodon auriga,Chaetodontidae,8,Threadfin butterflyfish,reef-associated,0.0,60.0,0.0,0.0,native,1,1,0,1,1,1
+Hydrophis schistosus,Elapidae,8,,,,,,,,0,0,0,0,0,0
+Chrysiptera brownriggii,Pomacentridae,8,Surge damselfish,reef-associated,0.0,12.0,0.0,0.0,native,1,1,0,1,1,1
+Labroides dimidiatus,Labridae,8,Bluestreak cleaner wrasse,reef-associated,0.0,100.0,0.0,0.0,native,1,1,0,1,1,1
+Gymnothorax pictus,Muraenidae,8,,,,,,,,0,0,0,0,0,0
+Gomphosus caeruleus,Labridae,8,,,,,,,,0,0,0,0,0,0
+Lutjanus rivulatus,Lutjanidae,8,Blubberlip snapper,reef-associated,3.0,150.0,0.0,0.0,native,1,1,0,1,1,1
+Apogon coccineus,Apogonidae,8,,,,,,,,0,0,0,0,0,0
+Oligodon arnensis,Colubridae,8,,,,,,,,0,0,0,0,0,0
+Heniochus acuminatus,Chaetodontidae,8,Pennant coralfish,reef-associated,2.0,178.0,1.0,0.0,native,1,1,0,1,1,1
+Gymnothorax thyrsoideus,Muraenidae,8,,,,,,,,0,0,0,0,0,0
+Atropus mentalis,Carangidae,8,Longrakered trevally,reef-associated,,,0.0,0.0,native,1,1,1,0,0,1
+Sillago sihama,Sillaginidae,8,Silver sillago,reef-associated,0.0,60.0,1.0,0.0,native,1,1,0,1,1,1
+Stethojulis interrupta,Labridae,8,,,,,,,,0,0,0,0,0,0
+Physiculus roseus,Moridae,8,,,,,,,,0,0,0,0,0,0
+Draco dussumieri,Agamidae,8,,,,,,,,0,0,0,0,0,0
+Istiblennius lineatus,Blenniidae,8,Lined rockskipper,reef-associated,0.0,3.0,0.0,0.0,native,1,1,0,1,1,1
+Carangoides praeustus,Carangidae,8,Brownback trevally,demersal,,,0.0,0.0,native,1,0,1,0,0,1
+Helcogramma striata,Tripterygiidae,8,Tropical striped triplefin,reef-associated,0.0,30.0,0.0,0.0,questionable,1,1,0,1,1,1
+Pseudanthias squamipinnis,Anthiadidae,7,,,,,,,,0,0,0,0,0,0
+Sibynophis subpunctatus,Colubridae,7,,,,,,,,0,0,0,0,0,0
+Bungarus caeruleus,Elapidae,7,,,,,,,,0,0,0,0,0,0
+Lethrinus lentjan,Lethrinidae,7,Pink ear emperor,reef-associated,10.0,90.0,1.0,0.0,native,1,1,0,1,1,1
+Scolopsis bimaculata,Nemipteridae,7,Thumbprint monocle bream,reef-associated,,60.0,0.0,0.0,native,1,1,0,0,0,1
+Alectis ciliaris,Carangidae,7,African pompano,reef-associated,60.0,100.0,0.0,0.0,native,1,1,1,1,1,1
+Halimochirurgus centriscoides,Triacanthodidae,7,,,,,,,,0,0,0,0,0,0
+Arothron stellatus,Tetraodontidae,7,Stellate puffer,reef-associated,3.0,58.0,1.0,0.0,native,1,1,0,1,1,1
+Scolopsis vosmeri,Nemipteridae,7,Whitecheek monocle bream,reef-associated,2.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Dactyloptena orientalis,Dactylopteridae,7,,,,,,,,0,0,0,0,0,0
+Lates calcarifer,Latidae,7,Barramundi,demersal,10.0,40.0,1.0,1.0,native,1,0,0,1,1,1
+Chaetodon lunula,Chaetodontidae,7,Raccoon butterflyfish,reef-associated,0.0,170.0,0.0,0.0,native,1,1,0,1,1,1
+Platax teira,Ephippidae,7,Longfin batfish,reef-associated,3.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Gavialiceps taeniola,Muraenesocidae,7,,,,,,,,0,0,0,0,0,0
+Acrochordus granulatus,Acrochordidae,7,,,,,,,,0,0,0,0,0,0
+Lutjanus fulvus,Lutjanidae,7,Blacktail snapper,reef-associated,1.0,80.0,1.0,1.0,native,1,1,0,1,1,1
+Pseudochromis tapeinosoma,Pseudochromidae,7,,,,,,,,0,0,0,0,0,0
+Lycodon aulicus,Colubridae,7,,,,,,,,0,0,0,0,0,0
+Lutjanus lutjanus,Lutjanidae,7,Bigeye snapper,reef-associated,0.0,96.0,0.0,0.0,native,1,1,0,1,1,1
+Psettodes erumei,Psettodidae,7,Indian halibut,demersal,1.0,100.0,0.0,0.0,native,1,0,0,1,1,1
+Tylosurus crocodilus,Belonidae,7,,,,,,,,0,0,0,0,0,0
+Chascanopsetta lugubris,Bothidae,6,Pelican flounder,bathydemersal,60.0,3210.0,0.0,0.0,native,1,0,0,1,1,1
+Hemiramphus far,Hemiramphidae,6,,,,,,,,0,0,0,0,0,0
+Acanthocybium solandri,Scombridae,6,Wahoo,pelagic-oceanic,0.0,20.0,0.0,0.0,native,0,0,1,1,0,1
+Acanthurus mata,Acanthuridae,6,Elongate surgeonfish,reef-associated,5.0,100.0,0.0,0.0,native,1,1,0,1,1,1
+Parapercis alboguttata,Pinguipedidae,6,,,,,,,,0,0,0,0,0,0
+Halichoeres hortulanus,Labridae,6,Checkerboard wrasse,reef-associated,0.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Euthynnus affinis,Scombridae,6,Kawakawa,pelagic-neritic,0.0,200.0,0.0,0.0,native,0,0,1,1,0,1
+Stethojulis trilineata,Labridae,6,,,,,,,,0,0,0,0,0,0
+Gymnothorax reticularis,Muraenidae,6,,,,,,,,0,0,0,0,0,0
+Cirrhitichthys oxycephalus,Cirrhitidae,6,,,,,,,,0,0,0,0,0,0
+Chaetodon citrinellus,Chaetodontidae,6,Speckled butterflyfish,reef-associated,0.0,36.0,0.0,0.0,native,1,1,0,1,1,1
+Ablennes hians,Belonidae,6,,,,,,,,0,0,0,0,0,0
+Hydrophis spiralis,Elapidae,6,,,,,,,,0,0,0,0,0,0
+Epinephelus malabaricus,Epinephelidae,6,Malabar grouper,reef-associated,0.0,150.0,1.0,0.0,native,1,1,0,1,1,1
+Naso elegans,Acanthuridae,6,Elegant unicornfish,reef-associated,5.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Scorpaenopsis venosa,Scorpaenidae,6,,,,,,,,0,0,0,0,0,0
+Fistularia commersonii,Fistulariidae,6,,,,,,,,0,0,0,0,0,0
+Hydrophis curtus,Elapidae,6,,,,,,,,0,0,0,0,0,0
+Selaroides leptolepis,Carangidae,6,Yellowstripe scad,reef-associated,1.0,50.0,1.0,0.0,native,1,1,1,1,1,1
+Scomberoides tala,Carangidae,6,Barred queenfish,reef-associated,10.0,13.0,0.0,0.0,native,1,1,1,1,1,1
+Scomberoides commersonnianus,Carangidae,6,Talang queenfish,reef-associated,,50.0,1.0,0.0,native,1,1,1,0,0,1
+Fowlea piscator,Colubridae,6,,,,,,,,0,0,0,0,0,0
+Uranoscopus marmoratus,Uranoscopidae,6,,,,,,,,0,0,0,0,0,0
+Halichoeres nigrescens,Labridae,6,Bubblefin wrasse,reef-associated,3.0,10.0,0.0,0.0,native,1,1,0,1,1,1
+Amphiprion clarkii,Pomacentridae,6,Yellowtail clownfish,reef-associated,1.0,70.0,0.0,0.0,native,1,1,0,1,1,1
+Pterois russelii,Scorpaenidae,6,Plaintail turkeyfish,reef-associated,15.0,60.0,1.0,0.0,native,1,1,0,1,1,1
+Bembrops caudimacula,Bembropidae,6,,,,,,,,0,0,0,0,0,0
+Canthidermis maculata,Balistidae,6,,,,,,,,0,0,0,0,0,0
+Macrocephenchelys sumodi,Congridae,6,,,,,,,,0,0,0,0,0,0
+Istigobius spence,Gobiidae,6,Pearl goby,reef-associated,1.0,12.0,1.0,0.0,native,1,1,0,1,1,1
+Sufflamen fraenatum,Balistidae,6,,,,,,,,0,0,0,0,0,0
+Alepocephalus bicolor,Alepocephalidae,6,,,,,,,,0,0,0,0,0,0
+Lutjanus lunulatus,Lutjanidae,6,Lunartail snapper,reef-associated,10.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Chlorurus sordidus,Scaridae,5,,,,,,,,0,0,0,0,0,0
+Stomias affinis,Stomiidae,5,,,,,,,,0,0,0,0,0,0
+Terapon puta,Terapontidae,5,,,,,,,,0,0,0,0,0,0
+Sphyraena jello,Sphyraenidae,5,Pickhandle barracuda,reef-associated,20.0,200.0,1.0,0.0,native,1,1,0,1,1,1
+Hemigymnus melapterus,Labridae,5,,,,,,,,0,0,0,0,0,0
+Turrum gymnostethus,Carangidae,5,Bludger,reef-associated,12.0,100.0,0.0,0.0,native,1,1,1,1,1,1
+Sphenomorphus dussumieri,Scincidae,5,,,,,,,,0,0,0,0,0,0
+Halichoeres nebulosus,Labridae,5,Nebulous wrasse,reef-associated,1.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Ahaetulla dispar,Colubridae,5,,,,,,,,0,0,0,0,0,0
+Chelonodontops patoca,Tetraodontidae,5,,,,,,,,0,0,0,0,0,0
+Pristiapogon kallopterus,Apogonidae,5,,,,,,,,0,0,0,0,0,0
+Eutropis tammanna,Scincidae,5,,,,,,,,0,0,0,0,0,0
+Pomacentrus tripunctatus,Pomacentridae,5,Threespot damsel,reef-associated,0.0,3.0,1.0,0.0,native,1,1,0,1,1,1
+Rhinophis dorsimaculatus,Uropeltidae,5,,,,,,,,0,0,0,0,0,0
+Psammophilus blanfordanus,Agamidae,5,,,,,,,,0,0,0,0,0,0
+Scolopsis bilineata,Nemipteridae,5,Two-lined monocle bream,reef-associated,1.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Scomberomorus commerson,Scombridae,5,Narrow-barred Spanish mackerel,pelagic-neritic,10.0,70.0,0.0,0.0,native,0,0,1,1,0,1
+Lethrinus nebulosus,Lethrinidae,5,Spangled emperor,reef-associated,10.0,75.0,1.0,0.0,native,1,1,0,1,1,1
+Lophiodes caulinaris,Lophiidae,5,,,,,,,,0,0,0,0,0,0
+Priacanthus hamrur,Priacanthidae,5,Moontail bullseye,reef-associated,0.0,250.0,0.0,0.0,native,1,1,0,1,1,1
+Gerres oyena,Gerreidae,5,Common silver-biddy,reef-associated,0.0,20.0,1.0,0.0,native,1,1,0,1,1,1
+Pomacentrus trilineatus,Pomacentridae,5,,,,,,,,0,0,0,0,0,0
+Scomberoides tol,Carangidae,5,Needlescaled queenfish,reef-associated,20.0,50.0,1.0,0.0,native,1,1,1,1,1,1
+Cirrhitus pinnulatus,Cirrhitidae,5,Stocky hawkfish,reef-associated,0.0,23.0,0.0,0.0,native,1,1,0,1,1,1
+Saurida lessepsianus,Synodontidae,5,,,,,,,,0,0,0,0,0,0
+Citharichthys platophrys,Paralichthyidae,5,,,,,,,,0,0,0,0,0,0
+Pterygotrigla hemisticta,Triglidae,5,,,,,,,,0,0,0,0,0,0
+Eutropis bibronii,Scincidae,5,,,,,,,,0,0,0,0,0,0
+Ecsenius yaeyamaensis,Blenniidae,5,Yaeyama blenny,reef-associated,0.0,15.0,0.0,0.0,native,1,1,0,1,1,1
+Pseudobalistes flavimarginatus,Balistidae,5,,,,,,,,0,0,0,0,0,0
+Diagramma pictum,Haemulidae,5,Painted sweetlips,reef-associated,1.0,170.0,0.0,0.0,native,1,1,0,1,1,1
+Siganus canaliculatus,Siganidae,5,White-spotted spinefoot,reef-associated,1.0,50.0,1.0,0.0,native,1,1,0,1,1,1
+Monilesaurus ellioti,Agamidae,5,,,,,,,,0,0,0,0,0,0
+Neoepinnula orientalis,Gempylidae,5,,,,,,,,0,0,0,0,0,0
+Istigobius decoratus,Gobiidae,5,Decorated goby,reef-associated,1.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Monolene maculipinna,Bothidae,5,,,,,,,,0,0,0,0,0,0
+Lyriocephalus scutatus,Agamidae,5,,,,,,,,0,0,0,0,0,0
+Mugil cephalus,Mugilidae,5,,,,,,,,0,0,0,0,0,0
+Calotes ceylonensis,Agamidae,5,,,,,,,,0,0,0,0,0,0
+Salea anamallayana,Agamidae,5,,,,,,,,0,0,0,0,0,0
+Oligodon sublineatus,Colubridae,5,,,,,,,,0,0,0,0,0,0
+Neoscopelus microchir,Neoscopelidae,5,,,,,,,,0,0,0,0,0,0
+Netuma bilineata,Ariidae,5,Bronze catfish,demersal,,,1.0,1.0,native,1,0,0,0,0,1
+Neopomacentrus cyanomos,Pomacentridae,5,Regal demoiselle,reef-associated,5.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Diodon liturosus,Diodontidae,5,,,,,,,,0,0,0,0,0,0
+Dendrelaphis schokari,Colubridae,5,,,,,,,,0,0,0,0,0,0
+Diaphus watasei,Myctophidae,5,,,,,,,,0,0,0,0,0,0
+Paracirrhites forsteri,Cirrhitidae,5,Blackside hawkfish,reef-associated,0.0,35.0,0.0,0.0,native,1,1,0,1,1,1
+Parupeneus barberinus,Mullidae,5,Dash-and-dot goatfish,reef-associated,0.0,100.0,0.0,0.0,native,1,1,0,1,1,1
+Pseudochromis dilectus,Pseudochromidae,5,,demersal,,,0.0,0.0,native,1,0,0,0,0,1
+Trachinotus baillonii,Carangidae,5,Small spotted dart,reef-associated,0.0,3.0,1.0,0.0,native,1,1,1,1,1,1
+Lycodon striatus,Colubridae,5,,,,,,,,0,0,0,0,0,0
+Lutjanus lemniscatus,Lutjanidae,5,Yellowstreaked snapper,reef-associated,2.0,80.0,0.0,0.0,native,1,1,0,1,1,1
+Lutjanus quinquelineatus,Lutjanidae,5,Five-lined snapper,reef-associated,2.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Lutjanus bohar,Lutjanidae,5,Two-spot red snapper,reef-associated,0.0,180.0,1.0,1.0,native,1,1,0,1,1,1
+Lutjanus argentimaculatus,Lutjanidae,4,Mangrove red snapper,reef-associated,1.0,120.0,1.0,1.0,native,1,1,0,1,1,1
+Xiphias gladius,Xiphiidae,4,Swordfish,pelagic-oceanic,0.0,2878.0,0.0,0.0,native,0,0,0,1,0,1
+Yongeichthys criniger,Gobiidae,4,,,,,,,,0,0,0,0,0,0
+Lutjanus kasmira,Lutjanidae,4,Common bluestripe snapper,reef-associated,3.0,265.0,0.0,0.0,native,1,1,0,1,1,1
+Strongylura strongylura,Belonidae,4,Spottail needlefish,pelagic-neritic,5.0,25.0,1.0,0.0,native,0,0,0,1,0,1
+Syngnathoides biaculeatus,Syngnathidae,4,,,,,,,,0,0,0,0,0,0
+Lophiodes mutilus,Lophiidae,4,Smooth angler,bathydemersal,234.0,760.0,0.0,0.0,native,1,0,0,0,0,1
+Rhynchostracion nasus,Ostraciidae,4,Shortnose boxfish,reef-associated,2.0,80.0,0.0,0.0,native,1,1,0,1,1,1
+Richardsonichthys leucogaster,Tetrarogidae,4,,,,,,,,0,0,0,0,0,0
+Lophiomus setigerus,Lophiidae,4,,,,,,,,0,0,0,0,0,0
+Trichiurus lepturus,Trichiuridae,4,Largehead hairtail,benthopelagic,0.0,589.0,1.0,0.0,native,1,0,0,1,1,1
+Ostorhinchus cyanosoma,Apogonidae,4,,,,,,,,0,0,0,0,0,0
+Ostracion cubicum,Ostraciidae,4,Yellow boxfish,reef-associated,1.0,280.0,0.0,0.0,native,1,1,0,1,1,1
+Parascombrops pellucidus,Acropomatidae,4,,,,,,,,0,0,0,0,0,0
+Synagrops japonicus,Acropomatidae,4,,,,,,,,0,0,0,0,0,0
+Cynoglossus cynoglossus,Cynoglossidae,4,,,,,,,,0,0,0,0,0,0
+Psenopsis cyanea,Centrolophidae,4,,,,,,,,0,0,0,0,0,0
+Pterocaesio chrysozona,Caesionidae,4,Goldband fusilier,reef-associated,2.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Chaetodon andamanensis,Chaetodontidae,4,Andaman butterflyfish,reef-associated,10.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Cephalopholis miniata,Epinephelidae,4,Coral hind,reef-associated,2.0,150.0,0.0,0.0,native,1,1,0,1,1,1
+Mulloidichthys flavolineatus,Mullidae,4,Yellowstripe goatfish,reef-associated,1.0,99.0,0.0,0.0,native,1,1,0,1,1,1
+Myripristis botche,Holocentridae,4,Blacktip soldierfish,reef-associated,25.0,71.0,0.0,0.0,native,1,1,0,1,1,1
+Naso unicornis,Acanthuridae,4,Bluespine unicornfish,reef-associated,0.0,180.0,0.0,0.0,native,1,1,0,1,1,1
+Nectamia fusca,Apogonidae,4,Ghost cardinalfish,reef-associated,1.0,20.0,0.0,0.0,native,1,1,0,1,1,1
+Nematalosa nasus,Dorosomatidae,4,Bloch's gizzard shad,pelagic-neritic,0.0,30.0,1.0,1.0,native,0,0,1,1,0,1
+Parupeneus macronemus,Mullidae,4,Long-barbel goatfish,reef-associated,3.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Valenciennea sexguttata,Gobiidae,4,Sixspot goby,reef-associated,3.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Halichoeres scapularis,Labridae,4,,,,,,,,0,0,0,0,0,0
+Pomacentrus chrysurus,Pomacentridae,4,Whitetail damsel,reef-associated,0.0,5.0,0.0,0.0,native,1,1,0,1,1,1
+Lethrinus microdon,Lethrinidae,4,Smalltooth emperor,reef-associated,10.0,200.0,0.0,0.0,native,1,1,0,1,1,1
+Naso lituratus,Acanthuridae,4,,,,,,,,0,0,0,0,0,0
+Chrysiptera glauca,Pomacentridae,4,Grey demoiselle,reef-associated,0.0,3.0,0.0,0.0,native,1,1,0,1,1,1
+Chrysopelea taprobanica,Colubridae,4,,,,,,,,0,0,0,0,0,0
+Rachycentron canadum,Rachycentridae,4,Cobia,reef-associated,0.0,1200.0,1.0,0.0,native,1,1,0,1,1,1
+Doryrhamphus excisus,Syngnathidae,4,,,,,,,,0,0,0,0,0,0
+Ratabulus tuberculatus,Platycephalidae,4,,,,,,,,0,0,0,0,0,0
+Hydrophis platurus,Elapidae,4,,,,,,,,0,0,0,0,0,0
+Entomacrodus striatus,Blenniidae,4,,,,,,,,0,0,0,0,0,0
+Epinephelus coeruleopunctatus,Epinephelidae,4,Whitespotted grouper,reef-associated,2.0,65.0,0.0,0.0,native,1,1,0,1,1,1
+Mimoblennius atrocinctus,Blenniidae,4,Spotted and barred blenny,reef-associated,2.0,10.0,0.0,0.0,native,1,1,0,1,1,1
+Scarus prasiognathos,Scaridae,4,,,,,,,,0,0,0,0,0,0
+Coelognathus helena,Colubridae,4,,,,,,,,0,0,0,0,0,0
+Satyrichthys laticeps,Peristediidae,4,,demersal,58.0,300.0,0.0,0.0,native,1,0,0,1,1,1
+Drepane longimana,Drepaneidae,4,,,,,,,,0,0,0,0,0,0
+Echeneis naucrates,Echeneidae,4,Live sharksucker,reef-associated,1.0,85.0,1.0,0.0,native,1,1,0,1,1,1
+Kyphosus cinerascens,Kyphosidae,4,,,,,,,,0,0,0,0,0,0
+Decapterus russelli,Carangidae,4,Indian scad,benthopelagic,40.0,275.0,0.0,0.0,native,1,0,1,1,1,1
+Coryphaena hippurus,Coryphaenidae,4,Common dolphinfish,pelagic-neritic,0.0,85.0,1.0,0.0,native,0,0,0,1,0,1
+Chaunax multilepis,Chaunacidae,4,,,,,,,,0,0,0,0,0,0
+Hemidactylus hunae,Gekkonidae,4,,,,,,,,0,0,0,0,0,0
+Arothron nigropunctatus,Tetraodontidae,4,Blackspotted puffer,reef-associated,0.0,60.0,0.0,0.0,native,1,1,0,1,1,1
+Hemidactylus brookii,Gekkonidae,4,,,,,,,,0,0,0,0,0,0
+Chirocentrus dorab,Chirocentridae,4,Dorab wolf-herring,reef-associated,0.0,120.0,1.0,0.0,native,1,1,0,1,1,1
+Chanos chanos,Chanidae,4,Milkfish,benthopelagic,1.0,30.0,1.0,1.0,native,1,0,0,1,1,1
+Atropus armatus,Carangidae,4,Longfin trevally,reef-associated,1.0,59.0,1.0,0.0,native,1,1,1,1,1,1
+Bembrops platyrhynchus,Bembropidae,4,,,,,,,,0,0,0,0,0,0
+Boiga ceylonensis,Colubridae,4,,,,,,,,0,0,0,0,0,0
+Turrum coeruleopinnatum,Carangidae,4,Coastal trevally,reef-associated,1.0,60.0,0.0,0.0,native,1,1,1,1,1,1
+Hemidactylus lankae,Gekkonidae,4,,,,,,,,0,0,0,0,0,0
+Amphiprion nigripes,Pomacentridae,4,Maldive anemonefish,reef-associated,2.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Sphyraena putnamae,Sphyraenidae,4,,,,,,,,0,0,0,0,0,0
+Upeneus tragula,Mullidae,4,,,,,,,,0,0,0,0,0,0
+Acanthurus bariene,Acanthuridae,4,Black-spot surgeonfish,reef-associated,6.0,50.0,0.0,0.0,native,1,1,0,1,1,1
+Petroscirtes breviceps,Blenniidae,4,,,,,,,,0,0,0,0,0,0
+Plectroglyphidodon dickii,Pomacentridae,4,,,,,,,,0,0,0,0,0,0
+Fistularia petimba,Fistulariidae,4,,,,,,,,0,0,0,0,0,0
+Lepidamia multitaeniata,Apogonidae,4,,,,,,,,0,0,0,0,0,0
+Scorpaenodes parvipinnis,Scorpaenidae,4,,,,,,,,0,0,0,0,0,0
+Canthigaster solandri,Tetraodontidae,4,Spotted sharpnose,reef-associated,10.0,36.0,0.0,0.0,questionable,1,1,0,1,1,1
+Sphyraena barracuda,Sphyraenidae,4,,,,,,,,0,0,0,0,0,0
+Ostracion rhinorhynchos,Ostraciidae,3,Horn-nosed boxfish,reef-associated,35.0,50.0,0.0,0.0,native,1,1,0,1,1,1
+Lutjanus gibbus,Lutjanidae,3,Humpback red snapper,reef-associated,1.0,150.0,0.0,0.0,native,1,1,0,1,1,1
+Xylophis captaini,Pareidae,3,,,,,,,,0,0,0,0,0,0
+Lutjanus biguttatus,Lutjanidae,3,Two-spot banded snapper,reef-associated,3.0,36.0,0.0,0.0,native,1,1,0,1,1,1
+Lycodon nympha,Colubridae,3,,,,,,,,0,0,0,0,0,0
+Synchiropus atrilabiatus,Callionymidae,3,,,,,,,,0,0,0,0,0,0
+Lygosoma punctata,Scincidae,3,,,,,,,,0,0,0,0,0,0
+Sunagocia otaitensis,Platycephalidae,3,,,,,,,,0,0,0,0,0,0
+Thalassoma amblycephalum,Labridae,3,Bluntheaded wrasse,reef-associated,0.0,15.0,0.0,0.0,native,1,1,0,1,1,1
+Pseudorhombus malayanus,Paralichthyidae,3,Malayan flounder,demersal,20.0,27.0,0.0,0.0,native,1,0,0,1,1,1
+Pseudorhombus arsius,Paralichthyidae,3,Largetooth flounder,demersal,0.0,200.0,1.0,0.0,native,1,0,0,1,1,1
+Cynoglossus arel,Cynoglossidae,3,Largescale tonguesole,demersal,9.0,125.0,1.0,0.0,native,1,0,0,1,1,1
+Psammophilus dorsalis,Agamidae,3,,,,,,,,0,0,0,0,0,0
+Cyclichthys orbicularis,Diodontidae,3,,,,,,,,0,0,0,0,0,0
+Amblygaster sirm,Dorosomatidae,3,Spotted sardinella,reef-associated,10.0,75.0,1.0,0.0,native,1,1,1,1,1,1
+Aluterus scriptus,Monacanthidae,3,Scribbled leatherjacket filefish,reef-associated,3.0,120.0,0.0,0.0,native,1,1,0,1,1,1
+Rhinophis porrectus,Uropeltidae,3,,,,,,,,0,0,0,0,0,0
+Aluterus monoceros,Monacanthidae,3,,,,,,,,0,0,0,0,0,0
+Trachinotus botla,Carangidae,3,Largespotted dart,reef-associated,,,1.0,0.0,native,1,1,1,0,0,1
+Gymnothorax flavimarginatus,Muraenidae,3,,,,,,,,0,0,0,0,0,0
+Ostracoberyx dorygenys,Ostracoberycidae,3,,,,,,,,0,0,0,0,0,0
+Parachaeturichthys polynema,Gobiidae,3,,,,,,,,0,0,0,0,0,0
+Halichoeres leucoxanthus,Labridae,3,,,,,,,,0,0,0,0,0,0
+Pardachirus pavoninus,Soleidae,3,Peacock sole,reef-associated,2.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Alepes kleinii,Carangidae,3,Razorbelly scad,reef-associated,5.0,100.0,0.0,0.0,native,1,1,1,1,1,1
+Acanthocepola indica,Cepolidae,3,,,,,,,,0,0,0,0,0,0
+Ostorhinchus fleurieu,Apogonidae,3,Flower cardinalfish,reef-associated,1.0,97.0,1.0,0.0,native,1,1,0,1,1,1
+Acanthurus auranticavus,Acanthuridae,3,,,,,,,,0,0,0,0,0,0
+Ostorhinchus taeniophorus,Apogonidae,3,,,,,,,,0,0,0,0,0,0
+Ophichthus mccoskeri,Ophichthidae,3,,,,,,,,0,0,0,0,0,0
+Megalops cyprinoides,Megalopidae,3,Indo-Pacific tarpon,benthopelagic,1.0,50.0,1.0,1.0,native,1,0,0,1,1,1
+Siganus virgatus,Siganidae,3,Barhead spinefoot,reef-associated,1.0,,1.0,0.0,native,1,1,0,1,1,1
+Malacocephalus laevis,Macrouridae,3,,,,,,,,0,0,0,0,0,0
+Caesio cuning,Caesionidae,3,Redbelly yellowtail fusilier,reef-associated,1.0,60.0,0.0,0.0,native,1,1,0,1,1,1
+Calotomus carolinus,Scaridae,3,,,,,,,,0,0,0,0,0,0
+Cantherhines pardalis,Monacanthidae,3,,,,,,,,0,0,0,0,0,0
+Calliophis nigrescens,Elapidae,3,,,,,,,,0,0,0,0,0,0
+Dendrelaphis bifrenalis,Colubridae,3,,,,,,,,0,0,0,0,0,0
+Deveximentum insidiator,Leiognathidae,3,Pugnose ponyfish,demersal,10.0,150.0,1.0,0.0,native,1,0,0,1,1,1
+Dendrelaphis wickrorum,Colubridae,3,,,,,,,,0,0,0,0,0,0
+Siganus lineatus,Siganidae,3,Golden-lined spinefoot,reef-associated,0.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Lethrinus mahsena,Lethrinidae,3,Sky emperor,reef-associated,2.0,100.0,0.0,0.0,native,1,1,0,1,1,1
+Naso brevirostris,Acanthuridae,3,Spotted unicornfish,reef-associated,0.0,122.0,0.0,0.0,native,1,1,0,1,1,1
+Priacanthus prolixus,Priacanthidae,3,,,,,,,,0,0,0,0,0,0
+Choeroichthys brachysoma,Syngnathidae,3,,,,,,,,0,0,0,0,0,0
+Polymixia fusca,Polymixiidae,3,,,,,,,,0,0,0,0,0,0
+Poecilopsetta colorata,Pleuronectidae,3,Coloured righteye flounder,bathydemersal,214.0,800.0,0.0,0.0,native,1,0,0,0,0,1
+Gobiopsis liolepis,Gobiidae,3,,demersal,3.0,20.0,0.0,0.0,questionable,1,0,0,1,1,1
+Gerarda prevostiana,Homalopsidae,3,,,,,,,,0,0,0,0,0,0
+Epinephelus fasciatus,Epinephelidae,3,Blacktip grouper,reef-associated,4.0,160.0,1.0,0.0,native,1,1,0,1,1,1
+Psammogobius biocellatus,Gobiidae,3,Sleepy goby,benthopelagic,0.0,3.0,1.0,1.0,native,1,0,0,1,1,1
+Epinephelus bleekeri,Epinephelidae,3,Duskytail grouper,demersal,30.0,105.0,0.0,0.0,native,1,0,0,1,1,1
+Epinephelus longispinis,Epinephelidae,3,Longspine grouper,reef-associated,1.0,70.0,0.0,0.0,native,1,1,0,1,1,1
+Eutropis macularia,Scincidae,3,,,,,,,,0,0,0,0,0,0
+Elagatis bipinnulata,Carangidae,3,Rainbow runner,reef-associated,0.0,150.0,0.0,0.0,native,1,1,1,1,1,1
+Eleutheronema tetradactylum,Polynemidae,3,Fourfinger threadfin,pelagic-neritic,0.0,23.0,1.0,1.0,native,0,0,0,1,0,1
+Ephippus orbis,Ephippidae,3,,,,,,,,0,0,0,0,0,0
+Pterygotrigla macrorhynchus,Triglidae,3,,,,,,,,0,0,0,0,0,0
+Hydrophis gracilis,Elapidae,3,,,,,,,,0,0,0,0,0,0
+Pycnochromis fieldi,Pomacentridae,3,Two-tone Chromis,reef-associated,1.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Hypopleuron caninum,Ophidiidae,3,,,,,,,,0,0,0,0,0,0
+Hydrophis cyanocinctus,Elapidae,3,,,,,,,,0,0,0,0,0,0
+Notolychnus valdiviae,Myctophidae,3,,,,,,,,0,0,0,0,0,0
+Obliquogobius cometes,Gobiidae,3,,,,,,,,0,0,0,0,0,0
+Hippoglossina bollmani,Paralichthyidae,3,,,,,,,,0,0,0,0,0,0
+Istiblennius dussumieri,Blenniidae,3,Streaky rockskipper,reef-associated,0.0,3.0,1.0,0.0,native,1,1,0,1,1,1
+Ilisha melastoma,Pristigasteridae,3,Indian ilisha,pelagic-neritic,0.0,50.0,1.0,0.0,native,0,0,0,1,0,1
+Ophichthus remiger,Ophichthidae,3,,,,,,,,0,0,0,0,0,0
+Karalla daura,Leiognathidae,3,Goldstripe ponyfish,demersal,1.0,40.0,0.0,0.0,native,1,0,0,1,1,1
+Sardinella gibbosa,Dorosomatidae,3,Goldstripe sardinella,pelagic-neritic,10.0,70.0,0.0,0.0,native,0,0,1,1,0,1
+Saurida gracilis,Synodontidae,3,,,,,,,,0,0,0,0,0,0
+Cypselurus oligolepis,Exocoetidae,3,,,,,,,,0,0,0,0,0,0
+Scarus frenatus,Scaridae,3,,,,,,,,0,0,0,0,0,0
+Dendrelaphis girii,Colubridae,3,,,,,,,,0,0,0,0,0,0
+Upeneus vittatus,Mullidae,3,Yellowstriped goatfish,reef-associated,5.0,100.0,1.0,0.0,native,1,1,0,1,1,1
+Velifer hypselopterus,Veliferidae,3,,,,,,,,0,0,0,0,0,0
+Acanthurus dussumieri,Acanthuridae,3,Eyestripe surgeonfish,reef-associated,4.0,131.0,0.0,0.0,native,1,1,0,1,1,1
+Periophthalmus argentilineatus,Gobiidae,3,Barred mudskipper,reef-associated,0.0,1.0,1.0,1.0,native,1,1,0,1,1,1
+Plagiotremus rhinorhynchos,Blenniidae,3,,,,,,,,0,0,0,0,0,0
+Acanthurus nigricauda,Acanthuridae,3,Epaulette surgeonfish,reef-associated,0.0,30.0,1.0,0.0,native,1,1,0,1,1,1
+Helcogramma obtusirostris,Tripterygiidae,3,Hotlips triplefin,demersal,0.0,30.0,1.0,0.0,native,1,0,0,1,1,1
+Platycaranx malabaricus,Carangidae,3,Malabar trevally,reef-associated,20.0,140.0,0.0,0.0,native,1,1,1,1,1,1
+Eryx johnii,Boidae,3,,,,,,,,0,0,0,0,0,0
+Escualosa thoracata,Dorosomatidae,3,White sardine,pelagic-neritic,0.0,50.0,1.0,1.0,native,0,0,1,1,0,1
+Nemipterus furcosus,Nemipteridae,3,Fork-tailed threadfin bream,reef-associated,8.0,110.0,1.0,0.0,native,1,1,0,1,1,1
+Pomadasys argyreus,Haemulidae,3,Bluecheek silver grunt,demersal,,,0.0,0.0,native,1,0,0,0,0,1
+Pelates quadrilineatus,Terapontidae,3,,,,,,,,0,0,0,0,0,0
+Plesiops auritus,Plesiopidae,3,Earspot longfin,reef-associated,0.0,15.0,0.0,0.0,native,1,1,0,1,1,1
+Xenomystax trucidans,Congridae,3,,,,,,,,0,0,0,0,0,0
+Argyrops spinifer,Sparidae,3,King soldierbream,demersal,1.0,450.0,0.0,0.0,native,1,0,0,1,1,1
+Cheilinus trilobatus,Labridae,3,,,,,,,,0,0,0,0,0,0
+Chaetodon meyeri,Chaetodontidae,3,Scrawled butterflyfish,reef-associated,2.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Atropus atropos,Carangidae,3,Cleftbelly trevally,pelagic-neritic,5.0,100.0,0.0,0.0,native,0,0,1,1,1,1
+Ceratophora aspera,Agamidae,3,,,,,,,,0,0,0,0,0,0
+Chaetodon trifascialis,Chaetodontidae,3,Chevron butterflyfish,reef-associated,0.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Corythoichthys amplexus,Syngnathidae,3,,,,,,,,0,0,0,0,0,0
+Cherublemma emmelas,Ophidiidae,3,,,,,,,,0,0,0,0,0,0
+Sphyraena obtusata,Sphyraenidae,3,Obtuse barracuda,reef-associated,5.0,200.0,1.0,0.0,native,1,1,0,1,1,1
+Sirembo jerdoni,Ophidiidae,3,,,,,,,,0,0,0,0,0,0
+Asterropteryx semipunctata,Gobiidae,3,,,,,,,,0,0,0,0,0,0
+Stolephorus indicus,Engraulidae,3,Indian anchovy,pelagic-neritic,20.0,50.0,1.0,0.0,native,0,0,1,1,1,1
+Ariosoma prorigerum,Congridae,3,,,,,,,,0,0,0,0,0,0
+Benthosema fibulatum,Myctophidae,3,,,,,,,,0,0,0,0,0,0
+Boiga forsteni,Colubridae,3,,,,,,,,0,0,0,0,0,0
+Turrum fulvoguttatum,Carangidae,3,Yellowspotted trevally,reef-associated,,100.0,0.0,0.0,native,1,1,1,0,0,1
+Trachinotus blochii,Carangidae,2,Snubnose pompano,reef-associated,1.0,7.0,1.0,0.0,native,1,1,1,1,1,1
+Thryssa setirostris,Engraulidae,2,Longjaw thryssa,pelagic-neritic,1.0,20.0,1.0,0.0,native,0,0,1,1,1,1
+Amphiprion sebae,Pomacentridae,2,Sebae anemonefish,reef-associated,2.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Antennarius hispidus,Antennariidae,2,,,,,,,,0,0,0,0,0,0
+Apogon maculatus,Apogonidae,2,,,,,,,,0,0,0,0,0,0
+Balistoides conspicillum,Balistidae,2,Clown triggerfish,reef-associated,1.0,75.0,1.0,0.0,native,1,1,0,1,1,1
+Zalieutes elater,Ogcocephalidae,2,,,,,,,,0,0,0,0,0,0
+Xenocephalus elongatus,Uranoscopidae,2,,,,,,,,0,0,0,0,0,0
+Xenochrophis piscator,Colubridae,2,,,,,,,,0,0,0,0,0,0
+Xenomystax atrarius,Congridae,2,,,,,,,,0,0,0,0,0,0
+Uroconger lepturus,Congridae,2,,,,,,,,0,0,0,0,0,0
+Valenciennea wardii,Gobiidae,2,,,,,,,,0,0,0,0,0,0
+Upeneus sulphureus,Mullidae,2,Sulphur goatfish,demersal,10.0,90.0,1.0,0.0,native,1,0,0,1,1,1
+Acanthurus nigrofuscus,Acanthuridae,2,Brown surgeonfish,reef-associated,0.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Acanthurus tennentii,Acanthuridae,2,Doubleband surgeonfish,reef-associated,1.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Acanthurus tristis,Acanthuridae,2,Indian Ocean mimic surgeonfish,reef-associated,2.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Acanthopagrus pacificus,Sparidae,2,,,,,,,,0,0,0,0,0,0
+Acanthurus bahianus,Acanthuridae,2,,,,,,,,0,0,0,0,0,0
+Parascolopsis aspinosa,Nemipteridae,2,Smooth dwarf monocle bream,demersal,20.0,300.0,0.0,0.0,native,1,0,0,1,1,1
+Parascolopsis boesemani,Nemipteridae,2,,,,,,,,0,0,0,0,0,0
+Parascolopsis eriomma,Nemipteridae,2,,,,,,,,0,0,0,0,0,0
+Gymnothorax vicinus,Muraenidae,2,,,,,,,,0,0,0,0,0,0
+Halichoeres marginatus,Labridae,2,Dusky wrasse,reef-associated,0.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Gymnothorax funebris,Muraenidae,2,,,,,,,,0,0,0,0,0,0
+Gymnocranius grandoculis,Lethrinidae,2,Blue-lined large-eye bream,reef-associated,20.0,170.0,0.0,0.0,native,1,1,0,1,1,1
+Grammonus robustus,Bythitidae,2,,,,,,,,0,0,0,0,0,0
+Gymnachirus nudus,Achiridae,2,,,,,,,,0,0,0,0,0,0
+Parachaeturichthys ocellatus,Gobiidae,2,,,,,,,,0,0,0,0,0,0
+Parapercis clathrata,Pinguipedidae,2,Latticed sandperch,reef-associated,0.0,100.0,0.0,0.0,native,1,1,0,1,1,1
+Owstonia whiteheadi,Cepolidae,2,,,,,,,,0,0,0,0,0,0
+Ostichthys kaianus,Holocentridae,2,,,,,,,,0,0,0,0,0,0
+Ostorhinchus apogonoides,Apogonidae,2,,,,,,,,0,0,0,0,0,0
+Ostorhinchus fasciatus,Apogonidae,2,Broadbanded cardinalfish,reef-associated,2.0,128.0,0.0,0.0,native,1,1,0,1,1,1
+Halosaurus radiatus,Halosauridae,2,,,,,,,,0,0,0,0,0,0
+Helcogramma billi,Tripterygiidae,2,,demersal,0.0,10.0,0.0,0.0,native,1,0,0,1,1,1
+Halichoeres poeyi,Labridae,2,,,,,,,,0,0,0,0,0,0
+Hydrophis viperinus,Elapidae,2,,,,,,,,0,0,0,0,0,0
+Fodiator acutus,Exocoetidae,2,,,,,,,,0,0,0,0,0,0
+Plectorhinchus schotaf,Haemulidae,2,Minstrel sweetlips,reef-associated,0.0,80.0,1.0,0.0,native,1,1,0,1,1,1
+Plectroglyphidodon fasciolatus,Pomacentridae,2,Pacific gregory,reef-associated,0.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Plectroglyphidodon leucozonus,Pomacentridae,2,,,,,,,,0,0,0,0,0,0
+Platycephalus indicus,Platycephalidae,2,Bartail flathead,reef-associated,20.0,200.0,1.0,0.0,native,1,1,0,1,1,1
+Plectorhinchus gibbosus,Haemulidae,2,Harry hotlips,reef-associated,8.0,25.0,1.0,1.0,native,1,1,0,1,1,1
+Petroscirtes mitratus,Blenniidae,2,Floral blenny,reef-associated,0.0,8.0,0.0,0.0,native,1,1,0,1,1,1
+Phaeoptyx conklini,Apogonidae,2,,,,,,,,0,0,0,0,0,0
+Phaeoptyx pigmentaria,Apogonidae,2,,,,,,,,0,0,0,0,0,0
+Parupeneus heptacanthus,Mullidae,2,Cinnabar goatfish,reef-associated,12.0,350.0,1.0,0.0,native,1,1,0,1,1,1
+Pempheris mangula,Pempheridae,2,,,,,,,,0,0,0,0,0,0
+Pempheris schwenkii,Pempheridae,2,,,,,,,,0,0,0,0,0,0
+Eucinostomus melanopterus,Gerreidae,2,,,,,,,,0,0,0,0,0,0
+Epinephelus spilotoceps,Epinephelidae,2,,,,,,,,0,0,0,0,0,0
+Pontinus sierra,Scorpaenidae,2,,,,,,,,0,0,0,0,0,0
+Pomacentrus nagasakiensis,Pomacentridae,2,Nagasaki damsel,reef-associated,3.0,35.0,0.0,0.0,native,1,1,0,1,1,1
+Pomacentrus brachialis,Pomacentridae,2,,,,,,,,0,0,0,0,0,0
+Plotosus canius,Plotosidae,2,Gray eel-catfish,demersal,,,1.0,1.0,native,1,0,0,0,0,1
+Plotosus limbatus,Plotosidae,2,Darkfin eel catfish,demersal,,,1.0,1.0,native,1,0,0,0,0,1
+Polydactylus plebeius,Polynemidae,2,Striped threadfin,demersal,,122.0,1.0,0.0,native,1,0,0,0,0,1
+Gobiopsis woodsi,Gobiidae,2,,,,,,,,0,0,0,0,0,0
+Glossogobius giuris,Gobiidae,2,Tank goby,benthopelagic,0.0,5.0,1.0,1.0,native,1,0,0,1,1,1
+Promethichthys prometheus,Gempylidae,2,,,,,,,,0,0,0,0,0,0
+Epigonus thai,Epigonidae,2,,,,,,,,0,0,0,0,0,0
+Enchelycore nigricans,Muraenidae,2,,,,,,,,0,0,0,0,0,0
+Engyprosopon grandisquama,Bothidae,2,Largescale flounder,reef-associated,7.0,200.0,0.0,0.0,native,1,1,0,1,1,1
+Enneapterygius fasciatus,Tripterygiidae,2,Banded triplefin,reef-associated,1.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Eviota prasina,Gobiidae,2,Greenbubble dwarfgoby,reef-associated,0.0,65.0,0.0,0.0,native,1,1,0,1,1,1
+Eviota zebrina,Gobiidae,2,,,,,,,,0,0,0,0,0,0
+Hilsa kelee,Dorosomatidae,2,Kelee shad,pelagic-neritic,10.0,,1.0,1.0,native,0,0,1,1,0,1
+Hippoglossina tetrophthalma,Paralichthyidae,2,,,,,,,,0,0,0,0,0,0
+Heniochus diphreutes,Chaetodontidae,2,,,,,,,,0,0,0,0,0,0
+Ophisops leschenaultii,Lacertidae,2,,,,,,,,0,0,0,0,0,0
+Novaculichthys taeniourus,Labridae,2,,,,,,,,0,0,0,0,0,0
+Neoniphon vexillarium,Holocentridae,2,,,,,,,,0,0,0,0,0,0
+Neopomacentrus taeniurus,Pomacentridae,2,Freshwater demoiselle,demersal,0.0,3.0,1.0,1.0,native,1,0,0,1,1,1
+Netuma thalassina,Ariidae,2,Giant catfish,demersal,10.0,195.0,1.0,1.0,native,1,0,0,1,1,1
+Kathetostoma averruncus,Uranoscopidae,2,,,,,,,,0,0,0,0,0,0
+Dicrolene multifilis,Ophidiidae,2,,,,,,,,0,0,0,0,0,0
+Pterocaesio marri,Caesionidae,2,,,,,,,,0,0,0,0,0,0
+Pseudogramma polyacantha,Grammistidae,2,Honeycomb podge,reef-associated,1.0,65.0,0.0,0.0,native,1,1,0,1,1,1
+Pseudorhombus triocellatus,Paralichthyidae,2,Three spotted flounders,demersal,,17.0,0.0,0.0,native,1,0,0,0,0,1
+Pristipomoides multidens,Lutjanidae,2,Goldbanded jobfish,demersal,40.0,350.0,0.0,0.0,native,1,0,0,1,1,1
+Pristipomoides typus,Lutjanidae,2,Sharptooth jobfish,demersal,40.0,120.0,0.0,0.0,questionable,1,0,0,1,1,1
+Cyrtodactylus yakhuna,Gekkonidae,2,,,,,,,,0,0,0,0,0,0
+Cylindrophis maculatus,Cylindrophiidae,2,,,,,,,,0,0,0,0,0,0
+Craspedocephalus travancoricus,Viperidae,2,,,,,,,,0,0,0,0,0,0
+Rhinophis saffragamus,Uropeltidae,2,,,,,,,,0,0,0,0,0,0
+Rexea bengalensis,Gempylidae,2,Bengal escolar,benthopelagic,143.0,820.0,1.0,0.0,native,1,0,0,1,1,1
+Diogenichthys panurgus,Myctophidae,2,,,,,,,,0,0,0,0,0,0
+Dormitator maculatus,Eleotridae,2,,,,,,,,0,0,0,0,0,0
+Cnemaspis nandimithrai,Gekkonidae,2,,,,,,,,0,0,0,0,0,0
+Cirrhilabrus rubriventralis,Labridae,2,Longfin fairy wrasse,reef-associated,3.0,43.0,0.0,0.0,error,1,1,0,1,1,1
+Scarus quoyi,Scaridae,2,,,,,,,,0,0,0,0,0,0
+Saurida longimanus,Synodontidae,2,,,,,,,,0,0,0,0,0,0
+Saurida tumbil,Synodontidae,2,Greater lizardfish,reef-associated,,700.0,0.0,0.0,native,1,1,0,0,0,1
+Sargocentron punctatissimum,Holocentridae,2,Speckled squirrelfish,reef-associated,0.0,183.0,0.0,0.0,native,1,1,0,1,1,1
+Rypticus subbifrenatus,Grammistidae,2,,,,,,,,0,0,0,0,0,0
+Dactyloptena gilberti,Dactylopteridae,2,,demersal,20.0,73.0,0.0,0.0,native,1,0,0,1,1,1
+Cynoglossus puncticeps,Cynoglossidae,2,Speckled tonguesole,demersal,1.0,140.0,1.0,1.0,native,1,0,0,1,1,1
+Labrisomus nuchipinnis,Labrisomidae,2,,,,,,,,0,0,0,0,0,0
+Johnius amblycephalus,Sciaenidae,2,Bearded croaker,demersal,1.0,40.0,1.0,1.0,native,1,0,0,1,1,1
+Kaestlea travancorica,Scincidae,2,,,,,,,,0,0,0,0,0,0
+Istiblennius edentulus,Blenniidae,2,Rippled rockskipper,reef-associated,0.0,5.0,1.0,0.0,native,1,1,0,1,1,1
+Istiophorus platypterus,Istiophoridae,2,Indo-Pacific sailfish,pelagic-oceanic,0.0,200.0,0.0,0.0,native,0,0,0,1,0,1
+Neobythites stefanovi,Ophidiidae,2,,,,,,,,0,0,0,0,0,0
+Neobythites stelliferoides,Ophidiidae,2,,,,,,,,0,0,0,0,0,0
+Neoglyphidodon bonang,Pomacentridae,2,Ocellated damsel,reef-associated,1.0,20.0,0.0,0.0,native,1,1,0,1,1,1
+Nemapteryx macronotacantha,Ariidae,2,,,,,,,,0,0,0,0,0,0
+Nemichthys scolopaceus,Nemichthyidae,2,,,,,,,,0,0,0,0,0,0
+Naso brachycentron,Acanthuridae,2,,,,,,,,0,0,0,0,0,0
+Myctophum lychnobium,Myctophidae,2,,,,,,,,0,0,0,0,0,0
+Scomberomorus guttatus,Scombridae,2,Indo-Pacific king mackerel,pelagic-neritic,15.0,200.0,1.0,0.0,native,0,0,1,1,0,1
+Scorpaena plumieri,Scorpaenidae,2,,,,,,,,0,0,0,0,0,0
+Scolopsis aurata,Nemipteridae,2,Yellowstripe monocle bream,reef-associated,1.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Chlidichthys inornatus,Pseudochromidae,2,,,,,,,,0,0,0,0,0,0
+Chromis cinerascens,Pomacentridae,2,Green puller,reef-associated,3.0,15.0,0.0,0.0,native,1,1,0,1,1,1
+Chelidoperca investigatoris,Serranidae,2,,,,,,,,0,0,0,0,0,0
+Chaetodon xanthocephalus,Chaetodontidae,2,Yellowhead butterflyfish,reef-associated,1.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Coris gaimard,Labridae,2,African coris,reef-associated,0.0,50.0,0.0,0.0,questionable,1,1,0,1,1,1
+Chaetodon melannotus,Chaetodontidae,2,Blackback butterflyfish,reef-associated,2.0,20.0,0.0,0.0,native,1,1,0,1,1,1
+Seriola rivoliana,Carangidae,2,Longfin yellowtail,reef-associated,5.0,245.0,0.0,0.0,native,1,1,1,1,1,1
+Scorpaenodes guamensis,Scorpaenidae,2,,,,,,,,0,0,0,0,0,0
+Scorpaenopsis diabolus,Scorpaenidae,2,False stonefish,reef-associated,1.0,70.0,0.0,0.0,native,1,1,0,1,1,1
+Lethrinus miniatus,Lethrinidae,2,Trumpet emperor,reef-associated,5.0,30.0,1.0,0.0,questionable,1,1,0,1,1,1
+Lethrinus olivaceus,Lethrinidae,2,Longface emperor,reef-associated,1.0,185.0,0.0,0.0,native,1,1,0,1,1,1
+Lethrinus ornatus,Lethrinidae,2,Ornate emperor,reef-associated,5.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Lethrinus variegatus,Lethrinidae,2,Slender emperor,reef-associated,1.0,150.0,0.0,0.0,native,1,1,0,1,1,1
+Lepturacanthus savala,Trichiuridae,2,Savalai hairtail,benthopelagic,0.0,100.0,1.0,0.0,native,1,0,0,1,1,1
+Leiognathus equula,Leiognathidae,2,Common ponyfish,demersal,10.0,110.0,1.0,1.0,native,1,0,0,1,1,1
+Lagocephalus sceleratus,Tetraodontidae,2,,,,,,,,0,0,0,0,0,0
+Moringua edwardsi,Moringuidae,2,,,,,,,,0,0,0,0,0,0
+Mene maculata,Menidae,2,,,,,,,,0,0,0,0,0,0
+Macropharyngodon ornatus,Labridae,2,False leopard,reef-associated,2.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Sitana visiri,Agamidae,2,,,,,,,,0,0,0,0,0,0
+Snyderina guentheri,Tetrarogidae,2,,,,,,,,0,0,0,0,0,0
+Siganus stellatus,Siganidae,2,Brown-spotted spinefoot,reef-associated,1.0,,0.0,0.0,native,1,1,0,1,1,1
+Calotes grandisquamis,Agamidae,2,,,,,,,,0,0,0,0,0,0
+Caesio xanthonota,Caesionidae,2,Yellowback fusilier,reef-associated,0.0,50.0,0.0,0.0,native,1,1,0,1,1,1
+Callionymus rivatoni,Callionymidae,2,,,,,,,,0,0,0,0,0,0
+Callogobius sclateri,Gobiidae,2,,,,,,,,0,0,0,0,0,0
+Brotula multibarbata,Brotulidae,2,Goatsbeard brotula,reef-associated,1.0,650.0,0.0,0.0,native,1,1,0,1,1,1
+Caesio varilineata,Caesionidae,2,Variable-lined fusilier,reef-associated,2.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Bothus myriaster,Bothidae,2,Indo-Pacific oval flounder,demersal,10.0,155.0,0.0,0.0,native,1,0,0,1,1,1
+Brachirus annularis,Soleidae,2,,,,,,,,0,0,0,0,0,0
+Brachirus orientalis,Soleidae,2,Oriental sole,demersal,15.0,20.0,1.0,1.0,native,1,0,0,1,1,1
+Brachypterois serrulata,Scorpaenidae,2,,,,,,,,0,0,0,0,0,0
+Bregmaceros mcclellandi,Bregmacerotidae,2,,,,,,,,0,0,0,0,0,0
+Blenniella cyanostigma,Blenniidae,2,Striped rockskipper,reef-associated,,,0.0,0.0,native,1,1,0,0,0,1
+Bolinichthys pyrsobolus,Myctophidae,2,Fiery lanternfish,pelagic-oceanic,60.0,778.0,0.0,0.0,native,0,0,0,1,0,1
+Bellator xenisma,Triglidae,2,,,,,,,,0,0,0,0,0,0
+Benthenchelys indicus,Ophichthidae,2,,,,,,,,0,0,0,0,0,0
+Benthodesmus oligoradiatus,Trichiuridae,2,,,,,,,,0,0,0,0,0,0
+Bleekeria murtii,Ammodytidae,2,,,,,,,,0,0,0,0,0,0
+Bathygobius soporator,Gobiidae,2,,,,,,,,0,0,0,0,0,0
+Bathyuroconger vicinus,Congridae,2,,,,,,,,0,0,0,0,0,0
+Bellator loxias,Triglidae,2,,,,,,,,0,0,0,0,0,0
+Bathyclupea hoskynii,Bathyclupeidae,2,,,,,,,,0,0,0,0,0,0
+Bathygobius cyclopterus,Gobiidae,2,,,,,,,,0,0,0,0,0,0
+Sparisoma rubripinne,Scaridae,2,,,,,,,,0,0,0,0,0,0
+Aspidura guentheri,Colubridae,2,,,,,,,,0,0,0,0,0,0
+Atherinomorus stipes,Atherinidae,2,,,,,,,,0,0,0,0,0,0
+Arothron meleagris,Tetraodontidae,2,,,,,,,,0,0,0,0,0,0
+Synodus evermanni,Synodontidae,2,,,,,,,,0,0,0,0,0,0
+Synodus indicus,Synodontidae,2,Indian lizardfish,reef-associated,20.0,100.0,0.0,0.0,native,1,1,0,1,1,1
+Synodus scituliceps,Synodontidae,2,,,,,,,,0,0,0,0,0,0
+Taeniamia fucata,Apogonidae,2,Orangelined cardinalfish,reef-associated,2.0,60.0,0.0,0.0,native,1,1,0,1,1,1
+Taeniamia macroptera,Apogonidae,2,Dusky-tailed cardinalfish,reef-associated,2.0,20.0,0.0,0.0,native,1,1,0,1,1,1
+Synaptura commersonnii,Soleidae,2,Commerson's sole,demersal,,,1.0,0.0,native,1,0,0,0,0,1
+Synchiropus stellatus,Callionymidae,2,Starry dragonet,reef-associated,5.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Strongylura incisa,Belonidae,2,,,,,,,,0,0,0,0,0,0
+Lycodon carinatus,Colubridae,2,,,,,,,,0,0,0,0,0,0
+Lycodon travancoricus,Colubridae,2,,,,,,,,0,0,0,0,0,0
+Lutjanus madras,Lutjanidae,2,Indian snapper,reef-associated,5.0,80.0,0.0,0.0,native,1,1,0,1,1,1
+Lutjanus malabaricus,Lutjanidae,2,Malabar blood snapper,reef-associated,12.0,100.0,1.0,0.0,native,1,1,0,1,1,1
+Lutjanus monostigma,Lutjanidae,2,One-spot snapper,reef-associated,1.0,60.0,1.0,0.0,native,1,1,0,1,1,1
+Lutjanus russellii,Lutjanidae,2,Russell's snapper,reef-associated,3.0,80.0,1.0,0.0,native,1,1,0,1,1,1
+Lutjanus sebae,Lutjanidae,2,Emperor red snapper,reef-associated,5.0,180.0,1.0,0.0,native,1,1,0,1,1,1
+Lophiodes spilurus,Lophiidae,2,,,,,,,,0,0,0,0,0,0
+Trachinocephalus trachinus,Synodontidae,2,,,,,,,,0,0,0,0,0,0
+Abudefduf bengalensis,Pomacentridae,2,,,,,,,,0,0,0,0,0,0
+Abudefduf notatus,Pomacentridae,2,,,,,,,,0,0,0,0,0,0
+Trachinocephalus myops,Synodontidae,2,,,,,,,,0,0,0,0,0,0
+Abudefduf sexfasciatus,Pomacentridae,2,Scissortail sergeant,reef-associated,1.0,20.0,0.0,0.0,native,1,1,0,1,1,1
+Tripterodon orbis,Ephippidae,2,,,,,,,,0,0,0,0,0,0
+Triacanthus biaculeatus,Triacanthidae,2,Short-nosed tripodfish,demersal,0.0,60.0,1.0,0.0,native,1,0,0,1,1,1
+Zenopsis conchifer,Zeidae,1,,,,,,,,0,0,0,0,0,0
+Abalistes stellatus,Balistidae,1,Starry triggerfish,demersal,7.0,350.0,0.0,0.0,native,1,0,0,1,1,1
+Acanthopagrus berda,Sparidae,1,Goldsilk seabream,demersal,,50.0,1.0,1.0,native,1,0,0,0,0,1
+Acanthopagrus datnia,Sparidae,1,,,,,,,,0,0,0,0,0,0
+Acanthurus chirurgus,Acanthuridae,1,,,,,,,,0,0,0,0,0,0
+Acanthurus coeruleus,Acanthuridae,1,,,,,,,,0,0,0,0,0,0
+Acanthurus leucocheilus,Acanthuridae,1,Palelipped surgeonfish,reef-associated,0.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Acanthurus maculiceps,Acanthuridae,1,,,,,,,,0,0,0,0,0,0
+Acentrogobius audax,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Acentrogobius viridipunctatus,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Upeneus supravittatus,Mullidae,1,Long-fin goatfish,reef-associated,,40.0,0.0,0.0,native,1,1,0,0,0,1
+Upeneus torres,Mullidae,1,,,,,,,,0,0,0,0,0,0
+Uranoscopus oligolepis,Uranoscopidae,1,,,,,,,,0,0,0,0,0,0
+Uraspis helvola,Carangidae,1,Whitetongue jack,reef-associated,50.0,300.0,0.0,0.0,native,1,1,1,1,1,1
+Uropeltis rubromaculata,Uropeltidae,1,,,,,,,,0,0,0,0,0,0
+Valenciennea helsdingenii,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Variola albimarginata,Epinephelidae,1,White-edged lyretail,reef-associated,4.0,200.0,0.0,0.0,native,1,1,0,1,1,1
+Variola louti,Epinephelidae,1,Yellow-edged lyretail,reef-associated,3.0,300.0,0.0,0.0,native,1,1,0,1,1,1
+Arothron caeruleopunctatus,Tetraodontidae,1,,,,,,,,0,0,0,0,0,0
+Arothron mappa,Tetraodontidae,1,,,,,,,,0,0,0,0,0,0
+Arothron multilineatus,Tetraodontidae,1,,,,,,,,0,0,0,0,0,0
+Aspidontus taeniatus,Blenniidae,1,,,,,,,,0,0,0,0,0,0
+Astronesthes lucifer,Stomiidae,1,,,,,,,,0,0,0,0,0,0
+Atherinella argentea,Atherinopsidae,1,,,,,,,,0,0,0,0,0,0
+Atherinella eriarcha,Atherinopsidae,1,,,,,,,,0,0,0,0,0,0
+Aurigequula fasciata,Leiognathidae,1,Striped ponyfish,demersal,20.0,50.0,1.0,0.0,native,1,0,0,1,1,1
+Synodus synodus,Synodontidae,1,,,,,,,,0,0,0,0,0,0
+Takifugu oblongus,Tetraodontidae,1,,,,,,,,0,0,0,0,0,0
+Terapon theraps,Terapontidae,1,,,,,,,,0,0,0,0,0,0
+Thalassoma bifasciatum,Labridae,1,,,,,,,,0,0,0,0,0,0
+Apogon planifrons,Apogonidae,1,,,,,,,,0,0,0,0,0,0
+Aprognathodon platyventris,Ophichthidae,1,,,,,,,,0,0,0,0,0,0
+Ariosoma tamilicum,Congridae,1,,,,,,,,0,0,0,0,0,0
+Arius jella,Ariidae,1,Blackfin sea catfish,demersal,5.0,50.0,1.0,0.0,native,1,0,0,1,1,1
+Sufflamen chrysopterum,Balistidae,1,Halfmoon triggerfish,reef-associated,0.0,80.0,0.0,0.0,native,1,1,0,1,1,1
+Suggrundus macracanthus,Platycephalidae,1,Large-spined flathead,demersal,,132.0,0.0,0.0,native,1,0,0,0,0,1
+Symphurus atramentatus,Cynoglossidae,1,,,,,,,,0,0,0,0,0,0
+Synanceia verrucosa,Synanceiidae,1,Stonefish,reef-associated,0.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Synaphobranchus kaupii,Synaphobranchidae,1,,,,,,,,0,0,0,0,0,0
+Synchiropus postulus,Callionymidae,1,,,,,,,,0,0,0,0,0,0
+Synodus dermatogenys,Synodontidae,1,,,,,,,,0,0,0,0,0,0
+Synodus jaculum,Synodontidae,1,Lighthouse lizardfish,reef-associated,2.0,100.0,0.0,0.0,native,1,1,0,1,1,1
+Bathygobius laddi,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Bathygobius mystacium,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Bathygobius ramosus,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Bathylaco nigricans,Alepocephalidae,1,,,,,,,,0,0,0,0,0,0
+Batrachomoeus trispinosus,Batrachoididae,1,,,,,,,,0,0,0,0,0,0
+Boiga beddomei,Colubridae,1,,,,,,,,0,0,0,0,0,0
+Boleophthalmus pectinirostris,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Strophidon sathete,Muraenidae,1,,,,,,,,0,0,0,0,0,0
+Ipnops meadi,Ipnopidae,1,,,,,,,,0,0,0,0,0,0
+Jaydia poeciloptera,Apogonidae,1,,,,,,,,0,0,0,0,0,0
+Jenkinsia lamprotaenia,Spratelloididae,1,,,,,,,,0,0,0,0,0,0
+Johnius belangerii,Sciaenidae,1,Belanger's croaker,demersal,,40.0,1.0,0.0,native,1,0,0,0,0,1
+Johnius macropterus,Sciaenidae,1,Largefin croaker,demersal,1.0,30.0,0.0,0.0,native,1,0,0,1,1,1
+Johnius macrorhynus,Sciaenidae,1,Big-snout croaker,benthopelagic,,,0.0,0.0,native,1,0,0,0,0,1
+Kajikia audax,Istiophoridae,1,Striped marlin,pelagic-oceanic,0.0,200.0,0.0,0.0,native,0,0,0,1,0,1
+Karalla dussumieri,Leiognathidae,1,Dussumier's ponyfish,demersal,10.0,40.0,1.0,0.0,native,1,0,0,1,1,1
+Nemipterus zysron,Nemipteridae,1,Slender threadfin bream,demersal,10.0,125.0,0.0,0.0,native,1,0,0,1,1,1
+Neoglyphidodon melas,Pomacentridae,1,,,,,,,,0,0,0,0,0,0
+Neomerinthe erostris,Scorpaenidae,1,Round scorpionfish,benthopelagic,52.0,505.0,0.0,0.0,native,1,0,0,1,1,1
+Neoniphon sammara,Holocentridae,1,Sammara squirrelfish,reef-associated,0.0,46.0,0.0,0.0,native,1,1,0,1,1,1
+Ichthyocampus carce,Syngnathidae,1,,demersal,,,1.0,1.0,native,1,0,0,0,0,1
+Ichthyscopus lebeck,Uranoscopidae,1,,,,,,,,0,0,0,0,0,0
+Iniistius bimaculatus,Labridae,1,,,,,,,,0,0,0,0,0,0
+Inimicus sinensis,Synanceiidae,1,Spotted ghoul,reef-associated,5.0,90.0,0.0,0.0,native,1,1,0,1,1,1
+Muraenesox bagio,Muraenesocidae,1,Common pike conger,demersal,1.0,100.0,1.0,0.0,native,1,0,0,1,1,1
+Myripristis violacea,Holocentridae,1,Lattice soldierfish,reef-associated,0.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Myrophis microchir,Ophichthidae,1,,,,,,,,0,0,0,0,0,0
+Myrophis punctatus,Ophichthidae,1,,,,,,,,0,0,0,0,0,0
+Naso hexacanthus,Acanthuridae,1,,,,,,,,0,0,0,0,0,0
+Naso tuberosus,Acanthuridae,1,,,,,,,,0,0,0,0,0,0
+Nemipterus japonicus,Nemipteridae,1,Japanese threadfin bream,demersal,5.0,80.0,0.0,0.0,native,1,0,0,1,1,1
+Nemipterus peronii,Nemipteridae,1,Notchedfin threadfin bream,demersal,17.0,100.0,1.0,0.0,native,1,0,0,1,1,1
+Lamprogrammus fragilis,Ophidiidae,1,,,,,,,,0,0,0,0,0,0
+Leiognathus brevirostris,Leiognathidae,1,Shortnose ponyfish,demersal,1.0,40.0,1.0,0.0,native,1,0,0,1,1,1
+Lepidotrigla omanensis,Triglidae,1,,,,,,,,0,0,0,0,0,0
+Lepophidium negropinna,Ophidiidae,1,,,,,,,,0,0,0,0,0,0
+Leptomelanosoma indicum,Polynemidae,1,Indian threadfin,demersal,55.0,100.0,1.0,0.0,native,1,0,0,1,1,1
+Lethrinus obsoletus,Lethrinidae,1,Orange-striped emperor,reef-associated,,30.0,0.0,0.0,native,1,1,0,0,0,1
+Lobotes surinamensis,Lobotidae,1,Tripletail,benthopelagic,0.0,70.0,1.0,0.0,native,1,0,0,1,1,1
+Mulloidichthys vanicolensis,Mullidae,1,,,,,,,,0,0,0,0,0,0
+Heteristius cinctus,Dactyloscopidae,1,,,,,,,,0,0,0,0,0,0
+Heteromycteris oculus,Soleidae,1,Eyed sole,demersal,,,0.0,0.0,native,1,0,0,0,0,1
+Heteropneustes fossilis,Heteropneustidae,1,Stinging catfish,demersal,,1.0,1.0,1.0,native,1,0,0,0,0,1
+Hippichthys cyanospilos,Syngnathidae,1,,,,,,,,0,0,0,0,0,0
+Hippichthys heptagonus,Syngnathidae,1,Belly pipefish,demersal,,,1.0,1.0,native,1,0,0,0,0,1
+Hippocampus spinosissimus,Syngnathidae,1,Hedgehog seahorse,reef-associated,10.0,80.0,1.0,0.0,native,1,1,0,1,1,1
+Hippocampus trimaculatus,Syngnathidae,1,,,,,,,,0,0,0,0,0,0
+Histiopterus typus,Pentacerotidae,1,,,,,,,,0,0,0,0,0,0
+Ophichthus nigroventralis,Ophichthidae,1,,,,,,,,0,0,0,0,0,0
+Ophidion smithi,Ophidiidae,1,,,,,,,,0,0,0,0,0,0
+Ophioblennius atlanticus,Blenniidae,1,,,,,,,,0,0,0,0,0,0
+Oryzias dancena,Adrianichthyidae,1,,,,,,,,0,0,0,0,0,0
+Hemitaurichthys zoster,Chaetodontidae,1,Brown-and-white butterflyfish,reef-associated,1.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Heniochus pleurotaenia,Chaetodontidae,1,Phantom bannerfish,reef-associated,1.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Heniochus singularius,Chaetodontidae,1,Singular bannerfish,reef-associated,2.0,250.0,0.0,0.0,native,1,1,0,1,1,1
+Herklotsichthys quadrimaculatus,Dorosomatidae,1,Bluestripe herring,reef-associated,0.0,13.0,1.0,1.0,native,1,1,1,1,1,1
+Norfolkia brachylepis,Tripterygiidae,1,Tropical scaly-headed triplefin,reef-associated,1.0,25.0,0.0,0.0,native,1,1,0,1,1,1
+Nuchequula gerreoides,Leiognathidae,1,Decorated ponyfish,demersal,10.0,30.0,1.0,0.0,native,1,0,0,1,1,1
+Omobranchus elongatus,Blenniidae,1,,,,,,,,0,0,0,0,0,0
+Omobranchus zebra,Blenniidae,1,,,,,,,,0,0,0,0,0,0
+Oneirodes eschrichtii,Oneirodidae,1,,,,,,,,0,0,0,0,0,0
+Oneirodes flagellifer,Oneirodidae,1,,bathypelagic,1750.0,3800.0,0.0,0.0,native,0,0,0,0,0,1
+Onuxodon margaritiferae,Carapidae,1,,,,,,,,0,0,0,0,0,0
+Ophichthus chennaiensis,Ophichthidae,1,,,,,,,,0,0,0,0,0,0
+Kaupichthys hyoproroides,Chlopsidae,1,,,,,,,,0,0,0,0,0,0
+Koumansetta hectori,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Kuhlia mugil,Kuhliidae,1,Barred flagtail,reef-associated,3.0,18.0,1.0,0.0,native,1,1,0,1,1,1
+Kumococius rodericensis,Platycephalidae,1,,,,,,,,0,0,0,0,0,0
+Neopomacentrus azysron,Pomacentridae,1,,,,,,,,0,0,0,0,0,0
+Nessia gansi,Scincidae,1,,,,,,,,0,0,0,0,0,0
+Nezumia latirostrata,Macrouridae,1,,,,,,,,0,0,0,0,0,0
+Nezumia stelgidolepis,Macrouridae,1,,,,,,,,0,0,0,0,0,0
+Paracanthurus hepatus,Acanthuridae,1,Palette surgeonfish,reef-associated,2.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Paracentropyge multifasciata,Pomacanthidae,1,,,,,,,,0,0,0,0,0,0
+Paramonacanthus choirocephalus,Monacanthidae,1,Pig faced leather jacket,demersal,3.0,25.0,0.0,0.0,misidentification,1,0,0,1,1,1
+Paramonacanthus frenatus,Monacanthidae,1,,,,,,,,0,0,0,0,0,0
+Gobiosoma aceras,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Gobiosoma homochroma,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Grammoplites scaber,Platycephalidae,1,,,,,,,,0,0,0,0,0,0
+Grypotyphlops acutus,Typhlopidae,1,,,,,,,,0,0,0,0,0,0
+Ostorhinchus pleuron,Apogonidae,1,,,,,,,,0,0,0,0,0,0
+Otocryptis beddomei,Agamidae,1,,,,,,,,0,0,0,0,0,0
+Oxyurichthys papuensis,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Pampus argenteus,Stromateidae,1,Silver pomfret,benthopelagic,5.0,110.0,0.0,0.0,native,1,0,0,1,1,1
+Pampus cinereus,Stromateidae,1,,,,,,,,0,0,0,0,0,0
+Parablennius cyclops,Blenniidae,1,,,,,,,,0,0,0,0,0,0
+Parablennius thysanius,Blenniidae,1,Tasseled blenny,demersal,1.0,10.0,0.0,0.0,native,1,0,0,1,1,1
+Paracaesio sordida,Lutjanidae,1,Dirty ordure snapper,reef-associated,5.0,200.0,0.0,0.0,native,1,1,0,1,1,1
+Halieutaea stellata,Ogcocephalidae,1,,,,,,,,0,0,0,0,0,0
+Harengula clupeola,Dorosomatidae,1,,,,,,,,0,0,1,0,0,0
+Hebius monticola,Colubridae,1,,,,,,,,0,0,0,0,0,0
+Helcogramma serendip,Tripterygiidae,1,,benthopelagic,,,0.0,0.0,native,1,0,0,0,0,1
+Helcogramma shinglensis,Tripterygiidae,1,,,,,,,,0,0,0,0,0,0
+Hemanthias signifer,Anthiadidae,1,,,,,,,,0,0,0,0,0,0
+Hemidactylus,Gekkonidae,1,,,,,,,,0,0,0,0,0,0
+Ostorhinchus oxina,Apogonidae,1,,demersal,10.0,22.0,0.0,0.0,native,1,0,0,1,1,1
+Hoplostethus mediterraneus,Trachichthyidae,1,,,,,,,,0,0,0,0,0,0
+Hygophum reinhardtii,Myctophidae,1,,,,,,,,0,0,0,0,0,0
+Hyporhamphus dussumieri,Hemiramphidae,1,,,,,,,,0,0,0,0,0,0
+Hyporhamphus quoyi,Hemiramphidae,1,,,,,,,,0,0,0,0,0,0
+Hyporhamphus unifasciatus,Hemiramphidae,1,,,,,,,,0,0,0,0,0,0
+Halichoeres zeylonicus,Labridae,1,Goldstripe wrasse,reef-associated,10.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Halieutaea coccinea,Ogcocephalidae,1,,,,,,,,0,0,0,0,0,0
+Halieutaea nigra,Ogcocephalidae,1,,,,,,,,0,0,0,0,0,0
+Pempheris vanicolensis,Pempheridae,1,,,,,,,,0,0,0,0,0,0
+Periophthalmus barbarus,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Perulibatrachus aquilonarius,Batrachoididae,1,,,,,,,,0,0,0,0,0,0
+Photonectes albipennis,Stomiidae,1,,,,,,,,0,0,0,0,0,0
+Photopectoralis bindus,Leiognathidae,1,Orangefin ponyfish,demersal,2.0,160.0,1.0,0.0,native,1,0,0,1,1,1
+Physiculus nematopus,Moridae,1,,,,,,,,0,0,0,0,0,0
+Physiculus talarae,Moridae,1,,,,,,,,0,0,0,0,0,0
+Pinjalo pinjalo,Lutjanidae,1,Pinjalo,reef-associated,15.0,100.0,0.0,0.0,native,1,1,0,1,1,1
+Parascolopsis capitinis,Nemipteridae,1,,demersal,,,0.0,0.0,native,1,0,0,0,0,1
+Parascorpaena mossambica,Scorpaenidae,1,Mozambique scorpionfish,reef-associated,0.0,18.0,0.0,0.0,native,1,1,0,1,1,1
+Parastromateus niger,Carangidae,1,Black pomfret,reef-associated,15.0,105.0,1.0,0.0,native,1,1,1,1,1,1
+Paratriacanthodes retrospinis,Triacanthodidae,1,,,,,,,,0,0,0,0,0,0
+Parexocoetus brachypterus,Exocoetidae,1,,,,,,,,0,0,0,0,0,0
+Parophidion schmidti,Ophidiidae,1,,,,,,,,0,0,0,0,0,0
+Parupeneus cyclostomus,Mullidae,1,Gold-saddle goatfish,reef-associated,0.0,125.0,0.0,0.0,native,1,1,0,1,1,1
+Pempheris oualensis,Pempheridae,1,,,,,,,,0,0,0,0,0,0
+Gymnothorax punctatus,Muraenidae,1,,,,,,,,0,0,0,0,0,0
+Halicampus grayi,Syngnathidae,1,Gray's pipefish,reef-associated,,100.0,1.0,0.0,native,1,1,0,0,0,1
+Halichoeres argus,Labridae,1,Argus wrasse,reef-associated,1.0,15.0,0.0,0.0,native,1,1,0,1,1,1
+Halichoeres bivittatus,Labridae,1,,,,,,,,0,0,0,0,0,0
+Halichoeres kneri,Labridae,1,,,,,,,,0,0,0,0,0,0
+Parapercis millepunctata,Pinguipedidae,1,,,,,,,,0,0,0,0,0,0
+Paraplagusia bilineata,Cynoglossidae,1,Doublelined tonguesole,demersal,1.0,25.0,1.0,0.0,native,1,0,0,1,1,1
+Parascolopsis baranesi,Nemipteridae,1,,,,,,,,0,0,0,0,0,0
+Guentherus altivela,Ateleopodidae,1,,,,,,,,0,0,0,0,0,0
+Gymnocranius griseus,Lethrinidae,1,Grey large-eye bream,reef-associated,15.0,80.0,0.0,0.0,native,1,1,0,1,1,1
+Gymnothorax buroensis,Muraenidae,1,,,,,,,,0,0,0,0,0,0
+Gymnothorax dovii,Muraenidae,1,,,,,,,,0,0,0,0,0,0
+Gymnothorax equatorialis,Muraenidae,1,,,,,,,,0,0,0,0,0,0
+Gymnothorax fimbriatus,Muraenidae,1,,,,,,,,0,0,0,0,0,0
+Gymnothorax moringa,Muraenidae,1,,,,,,,,0,0,0,0,0,0
+Gymnothorax pseudothyrsoideus,Muraenidae,1,,,,,,,,0,0,0,0,0,0
+Gerres erythrourus,Gerreidae,1,,,,,,,,0,0,0,0,0,0
+Gerres filamentosus,Gerreidae,1,Whipfin silver-biddy,demersal,1.0,50.0,1.0,1.0,native,1,0,0,1,1,1
+Gillellus searcheri,Dactyloscopidae,1,,,,,,,,0,0,0,0,0,0
+Glossanodon macrocephalus,Argentinidae,1,,,,,,,,0,0,0,0,0,0
+Gnathodentex aureolineatus,Lethrinidae,1,Striped large-eye bream,reef-associated,0.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Gnatholepis thompsoni,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Gobioclinus guppyi,Labrisomidae,1,,,,,,,,0,0,0,0,0,0
+Gobiodon citrinus,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Fowleria aurita,Apogonidae,1,,,,,,,,0,0,0,0,0,0
+Fowlerichthys avalonis,Antennariidae,1,,,,,,,,0,0,0,0,0,0
+Fusigobius inframaculatus,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Fusigobius maximus,Gobiidae,1,Large sandgoby,demersal,3.0,21.0,0.0,0.0,native,1,0,0,1,1,1
+Fusigobius signipinnis,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Gazza dentex,Leiognathidae,1,,,,,,,,0,0,0,0,0,0
+Gazza minuta,Leiognathidae,1,Toothpony,demersal,10.0,110.0,1.0,0.0,native,1,0,0,1,1,1
+Gekko gecko,Gekkonidae,1,,,,,,,,0,0,0,0,0,0
+Plectroglyphidodon obreptus,Pomacentridae,1,Western gregory,reef-associated,2.0,10.0,0.0,0.0,native,1,1,0,1,1,1
+Plectropomus leopardus,Epinephelidae,1,,,,,,,,0,0,0,0,0,0
+Plectrypops retrospinis,Holocentridae,1,,,,,,,,0,0,0,0,0,0
+Plesiops coeruleolineatus,Plesiopidae,1,Crimsontip longfin,reef-associated,1.0,23.0,0.0,0.0,native,1,1,0,1,1,1
+Plicofollis argyropleuron,Ariidae,1,,,,,,,,0,0,0,0,0,0
+Plicofollis dussumieri,Ariidae,1,Blacktip sea catfish,demersal,20.0,50.0,1.0,1.0,native,1,0,0,1,1,1
+Plicofollis layardi,Ariidae,1,Thinspine sea catfish,demersal,20.0,50.0,1.0,0.0,native,1,0,0,1,1,1
+Forcipiger flavissimus,Chaetodontidae,1,Longnose butterfly fish,reef-associated,0.0,145.0,0.0,0.0,native,1,1,0,1,1,1
+Plagiotremus phenax,Blenniidae,1,Imposter fangblenny,reef-associated,1.0,10.0,0.0,0.0,native,1,1,0,1,1,1
+Planiliza macrolepis,Mugilidae,1,,,,,,,,0,0,0,0,0,0
+Platax boersii,Ephippidae,1,,,,,,,,0,0,0,0,0,0
+Platax orbicularis,Ephippidae,1,,,,,,,,0,0,0,0,0,0
+Platyceps josephi,Colubridae,1,,,,,,,,0,0,0,0,0,0
+Plectorhinchus pictus,Haemulidae,1,Trout sweetlips,reef-associated,20.0,200.0,0.0,0.0,native,1,1,0,1,1,1
+Plectorhinchus picus,Haemulidae,1,Painted sweetlip,reef-associated,3.0,50.0,0.0,0.0,native,1,1,0,1,1,1
+Plectorhinchus plagiodesmus,Haemulidae,1,,,,,,,,0,0,0,0,0,0
+Eutropis dawsoni,Scincidae,1,,,,,,,,0,0,0,0,0,0
+Evermannia zosterura,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Eviota sebreei,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Eviota sigillata,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Eviota zonura,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Exocoetus volitans,Exocoetidae,1,,,,,,,,0,0,0,0,0,0
+Exyrias puntang,Gobiidae,1,Puntang goby,reef-associated,0.0,5.0,1.0,0.0,native,1,1,0,1,1,1
+Echidna catenata,Muraenidae,1,,,,,,,,0,0,0,0,0,0
+Equulites elongatus,Leiognathidae,1,,,,,,,,0,0,0,0,0,0
+Erotelis smaragdus,Eleotridae,1,,,,,,,,0,0,0,0,0,0
+Etroplus suratensis,Cichlidae,1,Pearlspot,benthopelagic,10.0,,1.0,0.0,native,1,0,0,1,1,1
+Etropus crossotus,Paralichthyidae,1,,,,,,,,0,0,0,0,0,0
+Eubleekeria splendens,Leiognathidae,1,Splendid ponyfish,demersal,10.0,100.0,1.0,0.0,native,1,0,0,1,1,1
+Eucinostomus argenteus,Gerreidae,1,,,,,,,,0,0,0,0,0,0
+Euleptorhamphus viridis,Hemiramphidae,1,,,,,,,,0,0,0,0,0,0
+Eurypegasus draconis,Pegasidae,1,,,,,,,,0,0,0,0,0,0
+Pomadasys kaakan,Haemulidae,1,,,,,,,,0,0,0,0,0,0
+Pontinus nigerimum,Scorpaenidae,1,,,,,,,,0,0,0,0,0,0
+Priacanthus blochii,Priacanthidae,1,,,,,,,,0,0,0,0,0,0
+Priacanthus sagittarius,Priacanthidae,1,Arrow bulleye,demersal,,350.0,0.0,0.0,native,1,0,0,0,0,1
+Priolepis hipoliti,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Priolepis semidoliata,Gobiidae,1,Half-barred goby,reef-associated,2.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Epinephelus tauvina,Epinephelidae,1,Greasy grouper,reef-associated,1.0,300.0,0.0,0.0,native,1,1,0,1,1,1
+Epinephelus undulosus,Epinephelidae,1,Wavy-lined grouper,reef-associated,24.0,90.0,0.0,0.0,native,1,1,0,1,1,1
+Gobioides peruanus,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Gobiopsis quinquecincta,Gobiidae,1,Fiveband barbelgoby,demersal,0.0,10.0,0.0,0.0,native,1,0,0,1,1,1
+Polycentrus schomburgkii,Polycentridae,1,,,,,,,,0,0,0,0,0,0
+Polydactylus sexfilis,Polynemidae,1,,,,,,,,0,0,0,0,0,0
+Polyipnus asper,Sternoptychidae,1,,,,,,,,0,0,0,0,0,0
+Polylepion cruentum,Labridae,1,,,,,,,,0,0,0,0,0,0
+Polymetme thaeocoryla,Phosichthyidae,1,,,,,,,,0,0,0,0,0,0
+Pomacentrus philippinus,Pomacentridae,1,,,,,,,,0,0,0,0,0,0
+Decapterus macarellus,Carangidae,1,Mackerel scad,pelagic-oceanic,0.0,400.0,0.0,0.0,native,0,0,1,1,1,1
+Dendrelaphis ashoki,Colubridae,1,,,,,,,,0,0,0,0,0,0
+Dendrochirus brachypterus,Scorpaenidae,1,,,,,,,,0,0,0,0,0,0
+Desmodema polystictum,Trachipteridae,1,,,,,,,,0,0,0,0,0,0
+Deveximentum ruconius,Leiognathidae,1,Deep pugnose ponyfish,demersal,3.0,60.0,1.0,1.0,native,1,0,0,1,1,1
+Diaphus lobatus,Myctophidae,1,,,,,,,,0,0,0,0,0,0
+Dibranchus spinosus,Ogcocephalidae,1,,,,,,,,0,0,0,0,0,0
+Dicrolene nigra,Ophidiidae,1,,,,,,,,0,0,0,0,0,0
+Pseudojuloides severnsi,Labridae,1,Severns' wrasse,demersal,12.0,40.0,0.0,0.0,native,1,0,0,1,1,1
+Pseudorhombus javanicus,Paralichthyidae,1,Javan flounder,demersal,22.0,38.0,0.0,0.0,native,1,0,0,1,1,1
+Pseudosphromenus cupanus,Osphronemidae,1,Spiketail paradisefish,benthopelagic,,,1.0,1.0,native,1,0,0,0,0,1
+Pseudotriacanthus strigilifer,Triacanthidae,1,Long-spined tripodfish,demersal,2.0,110.0,1.0,0.0,native,1,0,0,1,1,1
+Pseudovespicula dracaena,Tetrarogidae,1,Draco waspfish,demersal,,,0.0,0.0,native,1,0,0,0,0,1
+Ptereleotris monoptera,Microdesmidae,1,,,,,,,,0,0,0,0,0,0
+Pterocaesio randalli,Caesionidae,1,,,,,,,,0,0,0,0,0,0
+Dascyllus carneus,Pomacentridae,1,Cloudy dascyllus,reef-associated,5.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Epinephelus polyphekadion,Epinephelidae,1,,,,,,,,0,0,0,0,0,0
+Epinephelus quoyanus,Epinephelidae,1,,,,,,,,0,0,0,0,0,0
+Pristigenys refulgens,Priacanthidae,1,,,,,,,,0,0,0,0,0,0
+Protonibea diacanthus,Sciaenidae,1,Blackspotted croaker,demersal,5.0,100.0,1.0,0.0,native,1,0,0,1,1,1
+Psammoperca waigiensis,Latidae,1,Waigieu seaperch,reef-associated,3.0,12.0,1.0,0.0,native,1,1,0,1,1,1
+Psenes cyanophrys,Nomeidae,1,,,,,,,,0,0,0,0,0,0
+Pseudetroplus maculatus,Cichlidae,1,Orange chromide,benthopelagic,,,1.0,1.0,native,1,0,0,0,0,1
+Pseudobalistes fuscus,Balistidae,1,Yellow-spotted triggerfish,reef-associated,30.0,50.0,0.0,0.0,native,1,1,0,1,1,1
+Echidna xanthospilos,Muraenidae,1,Yellow-spotted moray,demersal,,,0.0,0.0,native,1,0,0,0,0,1
+Elops machnata,Elopidae,1,Tenpounder,pelagic-neritic,,,1.0,0.0,native,0,0,0,0,0,1
+Emblemaria piratica,Chaenopsidae,1,,,,,,,,0,0,0,0,0,0
+Enneapterygius elegans,Tripterygiidae,1,,,,,,,,0,0,0,0,0,0
+Entomacrodus caudofasciatus,Blenniidae,1,,,,,,,,0,0,0,0,0,0
+Entomacrodus epalzeocheilos,Blenniidae,1,,,,,,,,0,0,0,0,0,0
+Entomacrodus nigricans,Blenniidae,1,,,,,,,,0,0,0,0,0,0
+Epinephelus lanceolatus,Epinephelidae,1,Giant grouper,reef-associated,1.0,200.0,1.0,0.0,native,1,1,0,1,1,1
+Cynoglossus itinus,Cynoglossidae,1,,,,,,,,0,0,0,0,0,0
+Cynoglossus lida,Cynoglossidae,1,,,,,,,,0,0,0,0,0,0
+Cynoponticus coniceps,Muraenesocidae,1,,,,,,,,0,0,0,0,0,0
+Cynoscion albus,Sciaenidae,1,,,,,,,,0,0,0,0,0,0
+Cyrtodactylus collegalensis,Gekkonidae,1,,,,,,,,0,0,0,0,0,0
+Dactyloscopus byersorum,Dactyloscopidae,1,,,,,,,,0,0,0,0,0,0
+Dactyloscopus lunaticus,Dactyloscopidae,1,,,,,,,,0,0,0,0,0,0
+Daector reticulata,Batrachoididae,1,,,,,,,,0,0,0,0,0,0
+Crenimugil seheli,Mugilidae,1,,,,,,,,0,0,0,0,0,0
+Crossorhombus azureus,Bothidae,1,Blue flounder,demersal,13.0,60.0,0.0,0.0,native,1,0,0,1,1,1
+Cryptocentrus cyanotaenia,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Cryptocentrus leucostictus,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Ctenogobiops aurocingulus,Gobiidae,1,Gold-streaked prawn-goby,reef-associated,2.0,44.0,0.0,0.0,native,1,1,0,1,1,1
+Ctenogobius boleosoma,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Cyclothone alba,Gonostomatidae,1,,,,,,,,0,0,0,0,0,0
+Cynoglossus bilineatus,Cynoglossidae,1,Fourlined tonguesole,demersal,10.0,400.0,1.0,0.0,native,1,0,0,1,1,1
+Redigobius bikolanus,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Remora australis,Echeneidae,1,,,,,,,,0,0,0,0,0,0
+Rhabdosargus sarba,Sparidae,1,Goldlined seabream,reef-associated,0.0,60.0,1.0,0.0,native,1,1,0,1,1,1
+Rhinecanthus verrucosus,Balistidae,1,Blackbelly triggerfish,reef-associated,1.0,20.0,0.0,0.0,native,1,1,0,1,1,1
+Rhinophis oxyrhynchus,Uropeltidae,1,,,,,,,,0,0,0,0,0,0
+Rhynchoconger nitens,Congridae,1,,,,,,,,0,0,0,0,0,0
+Rhynchorhamphus malabaricus,Hemiramphidae,1,Malabar halfbeak,pelagic-neritic,0.0,,0.0,0.0,native,0,0,0,1,0,1
+Craterognathus plagiotaenia,Carangidae,1,Barcheek trevally,reef-associated,0.0,200.0,0.0,0.0,native,1,1,1,1,1,1
+Dinematichthys iluocoeteoides,Bythitidae,1,,,,,,,,0,0,0,0,0,0
+Diplacanthopoma brachysoma,Bythitidae,1,,,,,,,,0,0,0,0,0,0
+Drepane punctata,Drepaneidae,1,Spotted sicklefish,reef-associated,10.0,49.0,1.0,1.0,native,1,1,0,1,1,1
+Pterygotrigla arabica,Triglidae,1,,,,,,,,0,0,0,0,0,0
+Pycnocraspedum armatum,Ophidiidae,1,,,,,,,,0,0,0,0,0,0
+Pyramodon lindas,Carapidae,1,,,,,,,,0,0,0,0,0,0
+Rastrelliger brachysoma,Scombridae,1,,,,,,,,0,0,1,0,0,0
+Rastrelliger faughni,Scombridae,1,,,,,,,,0,0,1,0,0,0
+Cnemaspis kandiana,Gekkonidae,1,,,,,,,,0,0,0,0,0,0
+Cociella crocodilus,Platycephalidae,1,Crocodile flathead,reef-associated,0.0,300.0,1.0,0.0,native,1,1,0,1,1,1
+Colletteichthys dussumieri,Batrachoididae,1,Flat toadfish,demersal,,,0.0,0.0,questionable,1,0,0,0,0,1
+Colletteichthys flavipinnis,Batrachoididae,1,Yellowfin toadfish,demersal,2.0,3.0,0.0,0.0,native,1,0,0,1,1,1
+Congresox talabonoides,Muraenesocidae,1,Indian pike conger,bathydemersal,800.0,875.0,1.0,0.0,native,1,0,0,0,0,1
+Congrhynchus talabonoides,Congridae,1,,,,,,,,0,0,0,0,0,0
+Cookeolus japonicus,Priacanthidae,1,,,,,,,,0,0,0,0,0,0
+Corythoichthys haematopterus,Syngnathidae,1,,,,,,,,0,0,0,0,0,0
+Scarus dubius,Scaridae,1,,,,,,,,0,0,0,0,0,0
+Scarus psittacus,Scaridae,1,,,,,,,,0,0,0,0,0,0
+Chrysopelea ornata,Colubridae,1,,,,,,,,0,0,0,0,0,0
+Cirripectes stigmaticus,Blenniidae,1,Red-streaked blenny,reef-associated,0.0,20.0,0.0,0.0,native,1,1,0,1,1,1
+Citharichthys arenaceus,Paralichthyidae,1,,,,,,,,0,0,0,0,0,0
+Citharichthys gilberti,Paralichthyidae,1,,,,,,,,0,0,0,0,0,0
+Citharichthys gordae,Paralichthyidae,1,,,,,,,,0,0,0,0,0,0
+Cnemaspis gracilis,Gekkonidae,1,,,,,,,,0,0,0,0,0,0
+Sargocentron caudimaculatum,Holocentridae,1,Silverspot squirrelfish,reef-associated,2.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Sargocentron diadema,Holocentridae,1,Crown squirrelfish,reef-associated,1.0,60.0,0.0,0.0,native,1,1,0,1,1,1
+Sargocentron spiniferum,Holocentridae,1,Sabre squirrelfish,reef-associated,0.0,122.0,0.0,0.0,native,1,1,0,1,1,1
+Sargocentron tiereoides,Holocentridae,1,,,,,,,,0,0,0,0,0,0
+Saurida micropectoralis,Synodontidae,1,,,,,,,,0,0,0,0,0,0
+Scalicus orientalis,Peristediidae,1,,,,,,,,0,0,0,0,0,0
+Scartella cristata,Blenniidae,1,,,,,,,,0,0,0,0,0,0
+Scartella emarginata,Blenniidae,1,,,,,,,,0,0,0,0,0,0
+Dajaus monticola,Mugilidae,1,,,,,,,,0,0,0,0,0,0
+Dascyllus aruanus,Pomacentridae,1,Whitetail dascyllus,reef-associated,0.0,20.0,0.0,0.0,native,1,1,0,1,1,1
+Riopa albopunctata,Scincidae,1,,,,,,,,0,0,0,0,0,0
+Rogadius serratus,Platycephalidae,1,Serrated flathead,reef-associated,11.0,45.0,0.0,0.0,native,1,1,0,1,1,1
+Salarias fasciatus,Blenniidae,1,Jewelled blenny,reef-associated,0.0,8.0,1.0,0.0,native,1,1,0,1,1,1
+Salarias sinuosus,Blenniidae,1,,,,,,,,0,0,0,0,0,0
+Sardinella albella,Dorosomatidae,1,White sardinella,pelagic-neritic,0.0,50.0,1.0,0.0,native,0,0,1,1,0,1
+Sardinella neglecta,Dorosomatidae,1,,,,,,,,0,0,1,0,0,0
+Selene peruviana,Carangidae,1,,,,,,,,0,0,1,0,0,0
+Seriolina nigrofasciata,Carangidae,1,Blackbanded trevally,reef-associated,20.0,150.0,1.0,0.0,native,1,1,1,1,1,1
+Setarches guentheri,Setarchidae,1,Channeled rockfish,benthopelagic,150.0,840.0,0.0,0.0,native,1,0,0,1,1,1
+Setarches longimanus,Setarchidae,1,,,,,,,,0,0,0,0,0,0
+Canthigaster petersii,Tetraodontidae,1,,,,,,,,0,0,0,0,0,0
+Canthigaster rostrata,Tetraodontidae,1,,,,,,,,0,0,0,0,0,0
+Carangoides oblongus,Carangidae,1,,,,,,,,0,0,1,0,0,0
+Caranx papuensis,Carangidae,1,Brassy trevally,reef-associated,1.0,50.0,1.0,0.0,native,1,1,1,1,1,1
+Scarus russelii,Scaridae,1,Eclipse parrotfish,reef-associated,6.0,15.0,0.0,0.0,native,1,1,0,1,1,1
+Scolopsis curite,Nemipteridae,1,,,,,,,,0,0,0,0,0,0
+Scolopsis xenochrous,Nemipteridae,1,Oblique-barred monocle bream,reef-associated,5.0,50.0,0.0,0.0,native,1,1,0,1,1,1
+Scorpaenodes evides,Scorpaenidae,1,,,,,,,,0,0,0,0,0,0
+Scorpaenodes varipinnis,Scorpaenidae,1,,,,,,,,0,0,0,0,0,0
+Scorpaenopsis neglecta,Scorpaenidae,1,Yellowfin scorpionfish,demersal,0.0,40.0,0.0,0.0,native,1,0,0,1,1,1
+Scorpaenopsis ramaraoi,Scorpaenidae,1,Rama Rao's scorpionfish,demersal,1.0,60.0,0.0,0.0,native,1,0,0,1,1,1
+Sebastapistes cyanostigma,Scorpaenidae,1,,,,,,,,0,0,0,0,0,0
+Cheilinus undulatus,Labridae,1,Humphead wrasse,reef-associated,0.0,100.0,0.0,0.0,native,1,1,0,1,1,1
+Cheilodipterus macrodon,Apogonidae,1,,,,,,,,0,0,0,0,0,0
+Cheilodipterus quinquelineatus,Apogonidae,1,Five-lined cardinalfish,reef-associated,0.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Cheilopogon abei,Exocoetidae,1,Abe's flyingfish,pelagic-neritic,0.0,20.0,0.0,0.0,native,0,0,0,1,0,1
+Cheilopogon dorsomacula,Exocoetidae,1,,,,,,,,0,0,0,0,0,0
+Chelidoperca occipitalis,Serranidae,1,,,,,,,,0,0,0,0,0,0
+Chlorophthalmus agassizi,Chlorophthalmidae,1,,,,,,,,0,0,0,0,0,0
+Chromis weberi,Pomacentridae,1,Weber's chromis,reef-associated,3.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Cosmocampus elucens,Syngnathidae,1,,,,,,,,0,0,0,0,0,0
+Craspedocephalus malabaricus,Viperidae,1,,,,,,,,0,0,0,0,0,0
+Craspedocephalus peltopelor,Viperidae,1,,,,,,,,0,0,0,0,0,0
+Chaetodon ocellatus,Chaetodontidae,1,,,,,,,,0,0,0,0,0,0
+Chaetodon octofasciatus,Chaetodontidae,1,Eightband butterflyfish,reef-associated,3.0,20.0,0.0,0.0,native,1,1,0,1,1,1
+Chaetodon rafflesii,Chaetodontidae,1,Latticed butterflyfish,reef-associated,0.0,15.0,1.0,0.0,native,1,1,0,1,1,1
+Chaetodon striatus,Chaetodontidae,1,,,,,,,,0,0,0,0,0,0
+Chamaeleo zeylanicus,Chamaeleonidae,1,,,,,,,,0,0,0,0,0,0
+Sphaeramia orbicularis,Apogonidae,1,,,,,,,,0,0,0,0,0,0
+Stegastes lacrymatus,Pomacentridae,1,Whitespotted devil,reef-associated,0.0,40.0,0.0,0.0,native,1,1,0,1,1,1
+Stolephorus baganensis,Engraulidae,1,,,,,,,,0,0,1,0,0,0
+Barbulifer ceuthoecus,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Bathycongrus varidens,Congridae,1,,,,,,,,0,0,0,0,0,0
+Bathygobius coalitus,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Bathygobius cocosensis,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Bathygobius fuscus,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Calliophis melanurus,Elapidae,1,,,,,,,,0,0,0,0,0,0
+Callogobius maculipinnis,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Canthigaster amboinensis,Tetraodontidae,1,,,,,,,,0,0,0,0,0,0
+Siganus vermiculatus,Siganidae,1,Vermiculated spinefoot,reef-associated,0.0,20.0,1.0,0.0,native,1,1,0,1,1,1
+Sillago ingenuua,Sillaginidae,1,,,,,,,,0,0,0,0,0,0
+Sorsogona melanoptera,Platycephalidae,1,,,,,,,,0,0,0,0,0,0
+Sparisoma chrysopterum,Scaridae,1,,,,,,,,0,0,0,0,0,0
+Sparisoma radians,Scaridae,1,,,,,,,,0,0,0,0,0,0
+Bothus pantherinus,Bothidae,1,Leopard flounder,reef-associated,3.0,150.0,0.0,0.0,native,1,1,0,1,1,1
+Bregmaceros bathymaster,Bregmacerotidae,1,,,,,,,,0,0,0,0,0,0
+Brotula clarkae,Brotulidae,1,,,,,,,,0,0,0,0,0,0
+Bryx dunckeri,Syngnathidae,1,,,,,,,,0,0,0,0,0,0
+Bungarus ceylonicus,Elapidae,1,,,,,,,,0,0,0,0,0,0
+Caesio caerulaurea,Caesionidae,1,Blue and gold fusilier,reef-associated,1.0,60.0,0.0,0.0,native,1,1,0,1,1,1
+Callionymus carebares,Callionymidae,1,,,,,,,,0,0,0,0,0,0
+Callionymus filamentosus,Callionymidae,1,Blotchfin dragonet,demersal,2.0,350.0,0.0,0.0,native,1,0,0,1,1,1
+Centrophryne spinulosa,Centrophrynidae,1,,,,,,,,0,0,0,0,0,0
+Centropyge multispinis,Pomacanthidae,1,Dusky angelfish,reef-associated,1.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Cephalopholis nigripinnis,Epinephelidae,1,Blackfin grouper,reef-associated,0.0,60.0,0.0,0.0,native,1,1,0,1,1,1
+Cerdale floridana,Microdesmidae,1,,,,,,,,0,0,0,0,0,0
+Chaetodon capistratus,Chaetodontidae,1,,,,,,,,0,0,0,0,0,0
+Chaetodon guttatissimus,Chaetodontidae,1,Peppered butterflyfish,reef-associated,3.0,30.0,0.0,0.0,native,1,1,0,1,1,1
+Chaetodon humeralis,Chaetodontidae,1,,,,,,,,0,0,0,0,0,0
+Bollmannia chlamydes,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Trimma striatum,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Triplophos hemingi,Gonostomatidae,1,,,,,,,,0,0,0,0,0,0
+Trypauchen vagina,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Tylosurus melanotus,Belonidae,1,,,,,,,,0,0,0,0,0,0
+Upeneus heemstra,Mullidae,1,Heemstra goatfish,demersal,0.0,12.0,0.0,0.0,native,1,0,0,1,1,1
+Upeneus oligospilus,Mullidae,1,,,,,,,,0,0,0,0,0,0
+Zebrias quagga,Soleidae,1,Fringefin zebra sole,demersal,,,0.0,0.0,native,1,0,0,0,0,1
+Xenentodon cancila,Belonidae,1,Freshwater garfish,pelagic-neritic,0.0,2.0,1.0,1.0,native,0,0,0,1,0,1
+Thryssa malabarica,Engraulidae,1,Malabar thryssa,pelagic-neritic,0.0,50.0,1.0,0.0,native,0,0,1,1,1,1
+Thunnus alalunga,Scombridae,1,Albacore,pelagic-oceanic,0.0,600.0,0.0,0.0,native,0,0,1,1,0,1
+Thysanophrys chiltonae,Platycephalidae,1,,,,,,,,0,0,0,0,0,0
+Tigrigobius janssi,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Trachinotus mookalee,Carangidae,1,Indian pompano,demersal,,,0.0,0.0,native,1,0,1,0,0,1
+Trachinotus rhodopus,Carangidae,1,,,,,,,,0,0,1,0,0,0
+Trichiurus auriga,Trichiuridae,1,Pearly hairtail,benthopelagic,250.0,350.0,0.0,0.0,native,1,0,0,0,0,1
+Trichonotus setiger,Trichonotidae,1,,,,,,,,0,0,0,0,0,0
+Amblygobius semicinctus,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Amphiprion chrysogaster,Pomacentridae,1,,,,,,,,0,0,0,0,0,0
+Amphiprion latifasciatus,Pomacentridae,1,,,,,,,,0,0,0,0,0,0
+Anacanthus barbatus,Monacanthidae,1,Bearded leatherjacket,reef-associated,2.0,20.0,1.0,0.0,native,1,1,0,1,1,1
+Apistus carinatus,Apistidae,1,Ocellated waspfish,demersal,14.0,60.0,0.0,0.0,native,1,0,0,1,1,1
+Aplocheilus dayi,Aplocheilidae,1,Ceylon killifish,benthopelagic,,,1.0,1.0,endemic,1,0,0,0,0,1
+Thalassoma purpureum,Labridae,1,Surge wrasse,reef-associated,0.0,10.0,0.0,0.0,native,1,1,0,1,1,1
+Thalassophryne megalops,Batrachoididae,1,,,,,,,,0,0,0,0,0,0
+Auxis thazard,Scombridae,1,Frigate tuna,pelagic-neritic,50.0,,0.0,0.0,native,0,0,1,1,0,1
+Baldwinella eos,Anthiadidae,1,,,,,,,,0,0,0,0,0,0
+Aesopia cornuta,Soleidae,1,,,,,,,,0,0,0,0,0,0
+Aethaloperca rogaa,Epinephelidae,1,Redmouth grouper,reef-associated,3.0,60.0,0.0,0.0,native,1,1,0,1,1,1
+Ahlia egmontis,Ophichthidae,1,,,,,,,,0,0,0,0,0,0
+Albula argentea,Albulidae,1,Longjaw bonefish,demersal,0.0,90.0,0.0,0.0,misidentification,1,0,0,1,1,1
+Alepes vari,Carangidae,1,Herring scad,pelagic-neritic,0.0,10.0,1.0,0.0,native,0,0,1,1,1,1
+Amblyeleotris wheeleri,Gobiidae,1,,,,,,,,0,0,0,0,0,0
+Mugil trichodon,Mugilidae,1,,,,,,,,0,0,0,0,0,0
+Mulloidichthys ayliffe,Mullidae,1,Indian mimic goatfish,reef-associated,1.0,35.0,0.0,0.0,native,1,1,0,1,1,1
+Lactarius lactarius,Lactariidae,1,False trevally,pelagic-neritic,15.0,100.0,1.0,0.0,native,0,0,0,1,0,1
+Laeops kitaharae,Bothidae,1,,,,,,,,0,0,0,0,0,0
+Lagocephalus inermis,Tetraodontidae,1,,,,,,,,0,0,0,0,0,0
+Lagocephalus lunaris,Tetraodontidae,1,,,,,,,,0,0,0,0,0,0
+Laiphognathus multimaculatus,Blenniidae,1,,,,,,,,0,0,0,0,0,0
+Lampanyctus macropterus,Myctophidae,1,,,,,,,,0,0,0,0,0,0
+Microdesmus affinis,Microdesmidae,1,,,,,,,,0,0,0,0,0,0
+Microdesmus carri,Microdesmidae,1,,,,,,,,0,0,0,0,0,0
+Microdesmus dipus,Microdesmidae,1,,,,,,,,0,0,0,0,0,0
+Microphis brachyurus,Syngnathidae,1,Short-tailed pipefish,demersal,0.0,5.0,1.0,1.0,native,1,0,0,1,1,1
+Minous monodactylus,Synanceiidae,1,Grey stingfish,demersal,10.0,55.0,0.0,0.0,native,1,0,0,1,1,1
+Minous trachycephalus,Synanceiidae,1,Striped stingfish,demersal,9.0,112.0,0.0,0.0,native,1,0,0,1,1,1
+Monomitopus conjugator,Ophidiidae,1,,bathydemersal,540.0,760.0,0.0,0.0,native,1,0,0,0,0,1
+Mugil curema,Mugilidae,1,,,,,,,,0,0,0,0,0,0
+Macolor niger,Lutjanidae,1,Black and white snapper,reef-associated,2.0,90.0,0.0,0.0,native,1,1,0,1,1,1
+Macropharyngodon meleagris,Labridae,1,,,,,,,,0,0,0,0,0,0
+Matsubaraea fusiformis,Hemerocoetidae,1,,,,,,,,0,0,0,0,0,0
+Meiacanthus smithi,Blenniidae,1,Disco blenny,reef-associated,1.0,20.0,0.0,0.0,native,1,1,0,1,1,1
+Melamphaes janae,Melamphaidae,1,,,,,,,,0,0,0,0,0,0
+Melanocetus johnsonii,Melanocetidae,1,,,,,,,,0,0,0,0,0,0
+Melanorhinus cyanellus,Atherinopsidae,1,,,,,,,,0,0,0,0,0,0
+Merluccius angustimanus,Merlucciidae,1,,,,,,,,0,0,0,0,0,0
+Xiphasia setifer,Blenniidae,1,,,,,,,,0,0,0,0,0,0
+Xyrichtys rajagopalani,Labridae,1,,,,,,,,0,0,0,0,0,0
+Yarica hyalosoma,Apogonidae,1,,,,,,,,0,0,0,0,0,0
+Zebrasoma velifer,Acanthuridae,1,,,,,,,,0,0,0,0,0,0
+Lutjanus apodus,Lutjanidae,1,,,,,,,,0,0,0,0,0,0
+Lutjanus ehrenbergii,Lutjanidae,1,Blackspot snapper,reef-associated,5.0,20.0,1.0,1.0,native,1,1,0,1,1,1
+Lutjanus vitta,Lutjanidae,1,Brownstripe red snapper,reef-associated,10.0,72.0,1.0,0.0,native,1,1,0,1,1,1
+Lycodon capucinus,Colubridae,1,,,,,,,,0,0,0,0,0,0

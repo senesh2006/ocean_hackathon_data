@@ -2,9 +2,9 @@
 
 Sri Lanka / Indian Ocean datasets for Ocean Hackathon (SplitWater, GAL02).  
 **Study box (occurrence + env grids):** latitude 4°–11°N, longitude 77°–85°E (rectangle, not the exact EEZ).  
-**Built:** 2026-10-16 (fish package). **Maintainer:** Senesh (`senesh2006`).
+**Built:** 2026-10-16 (`fish-data`, `fish-factors` part 1). **Maintainer:** Senesh (`senesh2006`).
 
-Machine-readable indexes: `fish-data/catalog.csv`, `fish-data/data_dictionary.csv`, `fish-data/species_list.csv`.
+Machine-readable indexes: `fish-data/catalog.csv`, `fish-factors/catalog.csv`, column defs in each package’s `data_dictionary.csv`, `fish-data/species_list.csv`.
 
 ---
 
@@ -15,6 +15,7 @@ ocean_hackathon_data/
 ├── README.md                 ← start here (short index)
 ├── DATA.md                   ← this file (schemas and types)
 ├── Fishing_sl.csv            ← fishing effort (AIS / GFW), monthly grid
+├── fish-factors/             ← extra env + habitat covariates (trawl / SDM)
 └── fish-data/
     ├── catalog.csv           ← one row per file (counts, licences, QC)
     ├── data_dictionary.csv   ← merged + ML column definitions
@@ -304,9 +305,40 @@ Updates `merged/`, `train_ready/`, `catalog.*`, and `species_list.csv`.
 
 ---
 
-## 10. Related repos
+## 10. Environmental factors — `fish-factors/` (part 1)
+
+**Type:** Gridded and tabular **covariates** for trawl or species-distribution models. Separate from `fish-data/`; join on `(year, month)` and nearest grid cell (see `fish-factors/README.md`).
+
+**Area:** same box (4–11°N, 77–85°E). ERDDAP longitudes may use 0–360°.
+
+**Index:** `fish-factors/catalog.csv` (one row per file: source, licence, resolution, dates, row counts).
+
+| Folder / file | Content |
+|---------------|---------|
+| `sst/crw_sst_monthly_last24m_0.05deg.csv` | NOAA CRW monthly SST, ~0.05° |
+| `chlorophyll/esa_cci_chla_monthly_last24m_4km.csv` | ESA OC-CCI v6 monthly chlorophyll |
+| `wind/blended_winds_monthly_2014_latest.csv` | NOAA blended 10 m wind speed and u/v |
+| `wind/blended_windstress_monthly_2014_latest.csv` | Wind stress (upwelling driver) |
+| `bottom_temp_salinity_oxygen_woa23/*.csv` | WOA23 monthly climatology: T, S, O₂ at depth levels + near-bottom |
+| `mixed_layer_depth/mld_from_woa23_temperature_monthly_clim_0.25deg.csv` | MLD from WOA23 (0.5 °C criterion) |
+| `climate_indices/dmi_oni_monthly.csv` | IOD (DMI) and ENSO (ONI) with phase labels |
+| `moon_phase/moon_daily_2000_2027_colombo_midnight.csv` | Daily moon illumination, age, phase |
+| `monsoon_calendar/srilanka_monsoon_calendar.csv` | Monsoon season, rough-sea and upwelling flags by month |
+| `coral_reefs_avoid/unep_wcmc_coral_reefs_v4_1_srilanka.geojson` | UNEP-WCMC reef polygons (avoid trawl) |
+| `species_flags/species_demersal_trawl_flags.csv` | Species demersal / trawl-target flags (from `fish-data` list + FishBase) |
+| `scripts/` | Download and rebuild (`dl_erddap.py`, `woa23.py`, `habitat.py`, …) |
+
+**Format:** Most rasters are **long CSV**: `time` or month, `latitude`, `longitude`, value column(s). GeoJSON for reefs. Parquet may appear in later parts for large habitat grids (see catalog).
+
+**Gaps in this upload:** `catalog.csv` lists additional layers (SLA, currents, SMAP SSS, CHIRPS/GPCP rainfall, 1′ seabed habitat grid) that may ship in a later part or need re-download — check which files exist under `fish-factors/` on disk.
+
+**Licences:** NOAA public domain for most CoastWatch products; ESA CCI CC-BY 4.0; UNEP-WCMC reefs non-commercial; FishBase-derived flags CC-BY-NC.
+
+---
+
+## 11. Related repos
 
 | Repo | Role |
 |------|------|
 | [splitwater-redesign](https://github.com/Ocean-Hackathon-Futoura/splitwater-redesign) | App; consumes `Fishing_sl.csv` via API for fish likelihood |
-| [Ocean-Hackathon-Futoura/data-source](https://github.com/Ocean-Hackathon-Futoura/data-source) | Team mirror of `fish-data/` + `Fishing_sl.csv` |
+| [Ocean-Hackathon-Futoura/data-source](https://github.com/Ocean-Hackathon-Futoura/data-source) | Team mirror of `fish-data/`, `fish-factors/`, and `Fishing_sl.csv` |
