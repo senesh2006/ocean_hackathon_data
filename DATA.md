@@ -15,6 +15,7 @@ ocean_hackathon_data/
 ├── README.md                 ← start here (short index)
 ├── DATA.md                   ← this file (schemas and types)
 ├── Fishing_sl.csv            ← fishing effort (AIS / GFW), monthly grid
+├── srilanka-banned-marine/   ← banned/restricted species & gear–area rules
 ├── fish-factors/             ← env + habitat covariates (trawl / SDM; 22 catalogued files)
 │   ├── sst/, chlorophyll/, wind/, sea_level_eddies/, currents/, salinity_surface/
 │   ├── bottom_temp_salinity_oxygen_woa23/, mixed_layer_depth/, rainfall/
@@ -368,7 +369,25 @@ CoastWatch ERDDAP did not return all months for every product (wind ends ~2025-0
 
 ---
 
-## 11. Related repos
+## 11. Regulations — `srilanka-banned-marine/`
+
+**Type:** Curated **legal/regulatory reference** (not legal advice). Built 2026-10-16. Confirm with [DFAR](https://fisheriesdept.gov.lk/fisheries-regulation/) and current Gazettes before operational use.
+
+| File | Rows | Description |
+|------|------|-------------|
+| `srilanka_banned_restricted_marine_species.csv` / `.parquet` | 90 | Species, genus, or groups with ban, size limit, season, or export restrictions |
+| `gear_area_rules.csv` / `.parquet` | 9 | Method and area rules (e.g. **bottom trawling ban** under FARA Amendment Act No. 11 of 2017) |
+| `scripts/species_input.py`, `build.py` | — | Curated entries; WoRMS matching; `in_occurrence_dataset` flag vs `fish-data/species_list.csv` |
+
+**Key columns (species table):** `scientific_name`, `worms_valid_name`, `worms_aphia_id`, `restriction_type`, `details`, `legal_instrument`, `gazette_number_and_date`, `trawl_bycatch_risk`, `in_occurrence_dataset`, `notes`.
+
+**Key columns (gear/area):** `rule`, `details`, `legal_instrument`, `gazette_number_and_date`, `source_url`.
+
+Full column list: `srilanka-banned-marine/data_dictionary.csv`. Method and caveats: `srilanka-banned-marine/README.md`.
+
+---
+
+## 12. Related repos
 
 | Repo | Role |
 |------|------|

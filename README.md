@@ -15,8 +15,9 @@ Public data bundle for **Ocean Hackathon 2026 — SplitWater (GAL02)**: Sri Lank
 | **[DATA.md](DATA.md)** | Full reference: every file, column groups, formats, licences, how datasets relate |
 | [fish-data/README.md](fish-data/README.md) | Species occurrences, cleaning, ML caveats, rebuild steps |
 | [fish-factors/README.md](fish-factors/README.md) | Environmental / habitat layers, ERDDAP gaps, trawl model notes |
+| [srilanka-banned-marine/README.md](srilanka-banned-marine/README.md) | Banned / restricted marine species and gear–area rules (not legal advice) |
 
-Machine-readable indexes: `fish-data/catalog.csv`, `fish-factors/catalog.csv`, and each package’s `data_dictionary.csv`.
+Machine-readable indexes: each package’s `catalog.csv` and `data_dictionary.csv`.
 
 ---
 
@@ -27,6 +28,7 @@ Machine-readable indexes: `fish-data/catalog.csv`, `fish-factors/catalog.csv`, a
 | [`Fishing_sl.csv`](Fishing_sl.csv) | Global Fishing Watch **fishing hours** on a 0.1° monthly grid (61,420 rows, 2012–2024) | Effort labels; SplitWater fish-likelihood model (v1) |
 | [`fish-data/`](fish-data/) | **Species presence** (OBIS, GBIF), FishBase & IOTC tables, env grids, merged clean set (7,355 records, 1,090 species), `train_ready/features.parquet` | SDM / species models; join with factors |
 | [`fish-factors/`](fish-factors/) | **Ocean & habitat covariates** (22 data files): SST, chlorophyll, wind, SLA, currents, SMAP salinity, WOA23 bottom T/S/O₂, MLD, rainfall, moon, monsoon, IOD/ONI, seabed/trawl grid, coral reefs, species trawl flags | Trawl / distribution models; richer env than `fish-data/env/` alone |
+| [`srilanka-banned-marine/`](srilanka-banned-marine/) | **Regulatory context**: 90 banned/restricted species rows + 9 gear/area rules (FARA, FFPO, IOTC, DFAR sources) | Compliance overlays, bycatch risk, route planning |
 
 ---
 
@@ -57,8 +59,9 @@ ocean_hackathon_data/
 ├── README.md          ← this file
 ├── DATA.md            ← data dictionary
 ├── Fishing_sl.csv
-├── fish-data/         ← occurrences + fish-data/env (historical grids for build.py)
-└── fish-factors/      ← extended environmental & habitat stack (complete set)
+├── fish-data/                 ← occurrences + env grids for build.py
+├── fish-factors/              ← extended environmental & habitat stack
+└── srilanka-banned-marine/    ← banned/restricted species & gear rules
 ```
 
 Built **2026-10-16**. Refresh scripts live under each package’s `scripts/` folder.

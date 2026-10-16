@@ -1,0 +1,5 @@
+file,rows,description,sources,built
+srilanka_banned_restricted_marine_species.csv,90,Species/groups banned or restricted,"FARA 1996 regulations, FFPO 2009, IOTC CMMs, CITES",2026-10-16
+srilanka_banned_restricted_marine_species.parquet,90,"Same, Parquet",,2026-10-16
+gear_area_rules.csv,9,Gear/area/method rules,"FARA Amendment 11/2017, DFAR regulations",2026-10-16
+gear_area_rules.parquet,9,"Same, Parquet",,2026-10-16

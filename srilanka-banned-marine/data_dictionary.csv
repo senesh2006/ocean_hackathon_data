@@ -1,0 +1,28 @@
+file,column,description
+srilanka_banned_restricted_marine_species.csv,scientific_name,Name as used in the legal source (or group taxon)
+srilanka_banned_restricted_marine_species.csv,worms_valid_name,Accepted name in WoRMS
+srilanka_banned_restricted_marine_species.csv,worms_aphia_id,WoRMS AphiaID (accepted)
+srilanka_banned_restricted_marine_species.csv,worms_rank,WoRMS rank
+srilanka_banned_restricted_marine_species.csv,worms_match_status,WoRMS status of the input name
+srilanka_banned_restricted_marine_species.csv,common_name_en,English common name
+srilanka_banned_restricted_marine_species.csv,sinhala_name,Sinhala name (from the 2009 schedule where available)
+srilanka_banned_restricted_marine_species.csv,tamil_name,Tamil name
+srilanka_banned_restricted_marine_species.csv,group,shark/ray/turtle/mammal/fish/invertebrate/coral
+srilanka_banned_restricted_marine_species.csv,restriction_type,total ban / no landing / size limit / closed season / gear or area restriction / export ban
+srilanka_banned_restricted_marine_species.csv,details,"Limits, seasons, areas, exceptions"
+srilanka_banned_restricted_marine_species.csv,legal_instrument,Law / regulation / IOTC resolution
+srilanka_banned_restricted_marine_species.csv,gazette_number_and_date,Gazette Extraordinary number and date
+srilanka_banned_restricted_marine_species.csv,source_url,Where the text was read
+srilanka_banned_restricted_marine_species.csv,iucn_status,IUCN Red List category (context)
+srilanka_banned_restricted_marine_species.csv,cites_appendix,CITES appendix (context)
+srilanka_banned_restricted_marine_species.csv,trawl_bycatch_risk,yes/no/unknown for shelf trawl or gillnet gear
+srilanka_banned_restricted_marine_species.csv,in_occurrence_dataset,Present in fish-data/species_list.csv
+srilanka_banned_restricted_marine_species.csv,notes,Caveats and verification notes
+srilanka_banned_restricted_marine_species.csv,taxon_rank_level,species/genus/family/group
+srilanka_banned_restricted_marine_species.csv,last_verified,Date checked
+gear_area_rules.csv,rule,Rule subject
+gear_area_rules.csv,details,What is prohibited
+gear_area_rules.csv,legal_instrument,Instrument
+gear_area_rules.csv,gazette_number_and_date,Gazette
+gear_area_rules.csv,source_url,Source
+gear_area_rules.csv,last_verified,Date
