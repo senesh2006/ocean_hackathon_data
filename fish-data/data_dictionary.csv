@@ -1,0 +1,39 @@
+column,description,in_merged
+source,OBIS or GBIF,True
+record_id,Source record id,True
+scientific_name,Name as published,True
+species,Accepted species,True
+family,Family,True
+lat,Latitude WGS84,True
+lon,Longitude WGS84,True
+coord_uncertainty_m,"Coordinate uncertainty (m), GBIF only",True
+depth_m,Recorded sample depth (m),True
+basis_of_record,Observation type,True
+dataset,Source dataset,True
+license,Record license,True
+qc_flags,OBIS flags / GBIF issues,True
+date,Event date YYYY-MM-DD,True
+year,Year,True
+month,Month,True
+bathy_depth_m,"Seafloor depth from ETOPO2022 (m, 0 if coastal snap)",True
+coastal_snap,1 = record on coastline land cell within ~5 km of water,True
+sst_c,"Monthly SST at record month/cell (C), NaN before 2003 (download window)",True
+sst_c_clim,Monthly SST climatology for cell (C),True
+chla_mg_m3,"Monthly chl-a at record month/cell (mg m-3), NaN before 2003 (download window)",True
+chla_mg_m3_clim,Monthly chl-a climatology for cell,True
+month_sin,sin(2pi month/12),False
+month_cos,cos(2pi month/12),False
+log_bathy,log1p(bathy_depth_m),False
+sst_filled,sst_c else climatology,False
+log_chla,"log10(chl-a, climatology filled)",False
+bor_PreservedSpecimen,One-hot basis_of_record,False
+bor_HumanObservation,One-hot basis_of_record,False
+bor_Occurrence,One-hot basis_of_record,False
+bor_MaterialSample,One-hot basis_of_record,False
+bor_MachineObservation,One-hot basis_of_record,False
+src_obis,1 if OBIS,False
+spatial_block_1deg,1-degree cell id floor(lat)*100+floor(lon),False
+label_species,Species label,False
+label_id,Integer-encoded species,False
+split_spatial,train/val/test by 1-degree block (seed 42),False
+split_temporal,"train<2012, val 2012-2017, test>=2018",False
