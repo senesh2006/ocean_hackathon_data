@@ -326,11 +326,17 @@ Updates `merged/`, `train_ready/`, `catalog.*`, and `species_list.csv`.
 | `monsoon_calendar/srilanka_monsoon_calendar.csv` | Monsoon season, rough-sea and upwelling flags by month |
 | `coral_reefs_avoid/unep_wcmc_coral_reefs_v4_1_srilanka.geojson` | UNEP-WCMC reef polygons (avoid trawl) |
 | `species_flags/species_demersal_trawl_flags.csv` | Species demersal / trawl-target flags (from `fish-data` list + FishBase) |
+| `sea_level_eddies/sla_daily_last24m.csv` | Daily sea level anomaly (eddies) |
+| `currents/surface_currents_daily_last24m.csv` | Daily surface current u/v |
+| `salinity_surface/smap_sss_daily_last24m.csv` | SMAP daily sea surface salinity |
+| `rainfall/chirps_*.csv`, `gpcp_*.csv` | CHIRPS (land) and GPCP rainfall |
+| `seabed_shelf_habitat/shelf_habitat_grid_1arcmin_water.csv` | 1′ depth, slope, shelf, trawl flags (water cells) |
+| `seabed_shelf_habitat/shelf_habitat_grid_1arcmin.parquet` | Full grid including land |
 | `scripts/` | Download and rebuild (`dl_erddap.py`, `woa23.py`, `habitat.py`, …) |
 
-**Format:** Most rasters are **long CSV**: `time` or month, `latitude`, `longitude`, value column(s). GeoJSON for reefs. Parquet may appear in later parts for large habitat grids (see catalog).
+**Format:** Most rasters are **long CSV**: `time` or month, `latitude`, `longitude`, value column(s). GeoJSON for reefs; Parquet for large habitat grids.
 
-**Gaps in this upload:** `catalog.csv` lists additional layers (SLA, currents, SMAP SSS, CHIRPS/GPCP rainfall, 1′ seabed habitat grid) that may ship in a later part or need re-download — check which files exist under `fish-factors/` on disk.
+**Parts:** part 1 (SST, chl, wind, WOA23, moon, …) + part 2 (SLA, currents, SMAP, rainfall, seabed habitat). Full file list: `fish-factors/catalog.csv`.
 
 **Licences:** NOAA public domain for most CoastWatch products; ESA CCI CC-BY 4.0; UNEP-WCMC reefs non-commercial; FishBase-derived flags CC-BY-NC.
 
