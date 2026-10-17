@@ -6,6 +6,11 @@ Coordinates are WGS84; ERDDAP longitudes are 0–360 (equivalent to 77–85E). E
 - `sst/`: NOAA Coral Reef Watch monthly SST, 0.05°, last ~24 months.
 - `chlorophyll/`: ESA OC-CCI v6 monthly chlorophyll-a, ~4 km. Latest is Jun 2026, because the product lags a few months.
 - `wind/`: NOAA blended winds and wind stress, monthly, 0.25°, 2014 to latest. Wind stress drives upwelling; compute climatology with groupby(month).
+  **Use the `_qc.csv` files** (added 2026-10-17, `scripts/qc_windstress.py`). The raw stress file has impossible values
+  (|τ| up to 1,323 N/m²) that are in the NOAA product itself, 127 of the 133 on cells the product's own mask marks as land,
+  and both raw files repeat every January from 2015 on. The `_qc` files drop the repeats, set land-mask cells and
+  values above 3 N/m² (per component) or 1 N/m² (monthly |τ|) to NaN, and add `mask` and `qc_flag`. Every blanked or
+  removed row is in `wind/qc/windstress_outliers.csv` and `wind/qc/winds_outliers.csv`. The raw files are unchanged.
 - `sea_level_eddies/`: daily sea level anomaly, 0.25°. Positive values are warm (anticyclonic) eddies; negative values are cold (cyclonic) eddies or upwelling.
 - `currents/`: daily surface currents (u/v), 0.25°.
 - `salinity_surface/`: SMAP daily sea surface salinity, 0.25°. Coastal cells within ~40 km of land are often missing.
