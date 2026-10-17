@@ -1,0 +1,8 @@
+step,rows,OBIS,GBIF
+raw_combined,22391,9663,12728
+after_taxonomy_validation,22391,9663,12728
+after_drop_missing_coord_date_species,12561,4799,7762
+after_box_year_coordqc,12049,4318,7731
+after_dedupe,7540,3937,3603
+after_land_mask_FINAL_clean,6066,3719,2347
+recommended_subset,3367,1867,1500
