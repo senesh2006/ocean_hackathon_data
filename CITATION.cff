@@ -1,0 +1,105 @@
+cff-version: 1.2.0
+message: >-
+  If you use this data library, please cite it as below AND cite the original
+  data sources listed under references (see data_library.csv, column
+  "attribution", for the per-file citation).
+type: dataset
+title: "ocean_hackathon_data: Sri Lanka fish occurrence, ocean environment, genetics, morphology and regulatory data library"
+version: 3.0.0
+date-released: 2026-10-17
+authors:
+  - family-names: Fernando
+    given-names: Senesh
+    alias: senesh2006
+    email: seneshfernando55@gmail.com
+repository-code: "https://github.com/senesh2006/ocean_hackathon_data"
+url: "https://github.com/senesh2006/ocean_hackathon_data"
+abstract: >-
+  Validated fish-only occurrence records (OBIS + GBIF, WoRMS-resolved names) for
+  Sri Lankan waters (lat 4-11N, lon 77-85E) with environmental covariates
+  (NOAA/ESA/WOA23/CHIRPS/GPCP), ML-ready feature tables and background points,
+  FishBase traits, GenBank/BOLD barcodes, IOTC catch, Global Fishing Watch
+  effort, and Sri Lankan banned/restricted species and gear rules. Every file is
+  listed with source, licence and SHA-256 in data_library.csv.
+keywords:
+  - Sri Lanka
+  - fish
+  - species distribution modelling
+  - OBIS
+  - GBIF
+  - fisheries
+  - oceanography
+  - Ocean Hackathon 2026
+license: CC-BY-4.0
+license-url: "https://github.com/senesh2006/ocean_hackathon_data/blob/main/LICENSE"
+references:
+  - type: database
+    title: "Ocean Biodiversity Information System (OBIS)"
+    authors: [{name: "OBIS / IOC-UNESCO"}]
+    url: "https://obis.org"
+  - type: database
+    title: "GBIF Occurrence Search"
+    authors: [{name: "GBIF.org"}]
+    url: "https://www.gbif.org"
+  - type: database
+    title: "World Register of Marine Species (WoRMS)"
+    authors: [{name: "WoRMS Editorial Board"}]
+    doi: 10.14284/170
+    url: "https://www.marinespecies.org"
+  - type: database
+    title: "FishBase (version 06/2024, v24.07)"
+    authors: [{family-names: Froese, given-names: Rainer}, {family-names: Pauly, given-names: Daniel}]
+    url: "https://www.fishbase.org"
+    license: CC-BY-NC-4.0
+  - type: article
+    title: "BOLD: The Barcode of Life Data System"
+    authors: [{family-names: Ratnasingham, given-names: Sujeevan}, {family-names: Hebert, given-names: Paul D. N.}]
+    journal: "Molecular Ecology Notes"
+    volume: 7
+    start: 355
+    end: 364
+    year: 2007
+  - type: database
+    title: "GenBank (NCBI nuccore)"
+    authors: [{name: "National Center for Biotechnology Information"}]
+    url: "https://www.ncbi.nlm.nih.gov/genbank/"
+  - type: data
+    title: "NOAA Coral Reef Watch SST v3.1; NOAA CoastWatch blended winds, SSH, currents, SMAP SSS"
+    authors: [{name: "NOAA"}]
+    url: "https://coastwatch.noaa.gov/erddap"
+  - type: data
+    title: "ESA Ocean Colour CCI v6.0 chlorophyll-a"
+    authors: [{name: "ESA Ocean Colour CCI"}]
+    url: "https://www.oceancolour.org"
+    license: CC-BY-4.0
+  - type: data
+    title: "ETOPO 2022 Global Relief Model"
+    authors: [{name: "NOAA National Centers for Environmental Information"}]
+    doi: 10.25921/fd45-gt74
+  - type: data
+    title: "World Ocean Atlas 2023"
+    authors: [{name: "NOAA National Centers for Environmental Information"}]
+    url: "https://www.ncei.noaa.gov/products/world-ocean-atlas"
+  - type: article
+    title: "The climate hazards infrared precipitation with stations (CHIRPS)"
+    authors: [{family-names: Funk, given-names: Chris}]
+    journal: "Scientific Data"
+    volume: 2
+    year: 2015
+  - type: data
+    title: "GPCP v2.3 monthly precipitation"
+    authors: [{name: "NOAA PSL / GPCP"}]
+    url: "https://psl.noaa.gov/data/gridded/data.gpcp.html"
+  - type: data
+    title: "Global distribution of warm-water coral reefs v4.1"
+    authors: [{name: "UNEP-WCMC, WorldFish Centre, WRI, TNC"}]
+    doi: 10.34892/t2wk-5t34
+  - type: data
+    title: "IOTC nominal catch dataset"
+    authors: [{name: "IOTC Secretariat"}]
+    url: "https://iotc.org/data/datasets"
+  - type: data
+    title: "Global Fishing Watch fishing effort"
+    authors: [{name: "Global Fishing Watch"}]
+    url: "https://globalfishingwatch.org"
+    license: CC-BY-NC-4.0
