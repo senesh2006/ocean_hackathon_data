@@ -8,6 +8,16 @@ Public data bundle for **Ocean Hackathon 2026 — SplitWater (GAL02)**: Sri Lank
 
 ---
 
+## Canonical repository & data library
+
+**This repository — [senesh2006/ocean_hackathon_data](https://github.com/senesh2006/ocean_hackathon_data) — is the canonical source for every dataset listed here.** Cite it, clone from it and report issues against it. Releases are tagged here (latest: [`v3.0.0`](https://github.com/senesh2006/ocean_hackathon_data/releases/tag/v3.0.0)).
+
+- [Ocean-Hackathon-Futoura/data-source](https://github.com/Ocean-Hackathon-Futoura/data-source) is the **team organisation's repository**. It holds the candidate-sources catalogue README plus a manually copied **v1 snapshot** (last updated 2026-10-16 23:13 Asia/Colombo). It is not a git fork or an automatic mirror, and it has **no v2/v3 data**: its `fish-data/` still has the v1 reptile-contaminated GBIF, merged and train_ready files. Use this repo for data.
+- **Data library:** [DATA_LIBRARY.md](DATA_LIBRARY.md) (datasets, licence matrix, how to cite, versioning) · [data_library.csv](data_library.csv) (every file: source, licence, commercial-use flag, SHA-256) · [LICENSE](LICENSE) · [CITATION.cff](CITATION.cff) · [CHANGELOG.md](CHANGELOG.md)
+- **Newer packages since this README was first written:** [`srilanka-fish-genetics/`](srilanka-fish-genetics/) (GenBank + BOLD barcodes), [`srilanka-fish-morphology/`](srilanka-fish-morphology/) (FishBase traits), [`srilanka-fish-movement-tagging/`](srilanka-fish-movement-tagging/) (how to request tagging data), and `splitwater_ro_log_1h_5s.csv` (provenance unknown). `updated data sets/` is a **superseded** v2 partial upload; use `fish-data/` (v3) instead. The fish-data counts in the "What’s in this repo" table below are from v1. v3 has 6,004 clean records and 1,437 species, all fish.
+
+---
+
 ## Start here
 
 | Document | Purpose |

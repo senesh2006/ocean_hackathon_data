@@ -1,0 +1,84 @@
+ocean_hackathon_data — licence summary
+=======================================
+
+Canonical repository: https://github.com/senesh2006/ocean_hackathon_data
+Copyright (c) 2026 Senesh Fernando (GitHub: senesh2006)
+
+This repository is a DATA LIBRARY. It mixes original work by the maintainer with
+third-party data. Different parts are under different licences:
+
+1. ORIGINAL CODE (all *.py scripts in this repository)
+   Licensed under the MIT License (full text below and in LICENSES/MIT.txt).
+
+2. ORIGINAL COMPILATION, DOCUMENTATION AND METADATA
+   (README/CHANGELOG/DATA*.md files, catalog.*, data_dictionary.*, data_library.*,
+   CITATION.cff, the selection/arrangement of the compiled datasets, QC summaries,
+   computed tables such as moon phase and the monsoon calendar, and the
+   srilanka-banned-marine compilation)
+   Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+   Full text: LICENSES/CC-BY-4.0.txt — https://creativecommons.org/licenses/by/4.0/
+
+3. THIRD-PARTY DATA KEEPS ITS ORIGINAL LICENCE
+   Every data file and every record that comes from (or is derived from) a third-party
+   source stays under that source's licence. Nothing in this repository relicenses it.
+   The licence of each file is listed in data_library.csv (columns `license`,
+   `license_url`, `commercial_use_ok`, `attribution`, `license_note`) and summarised
+   in DATA_LIBRARY.md. Where a file combines several sources, the MOST RESTRICTIVE
+   licence applies to the file as a whole. In particular:
+
+   * CC BY-NC 4.0 parts are NON-COMMERCIAL ONLY: FishBase-derived tables
+     (srilanka-fish-morphology/, fish-data/fishbase/, fish-data/species_list.csv,
+     fish-factors/species_flags/), Global Fishing Watch effort (Fishing_sl.csv), and
+     OBIS/GBIF records whose `license_norm` is CC-BY-NC-4.0. Any file that contains
+     such records (fish-data/obis, gbif, merged, train_ready feature tables, qc audit
+     rows) is non-commercial as a whole unless you filter to CC0/CC-BY records.
+     Full text: LICENSES/CC-BY-NC-4.0.txt
+   * CC BY-SA 4.0 parts are SHARE-ALIKE: BOLD Systems barcode data and anything derived
+     from it (srilanka-fish-genetics/ BOLD files, species_barcode_coverage.csv,
+     qc/sequenced_taxa_not_in_v3_occurrence_list.csv). Adapted material must be shared
+     under CC BY-SA 4.0. Full text: LICENSES/CC-BY-SA-4.0.txt
+   * CC0 1.0 records (some OBIS/GBIF records) are public-domain dedicated.
+     Full text: LICENSES/CC0-1.0.txt
+   * UNEP-WCMC coral reefs (fish-factors/coral_reefs_avoid/, and the coral_reef /
+     trawl_candidate columns of fish-factors/seabed_shelf_habitat/) are under the
+     UNEP-WCMC General Data License: non-commercial use, citation required
+     (doi:10.34892/t2wk-5t34).
+   * US Government works (NOAA, NASA, NCEI: SST, winds, SLA, currents, SMAP, WOA23,
+     ETOPO, GPCP, DMI/ONI) are public domain in the US; please cite the source.
+     CHIRPS (UCSB Climate Hazards Center) is public domain; please cite Funk et al. 2015.
+   * IOTC nominal catch: public, with acknowledgement of the IOTC Secretariat required.
+   * NCBI GenBank: NCBI places no restrictions on use; some submitters may claim
+     patent or copyright on particular sequences.
+   * WoRMS name data: CC BY 4.0. ESA OC-CCI chlorophyll: CC BY 4.0.
+   * Files whose licence is "unknown" in data_library.csv (currently
+     splitwater_ro_log_1h_5s.csv) have no licence grant: all rights reserved until
+     the owner confirms.
+
+   Attribution for third-party sources is given per file in data_library.csv and in
+   CITATION.cff (references). Regulatory data in srilanka-banned-marine/ is NOT
+   legal advice.
+
+THIS DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+-------------------------------------------------------------------------------
+MIT License (applies to the original code, see section 1)
+
+Copyright (c) 2026 Senesh Fernando
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
