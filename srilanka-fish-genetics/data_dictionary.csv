@@ -1,0 +1,73 @@
+file,column,description
+genbank_srilanka_fish_sequences_metadata.csv,source,GenBank or BOLD
+genbank_srilanka_fish_sequences_metadata.csv,record_id,GenBank accession.version / BOLD processid
+genbank_srilanka_fish_sequences_metadata.csv,organism,GenBank organism name
+genbank_srilanka_fish_sequences_metadata.csv,v3_accepted_name,fish-data-v3 accepted name (NaN if taxon not in v3 occurrence list)
+genbank_srilanka_fish_sequences_metadata.csv,name_match,v3_name / fishbase_synonym / not_in_v3
+genbank_srilanka_fish_sequences_metadata.csv,class_ncbi,Actinopterygii / Chondrichthyes (NCBI lineage)
+genbank_srilanka_fish_sequences_metadata.csv,family_ncbi,Family from NCBI lineage
+genbank_srilanka_fish_sequences_metadata.csv,marker,"COI, CYTB, 16S, 12S, ND, control_region, nuclear, mitogenome, other (GenBank: parsed from gene/product/definition); BOLD: marker_code (COI-5P, 16S)"
+genbank_srilanka_fish_sequences_metadata.csv,genes,Gene/product qualifiers
+genbank_srilanka_fish_sequences_metadata.csv,definition,GenBank definition line
+genbank_srilanka_fish_sequences_metadata.csv,seq_length,"Sequence length (bp, gaps removed for BOLD)"
+genbank_srilanka_fish_sequences_metadata.csv,country,Collection country (GenBank /country or /geo_loc_name; BOLD country/ocean)
+genbank_srilanka_fish_sequences_metadata.csv,lat_lon_raw,GenBank /lat_lon as submitted
+genbank_srilanka_fish_sequences_metadata.csv,lat,Latitude (decimal)
+genbank_srilanka_fish_sequences_metadata.csv,lon,Longitude (decimal)
+genbank_srilanka_fish_sequences_metadata.csv,collection_date,GenBank /collection_date
+genbank_srilanka_fish_sequences_metadata.csv,specimen_voucher,Voucher
+genbank_srilanka_fish_sequences_metadata.csv,isolate,Isolate
+genbank_srilanka_fish_sequences_metadata.csv,bold_id,BOLD xref in GenBank record
+genbank_srilanka_fish_sequences_metadata.csv,reference,First reference title
+genbank_srilanka_fish_sequences_metadata.csv,submission_date,GenBank record date
+genbank_srilanka_fish_sequences_metadata.csv,url,Record URL
+genbank_srilanka_fish_sequences_metadata.csv,license,Terms
+bold_srilanka_fish_barcodes_metadata.csv,source,GenBank or BOLD
+bold_srilanka_fish_barcodes_metadata.csv,record_id,GenBank accession.version / BOLD processid
+bold_srilanka_fish_barcodes_metadata.csv,sampleid,BOLD sample id
+bold_srilanka_fish_barcodes_metadata.csv,bin_uri,BOLD Barcode Index Number (cluster ~ species)
+bold_srilanka_fish_barcodes_metadata.csv,class_bold,BOLD class
+bold_srilanka_fish_barcodes_metadata.csv,order,Order
+bold_srilanka_fish_barcodes_metadata.csv,family,Family
+bold_srilanka_fish_barcodes_metadata.csv,genus,Genus
+bold_srilanka_fish_barcodes_metadata.csv,species_bold,BOLD species name
+bold_srilanka_fish_barcodes_metadata.csv,identification,BOLD identification
+bold_srilanka_fish_barcodes_metadata.csv,identification_rank,Rank of identification
+bold_srilanka_fish_barcodes_metadata.csv,v3_accepted_name,fish-data-v3 accepted name (NaN if taxon not in v3 occurrence list)
+bold_srilanka_fish_barcodes_metadata.csv,name_match,v3_name / fishbase_synonym / not_in_v3
+bold_srilanka_fish_barcodes_metadata.csv,marker,"COI, CYTB, 16S, 12S, ND, control_region, nuclear, mitogenome, other (GenBank: parsed from gene/product/definition); BOLD: marker_code (COI-5P, 16S)"
+bold_srilanka_fish_barcodes_metadata.csv,seq_length,"Sequence length (bp, gaps removed for BOLD)"
+bold_srilanka_fish_barcodes_metadata.csv,genbank_accession,INSDC accession of the BOLD record
+bold_srilanka_fish_barcodes_metadata.csv,country,Collection country (GenBank /country or /geo_loc_name; BOLD country/ocean)
+bold_srilanka_fish_barcodes_metadata.csv,province_state,Province
+bold_srilanka_fish_barcodes_metadata.csv,region,Region
+bold_srilanka_fish_barcodes_metadata.csv,site,Site
+bold_srilanka_fish_barcodes_metadata.csv,lat,Latitude (decimal)
+bold_srilanka_fish_barcodes_metadata.csv,lon,Longitude (decimal)
+bold_srilanka_fish_barcodes_metadata.csv,coord_source,Coordinate source
+bold_srilanka_fish_barcodes_metadata.csv,depth,Depth
+bold_srilanka_fish_barcodes_metadata.csv,habitat,Habitat
+bold_srilanka_fish_barcodes_metadata.csv,collection_date_start,Collection date
+bold_srilanka_fish_barcodes_metadata.csv,collectors,Collectors
+bold_srilanka_fish_barcodes_metadata.csv,identified_by,Identifier
+bold_srilanka_fish_barcodes_metadata.csv,institution,Institution
+bold_srilanka_fish_barcodes_metadata.csv,voucher_type,Voucher type
+bold_srilanka_fish_barcodes_metadata.csv,recordsets,BOLD dataset codes
+bold_srilanka_fish_barcodes_metadata.csv,url,Record URL
+bold_srilanka_fish_barcodes_metadata.csv,license,Terms
+bold_srilanka_fish_barcodes_metadata.csv,also_in_genbank_table,1 if the same accession is in the GenBank table (overlap)
+species_barcode_coverage.csv,scientific_name,v3 accepted species
+species_barcode_coverage.csv,family,Family
+species_barcode_coverage.csv,class,v3 class
+species_barcode_coverage.csv,record_count,v3 occurrence records
+species_barcode_coverage.csv,model_tier,v3 model tier
+species_barcode_coverage.csv,bold_records,BOLD Sri Lanka records
+species_barcode_coverage.csv,bold_bins,BINs
+species_barcode_coverage.csv,bold_with_coords,BOLD records with coordinates
+species_barcode_coverage.csv,genbank_records,GenBank Sri Lanka records (all markers)
+species_barcode_coverage.csv,genbank_coi,GenBank COI records
+species_barcode_coverage.csv,genbank_cytb,GenBank cytb records
+species_barcode_coverage.csv,genbank_with_latlon,GenBank records with lat_lon
+species_barcode_coverage.csv,n_bold_bins,Number of BINs
+species_barcode_coverage.csv,has_sri_lanka_barcode,1 if any BOLD record or GenBank COI from Sri Lanka
+species_barcode_coverage.csv,has_any_sri_lanka_sequence,1 if any Sri Lanka sequence

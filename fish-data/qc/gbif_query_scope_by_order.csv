@@ -1,0 +1,94 @@
+gbif_orderKey,order,gbif_backbone_class,occurrences_in_box,downloaded
+729,Passeriformes,Aves,2120012,False
+7190953,Pelecaniformes,Aves,411770,False
+7192402,Charadriiformes,Aves,323688,False
+1447,Coraciiformes,Aves,260291,False
+1446,Columbiformes,Aves,255736,False
+724,Piciformes,Aves,217343,False
+1492,Cuculiformes,Aves,189122,False
+7191147,Accipitriformes,Aves,170395,False
+1445,Psittaciformes,Aves,153979,False
+7192775,Suliformes,Aves,115488,False
+723,Galliformes,Aves,112984,False
+1448,Apodiformes,Aves,94737,False
+1493,Gruiformes,Aves,80738,False
+839,Ciconiiformes,Aves,62444,False
+1108,Anseriformes,Aves,53452,False
+716,Bucerotiformes,Aves,37542,False
+1450,Strigiformes,Aves,36298,False
+7191588,Podicipediformes,Aves,13825,False
+8510645,Caprimulgiformes,Aves,9874,False
+952,Anura,Amphibia,8880,False
+7191407,Falconiformes,Aves,7860,False
+1449,Trogoniformes,Aves,6550,False
+587,Perciformes,NULL (ray-finned fish in GBIF backbone),6200,True
+798,Primates,Mammalia,6113,False
+1459,Rodentia,Mammalia,5304,False
+731,Artiodactyla,Mammalia,5101,False
+732,Carnivora,Mammalia,3039,False
+1153,Cypriniformes,NULL (ray-finned fish in GBIF backbone),2651,True
+7191426,Phoenicopteriformes,Aves,2512,False
+799,Proboscidea,Mammalia,2250,False
+7192749,Pteroclidiformes,Aves,1663,False
+734,Chiroptera,Mammalia,1642,False
+7192755,Procellariiformes,Aves,1581,False
+772,Tetraodontiformes,NULL (ray-finned fish in GBIF backbone),741,True
+733,Cetacea,Mammalia,488,False
+9589977,Aplousobranchia,Ascidiacea,428,False
+495,Anguilliformes,NULL (ray-finned fish in GBIF backbone),409,True
+785,Lagomorpha,Mammalia,394,False
+1306,Myctophiformes,NULL (ray-finned fish in GBIF backbone),297,True
+497,Aulopiformes,NULL (ray-finned fish in GBIF backbone),270,True
+708,Siluriformes,NULL (ray-finned fish in GBIF backbone),258,True
+590,Scorpaeniformes,NULL (ray-finned fish in GBIF backbone),254,True
+538,Clupeiformes,NULL (ray-finned fish in GBIF backbone),236,True
+498,Beloniformes,NULL (ray-finned fish in GBIF backbone),200,True
+547,Cyprinodontiformes,NULL (ray-finned fish in GBIF backbone),195,True
+9469348,Stolidobranchia,Ascidiacea,181,False
+8214029,Myliobatiformes,Elasmobranchii,174,True
+803,Soricomorpha,Mammalia,113,False
+887,Carcharhiniformes,Elasmobranchii,110,True
+775,Gymnophiona,Amphibia,101,False
+7190987,Phaethontiformes,Aves,93,False
+499,Beryciformes,NULL (ray-finned fish in GBIF backbone),90,True
+774,Stomiiformes,NULL (ray-finned fish in GBIF backbone),89,True
+588,Pleuronectiformes,NULL (ray-finned fish in GBIF backbone),87,True
+773,Syngnathiformes,NULL (ray-finned fish in GBIF backbone),82,True
+9515881,Phlebobranchia,Ascidiacea,78,False
+795,Perissodactyla,Mammalia,48,False
+890,Stephanoberyciformes,NULL (ray-finned fish in GBIF backbone),45,True
+1067,Mugiliformes,NULL (ray-finned fish in GBIF backbone),37,True
+9412443,Rhinopristiformes,Elasmobranchii,32,True
+1305,Lophiiformes,NULL (ray-finned fish in GBIF backbone),29,True
+496,Atheriniformes,NULL (ray-finned fish in GBIF backbone),27,True
+889,Synbranchiformes,NULL (ray-finned fish in GBIF backbone),27,True
+1308,Ophidiiformes,NULL (ray-finned fish in GBIF backbone),26,True
+881,Torpediniformes,Elasmobranchii,25,True
+769,Orectolobiformes,Elasmobranchii,22,True
+796,Pholidota,Mammalia,22,False
+1441,Copelata,NULL (Appendicularia/tunicate),20,False
+549,Gadiformes,NULL (ray-finned fish in GBIF backbone),20,True
+885,Lamniformes,Elasmobranchii,18,True
+1156,Salpida,Thaliacea,14,False
+883,Squaliformes,Elasmobranchii,14,True
+717,Doliolida,Thaliacea,11,False
+1162,Elopiformes,NULL (ray-finned fish in GBIF backbone),9,True
+1164,Gonorynchiformes,NULL (ray-finned fish in GBIF backbone),8,True
+1313,Salmoniformes,NULL (ray-finned fish in GBIF backbone),7,True
+1068,Osmeriformes,NULL (ray-finned fish in GBIF backbone),6,True
+1106,Batrachoidiformes,NULL (ray-finned fish in GBIF backbone),6,True
+829,Erinaceomorpha,Mammalia,6,False
+1069,Osteoglossiformes,NULL (ray-finned fish in GBIF backbone),4,True
+1166,Lampriformes,NULL (ray-finned fish in GBIF backbone),4,True
+540,Pyrosomatida,Thaliacea,4,False
+550,Gasterosteiformes,NULL (ray-finned fish in GBIF backbone),4,True
+770,Hexanchiformes,Elasmobranchii,4,True
+1163,Gobiesociformes,NULL (ray-finned fish in GBIF backbone),2,True
+1307,Notacanthiformes,NULL (ray-finned fish in GBIF backbone),2,True
+802,Sirenia,Mammalia,2,False
+953,Caudata,Amphibia,2,False
+1104,Albuliformes,NULL (ray-finned fish in GBIF backbone),1,True
+1107,Cetomimiformes,NULL (ray-finned fish in GBIF backbone),1,True
+1167,Lepisosteiformes,NULL (ray-finned fish in GBIF backbone),1,True
+537,Characiformes,NULL (ray-finned fish in GBIF backbone),1,True
+884,Rajiformes,Elasmobranchii,1,True

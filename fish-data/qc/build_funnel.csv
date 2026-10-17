@@ -1,0 +1,12 @@
+step,rows,OBIS,GBIF,build
+raw_combined,22391,9663,12728,v2
+after_taxonomy_validation,22391,9663,12728,v2
+after_drop_missing_coord_date_species,12561,4799,7762,v2
+after_box_year_coordqc,12049,4318,7731,v2
+after_dedupe,7540,3937,3603,v2
+after_land_mask_FINAL_clean,6066,3719,2347,v2
+recommended_subset,3367,1867,1500,v2
+v2_clean,6066,3719,2347,v3
+after_accepted_name_dedupe,6004,3719,2285,v3
+recommended_subset_v3,3280,1857,1423,v3
+freshwater_only_records_in_clean,225,14,211,v3

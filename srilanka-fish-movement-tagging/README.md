@@ -1,0 +1,14 @@
+# Fish tagging / movement data for Sri Lanka and the central Indian Ocean — what exists and how to get it
+Checked 2026-10-17 (Asia/Colombo). **No tagging data was downloaded: none of the sources below offers an open bulk download for this region.** This folder documents them so you can request access. Nothing here is fabricated.
+
+| Source | What it has | Access | How to request |
+|---|---|---|---|
+| IOTC tagging database (EU-funded Regional Tuna Tagging Programme, RTTP-IO, plus several small-scale tagging projects) | Release and recovery records of IOTC species, mainly tropical tunas, with recoveries reported to the Secretariat up to July 2014 (latest extract listed). Formats: .mdb, .xls, .csv + variable definitions | Marked **"Restricted Access"** on https://iotc.org/tagging-data-2014-0 (login needed) | Email the IOTC Secretariat, secretariat@iotc.org (subject "Inquiry about tagging data"), state the purpose (hackathon, non-commercial research) and ask for the RTTP-IO release/recapture extract |
+| Movebank (Max Planck Institute of Animal Behavior) | Global animal tracking studies; each study's owner sets the access (name only / view tracks / download). Licences, when given, are CC0, CC BY or CC BY-NC | Search the Tracking Data Map at https://www.movebank.org (Data > Map; filter by taxon, e.g. Thunnus, Rhincodon typus, Carcharhinus, Istiophoridae). The public JSON study list did not respond from our server, so no study was confirmed for Sri Lanka | Create a free account; for a study without download permission, use "Request data" or email the contact person shown on the study page |
+| OBIS-SEAMAP (Duke University) | Telemetry datasets for sharks, rays, turtles and marine mammals. Example: whale shark satellite telemetry (Eckert, Sulu Sea, doi:10.82144/8aea2b19, 1,695 locations) is outside Sri Lanka and marked "Permission required" | Per dataset; many need permission | Use the dataset page (http://seamap.env.duke.edu) "request data" link, or email the provider |
+| Ocean Tracking Network (OTN) | Acoustic telemetry detections; mostly North Atlantic/Pacific arrays. No Sri Lankan array was found | https://members.oceantrack.org/data/discovery | Data are shared per project; contact the project PI listed on the OTN data portal |
+
+## Suggestions
+- For tuna movement around Sri Lanka, the IOTC RTTP-IO data is the main source. Ask IOTC for releases and recoveries in the box 0–15N, 70–90E.
+- For published movement papers (e.g. satellite-tagged yellowfin, blue shark, whale shark in the northern Indian Ocean), the track data usually sits with the authors or on Movebank under controlled access. Request it from the corresponding author.
+- Until access is granted, the fish-data-v3 occurrence + environment layers (SST, chl-a, currents, monsoon calendar in fish-factors) are what you can use to model seasonal movement.

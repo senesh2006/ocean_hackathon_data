@@ -1,39 +1,100 @@
-column,description,in_merged
-source,OBIS or GBIF,True
-record_id,Source record id,True
-scientific_name,Name as published,True
-species,Accepted species,True
-family,Family,True
-lat,Latitude WGS84,True
-lon,Longitude WGS84,True
-coord_uncertainty_m,"Coordinate uncertainty (m), GBIF only",True
-depth_m,Recorded sample depth (m),True
-basis_of_record,Observation type,True
-dataset,Source dataset,True
-license,Record license,True
-qc_flags,OBIS flags / GBIF issues,True
-date,Event date YYYY-MM-DD,True
-year,Year,True
-month,Month,True
-bathy_depth_m,"Seafloor depth from ETOPO2022 (m, 0 if coastal snap)",True
-coastal_snap,1 = record on coastline land cell within ~5 km of water,True
-sst_c,"Monthly SST at record month/cell (C), NaN before 2003 (download window)",True
-sst_c_clim,Monthly SST climatology for cell (C),True
-chla_mg_m3,"Monthly chl-a at record month/cell (mg m-3), NaN before 2003 (download window)",True
-chla_mg_m3_clim,Monthly chl-a climatology for cell,True
-month_sin,sin(2pi month/12),False
-month_cos,cos(2pi month/12),False
-log_bathy,log1p(bathy_depth_m),False
-sst_filled,sst_c else climatology,False
-log_chla,"log10(chl-a, climatology filled)",False
-bor_PreservedSpecimen,One-hot basis_of_record,False
-bor_HumanObservation,One-hot basis_of_record,False
-bor_Occurrence,One-hot basis_of_record,False
-bor_MaterialSample,One-hot basis_of_record,False
-bor_MachineObservation,One-hot basis_of_record,False
-src_obis,1 if OBIS,False
-spatial_block_1deg,1-degree cell id floor(lat)*100+floor(lon),False
-label_species,Species label,False
-label_id,Integer-encoded species,False
-split_spatial,train/val/test by 1-degree block (seed 42),False
-split_temporal,"train<2012, val 2012-2017, test>=2018",False
+column,description,in_merged,file
+source,OBIS or GBIF,True,merged/train_ready
+record_id,Source record id,True,merged/train_ready
+scientific_name,Name as published,True,merged/train_ready
+species,v3: WoRMS accepted species name (same as accepted_name),True,merged/train_ready
+genus,Genus,True,merged/train_ready
+family,Family,True,merged/train_ready
+order,"Order (WoRMS for OBIS, GBIF backbone for GBIF; can differ, e.g. Carangiformes vs Perciformes)",True,merged/train_ready
+class,"Class, harmonised: Actinopterygii (incl. WoRMS Teleostei), Elasmobranchii, Holocephali, Myxini. Original value in class_original",True,merged/train_ready
+lat,Latitude WGS84,True,merged/train_ready
+lon,Longitude WGS84,True,merged/train_ready
+coord_uncertainty_m,"Coordinate uncertainty (m), GBIF only",True,merged/train_ready
+depth_m,Recorded sample depth (m),True,merged/train_ready
+basis_of_record,"Darwin Core basisOfRecord, canonical CamelCase (PreservedSpecimen, HumanObservation, ...)",True,merged/train_ready
+dataset,Source dataset,True,merged/train_ready
+license,Record license,True,merged/train_ready
+qc_flags,OBIS flags / GBIF issues,True,merged/train_ready
+fish_group,Harmonised group: ray_finned / shark_ray / chimaera / hagfish,True,merged/train_ready
+date,Event date YYYY-MM-DD,True,merged/train_ready
+year,Year,True,merged/train_ready
+month,Month,True,merged/train_ready
+obs_type,"citizen_science (iNaturalist etc. by dataset name) / specimen (PreservedSpecimen, MaterialSample) / other_human_observation / machine_observation / other_or_unknown",True,merged/train_ready
+is_citizen_science,1 if obs_type citizen_science,True,merged/train_ready
+is_specimen,1 if obs_type specimen,True,merged/train_ready
+pre_1980,1 if year < 1980,True,merged/train_ready
+obis_on_land_flag,1 if OBIS QC flagged ON_LAND,True,merged/train_ready
+depth_missing,1 if no recorded sample depth (depth_m),True,merged/train_ready
+etopo_z_m,"Raw ETOPO2022 elevation at record cell (m, negative = sea)",True,merged/train_ready
+bathy_ge0,1 if ETOPO cell is land/0 m (record snapped from coast),True,merged/train_ready
+coastal_snap,1 = record on coastline land cell within ~5 km of water,True,merged/train_ready
+bathy_depth_m,"Seafloor depth from ETOPO2022 (m, positive down, 0 if coastal snap)",True,merged/train_ready
+sst_c,"Monthly SST at record month/cell (C), NaN before 2003 (download window)",True,merged/train_ready
+sst_c_clim,Monthly SST climatology 2003-2026 for cell (C); nearest cell within 0.5 deg if record cell is NaN,True,merged/train_ready
+sst_c_source,month_matched / climatology / climatology_nearest_cell / missing,True,merged/train_ready
+chla_mg_m3,"Monthly chl-a at record month/cell (mg m-3), NaN before 2003 (download window)",True,merged/train_ready
+chla_mg_m3_clim,Monthly chl-a climatology 2003-2026 for cell; nearest cell within 0.5 deg if record cell is NaN,True,merged/train_ready
+chla_mg_m3_source,month_matched / climatology / climatology_nearest_cell / missing,True,merged/train_ready
+recommended_training,v3: 1 if obis_on_land_flag==0 and bathy_ge0==0 and freshwater_only==0,True,merged/train_ready
+month_sin,sin(2pi month/12),False,merged/train_ready
+month_cos,cos(2pi month/12),False,merged/train_ready
+log_bathy,log1p(bathy_depth_m),False,merged/train_ready
+sst_filled,sst_c else climatology,False,merged/train_ready
+log_chla,"log10(chl-a, climatology filled)",False,merged/train_ready
+bor_PreservedSpecimen,One-hot basis_of_record,False,merged/train_ready
+bor_HumanObservation,One-hot basis_of_record,False,merged/train_ready
+bor_Occurrence,One-hot basis_of_record,False,merged/train_ready
+bor_MaterialSample,One-hot basis_of_record,False,merged/train_ready
+bor_MachineObservation,One-hot basis_of_record,False,merged/train_ready
+bor_MaterialCitation,One-hot basis_of_record,False,merged/train_ready
+src_obis,1 if OBIS,False,merged/train_ready
+spatial_block_1deg,1-degree cell id floor(lat)*100+floor(lon),False,merged/train_ready
+label_species,Species label = WoRMS accepted name,False,merged/train_ready
+label_id,Integer-encoded species,False,merged/train_ready
+label_genus,Genus label (coarser),False,merged/train_ready
+label_family,Family label (coarser),False,merged/train_ready
+label_order,Order label (coarser),False,merged/train_ready
+split_spatial,train/val/test by 1-degree block (seed 42),False,merged/train_ready
+split_temporal,"train<2012, val 2012-2017, test>=2018",False,merged/train_ready
+bg_id,Background point id,False,background_points
+bg_type,"uniform_water = uniform over ETOPO water cells; target_group = presence locations jittered <=0.1 deg, kept if in water (same sampling bias as presences)",False,background_points
+presence,0 = background / pseudo-absence,False,background_points
+record_count,Records in full clean set,False,species_list
+record_count_recommended,Records in recommended subset,False,species_list
+n_obis,Records from OBIS,False,species_list
+n_gbif,Records from GBIF,False,species_list
+n_citizen_science,Citizen-science records,False,species_list
+n_specimen,Specimen records,False,species_list
+first_year,Earliest record year,False,species_list
+last_year,Latest record year,False,species_list
+model_eligible_10,1 if record_count_recommended >= 10,False,species_list
+model_eligible_20,1 if record_count_recommended >= 20,False,species_list
+model_tier,>=20 / >=10 / <10 (recommended-subset counts),False,species_list
+common_name,FishBase common name,False,species_list
+fishbase_sri_lanka_status,FishBase country Status,False,species_list
+DemersPelag,FishBase habitat type,False,species_list
+sources,Sources with records,False,species_list
+species_original,Species name as in v2 (OBIS/GBIF name before WoRMS resolution),True,merged/train_ready
+accepted_name,WoRMS accepted (valid) name; synonyms merged,True,merged/species_list
+class_original,"Class before harmonisation (Teleostei = WoRMS/OBIS, Actinopterygii = GBIF)",True,merged/train_ready/qc
+aphia_id,WoRMS AphiaID of the matched name,True,merged
+accepted_aphia_id,WoRMS AphiaID of the accepted name,True,merged/species_list
+worms_status,"WoRMS status of the original name (accepted, superseded combination, unaccepted, ...)",True,merged
+fb_speccode,FishBase SpecCode,True,merged/species_list
+fishbase_name,FishBase valid name (may differ from WoRMS),True,merged/species_list
+fb_link_method,accepted_name / v2_name / fishbase_synonym_of_accepted / unmatched,True,species_list
+habitat_salinity,marine if FishBase Saltwater=1; brackish if Saltwater=0 & Brack=1; freshwater if only Fresh=1; unknown if no FishBase link,True,merged/train_ready/species_list
+habitat_salinity_detail,"All FishBase salinity flags set, e.g. freshwater;brackish;marine",True,merged/species_list
+freshwater_only,"1 if FishBase Saltwater=0 (freshwater and/or brackish, never marine). Excluded from recommended sets",True,merged/train_ready/species_list
+license_norm,"Canonical licence: CC0-1.0, CC-BY-4.0, CC-BY-NC-4.0, unknown",True,merged/train_ready/raw
+license_level,record = record licence field; dataset = OBIS dataset intellectualrights; unknown,True,merged/train_ready/raw
+basis_of_record_norm,Canonical basisOfRecord,True,raw obis/gbif
+log10_chla_mg_m3,log10 of month-matched chl-a (NaN if not month-matched),True,merged/train_ready/background
+log10_chla_mg_m3_clim,log10 of chl-a climatology,True,merged/train_ready/background
+chla_lagoon_outlier,1 if chl-a (month or climatology fill) > 10 mg m-3 (lagoon/estuary/turbid coastal pixel; OC-CCI unreliable there),True,merged/train_ready/background
+recommended_training_v2,"v2 definition (without freshwater exclusion), for comparison",True,merged
+names_merged,All v2 names merged into this accepted name,True,species_list
+fb_fresh,FishBase Fresh flag,True,species_list
+fb_brack,FishBase Brack flag,True,species_list
+fb_saltwater,FishBase Saltwater flag,True,species_list
+n_chla_lagoon_outlier,Records with chla_lagoon_outlier=1,True,species_list
