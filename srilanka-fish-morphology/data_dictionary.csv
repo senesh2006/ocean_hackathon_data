@@ -1,0 +1,114 @@
+file,column,description
+srilanka_fish_species_traits,scientific_name,fish-data-v3 accepted name
+srilanka_fish_species_traits,fb_speccode,FishBase SpecCode
+srilanka_fish_species_traits,fishbase_name,FishBase valid name
+srilanka_fish_species_traits,family,Family
+srilanka_fish_species_traits,order,Order
+srilanka_fish_species_traits,class,Class
+srilanka_fish_species_traits,record_count,v3 occurrence records
+srilanka_fish_species_traits,model_tier,v3 model tier
+srilanka_fish_species_traits,body_shape,"FishBase BodyShapeI (fusiform/normal, elongated, short and/or deep, eel-like, ...)"
+srilanka_fish_species_traits,max_length_cm,Max reported length (cm)
+srilanka_fish_species_traits,max_length_type,TL/SL/FL/WD...
+srilanka_fish_species_traits,common_length_cm,Common length (cm)
+srilanka_fish_species_traits,common_length_type,Length type
+srilanka_fish_species_traits,max_weight_g,Max weight (g)
+srilanka_fish_species_traits,demers_pelag,FishBase habitat type
+srilanka_fish_species_traits,migration_category,"AnaCat (oceanodromous, anadromous, ...)"
+srilanka_fish_species_traits,DepthRangeShallow,Depth range shallow (m)
+srilanka_fish_species_traits,DepthRangeDeep,Depth range deep (m)
+srilanka_fish_species_traits,DepthRangeComShallow,Usual depth shallow (m)
+srilanka_fish_species_traits,DepthRangeComDeep,Usual depth deep (m)
+srilanka_fish_species_traits,longevity_wild_y,Max age in wild (y)
+srilanka_fish_species_traits,fishing_vulnerability_0_100,FishBase intrinsic vulnerability to fishing (0-100)
+srilanka_fish_species_traits,Fresh,FishBase Fresh
+srilanka_fish_species_traits,Brack,FishBase Brack
+srilanka_fish_species_traits,Saltwater,FishBase Saltwater
+srilanka_fish_species_traits,Dangerous,FishBase danger to humans
+srilanka_fish_species_traits,Electrogenic,Electrogenic
+srilanka_fish_species_traits,est_max_length_TL_cm,FishBase estimate: max TL (cm)
+srilanka_fish_species_traits,trophic_level,Trophic level (FishBase estimate)
+srilanka_fish_species_traits,trophic_level_se,SE
+srilanka_fish_species_traits,lw_a_bayes,"Bayesian length-weight a (Froese et al. 2014; W g, L cm)"
+srilanka_fish_species_traits,lw_b_bayes,Bayesian length-weight b
+srilanka_fish_species_traits,lw_method,Method for a/b
+srilanka_fish_species_traits,growth_K_per_y,von Bertalanffy K
+srilanka_fish_species_traits,growth_Linf_cm,Linf (cm)
+srilanka_fish_species_traits,temp_pref_min_c,"Preferred temperature min (C, AquaMaps-based)"
+srilanka_fish_species_traits,temp_pref_mean_c,Preferred temperature mean (C)
+srilanka_fish_species_traits,temp_pref_max_c,Preferred temperature max (C)
+srilanka_fish_species_traits,est_depth_min_m,Estimated depth min
+srilanka_fish_species_traits,est_depth_max_m,Estimated depth max
+srilanka_fish_species_traits,PredPreyRatioMin,Predator/prey length ratio min
+srilanka_fish_species_traits,PredPreyRatioMax,Predator/prey length ratio max
+srilanka_fish_species_traits,md_BodyShapeII,FishBase morphdat field BodyShapeII (first record per species)
+srilanka_fish_species_traits,md_Forehead,FishBase morphdat field Forehead (first record per species)
+srilanka_fish_species_traits,md_TypeofEyes,FishBase morphdat field TypeofEyes (first record per species)
+srilanka_fish_species_traits,md_TypeofMouth,FishBase morphdat field TypeofMouth (first record per species)
+srilanka_fish_species_traits,md_PosofMouth,FishBase morphdat field PosofMouth (first record per species)
+srilanka_fish_species_traits,md_TypeofScales,FishBase morphdat field TypeofScales (first record per species)
+srilanka_fish_species_traits,md_CShape,FishBase morphdat field CShape (first record per species)
+srilanka_fish_species_traits,md_DorsalSpinesMin,FishBase morphdat field DorsalSpinesMin (first record per species)
+srilanka_fish_species_traits,md_DorsalSpinesMax,FishBase morphdat field DorsalSpinesMax (first record per species)
+srilanka_fish_species_traits,md_DorsalSoftRaysMin,FishBase morphdat field DorsalSoftRaysMin (first record per species)
+srilanka_fish_species_traits,md_DorsalSoftRaysMax,FishBase morphdat field DorsalSoftRaysMax (first record per species)
+srilanka_fish_species_traits,md_AnalFinSpinesMin,FishBase morphdat field AnalFinSpinesMin (first record per species)
+srilanka_fish_species_traits,md_AnalFinSpinesMax,FishBase morphdat field AnalFinSpinesMax (first record per species)
+srilanka_fish_species_traits,md_Araymin,FishBase morphdat field Araymin (first record per species)
+srilanka_fish_species_traits,md_Araymax,FishBase morphdat field Araymax (first record per species)
+srilanka_fish_species_traits,md_VertebraeTotalMin,FishBase morphdat field VertebraeTotalMin (first record per species)
+srilanka_fish_species_traits,md_VertebraeTotalMax,FishBase morphdat field VertebraeTotalMax (first record per species)
+srilanka_fish_species_traits,md_GillRakersTotalMin,FishBase morphdat field GillRakersTotalMin (first record per species)
+srilanka_fish_species_traits,md_GillRakersTotalMax,FishBase morphdat field GillRakersTotalMax (first record per species)
+srilanka_fish_species_traits,md_ScalesLateralmin,FishBase morphdat field ScalesLateralmin (first record per species)
+srilanka_fish_species_traits,md_ScalesLateralmax,FishBase morphdat field ScalesLateralmax (first record per species)
+srilanka_fish_species_traits,md_BarbelsNo,FishBase morphdat field BarbelsNo (first record per species)
+srilanka_fish_species_traits,md_GasBladder,FishBase morphdat field GasBladder (first record per species)
+srilanka_fish_species_traits,morphmet_n_pictures,Number of FishBase morphmet pictures
+srilanka_fish_species_traits,body_depth_over_TL,Median body depth / TL
+srilanka_fish_species_traits,body_depth_over_SL,Median body depth / SL
+srilanka_fish_species_traits,head_length_over_TL,Median head length / TL
+srilanka_fish_species_traits,eye_diam_over_HL,Median eye diameter / head length
+srilanka_fish_species_traits,predorsal_over_TL,Median predorsal length / TL
+srilanka_fish_species_traits,caudal_height_over_TL,Median caudal height / TL
+srilanka_fish_species_traits,caudal_aspect_ratio_morphmet,Median caudal fin aspect ratio (morphmet)
+srilanka_fish_species_traits,swim_type,Swimming type
+srilanka_fish_species_traits,swim_mode,Swimming mode (e.g. subcarangiform)
+srilanka_fish_species_traits,caudal_aspect_ratio,Caudal fin aspect ratio (swimming table)
+srilanka_fish_species_traits,eco_FeedingType,"FishBase ecology field FeedingType (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Schooling,"FishBase ecology field Schooling (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Shoaling,"FishBase ecology field Shoaling (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Solitary,"FishBase ecology field Solitary (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Benthic,"FishBase ecology field Benthic (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Pelagic,"FishBase ecology field Pelagic (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Demersal,"FishBase ecology field Demersal (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_CoralReefs,"FishBase ecology field CoralReefs (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_SeaGrassBeds,"FishBase ecology field SeaGrassBeds (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Mangroves,"FishBase ecology field Mangroves (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Estuaries,"FishBase ecology field Estuaries (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Lagoons,"FishBase ecology field Lagoons (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Rocky,"FishBase ecology field Rocky (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_SoftBottom,"FishBase ecology field SoftBottom (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Sand,"FishBase ecology field Sand (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Mud,"FishBase ecology field Mud (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Oceanic,"FishBase ecology field Oceanic (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Neritic,"FishBase ecology field Neritic (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Epipelagic,"FishBase ecology field Epipelagic (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Mesopelagic,"FishBase ecology field Mesopelagic (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Bathypelagic,"FishBase ecology field Bathypelagic (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,eco_Seamounts,"FishBase ecology field Seamounts (-1 = yes, 0 = no, as coded by FishBase)"
+srilanka_fish_species_traits,length_at_maturity_Lm_cm_median,Median Lm (cm)
+srilanka_fish_species_traits,age_at_maturity_tm_y_median,Median tm (y)
+srilanka_fish_species_traits,maturity_n_studies,Maturity records
+srilanka_fish_species_traits,popchar_Lmax_cm_max,Max Lmax across populations
+srilanka_fish_species_traits,popchar_Wmax_g_max,Max Wmax across populations
+srilanka_fish_species_traits,popchar_tmax_y_max,Max tmax
+srilanka_fish_species_traits,popchar_n,popchar records
+srilanka_fish_species_traits,poplw_a_median,Median population LW a
+srilanka_fish_species_traits,poplw_b_median,Median population LW b
+srilanka_fish_species_traits,poplw_n_studies,poplw records
+srilanka_fish_species_traits,poplw_n_sri_lanka,poplw records from Sri Lanka (C_Code 144)
+srilanka_fish_species_traits,fishbase_url,FishBase species page
+srilanka_fish_species_traits,source,Source tables
+srilanka_fish_species_traits,license,Licence
+population_tables/*,(all),"Original FishBase column names; see https://www.fishbase.se/manual/English/ (table definitions). Added: scientific_name (v3 accepted name), is_sri_lanka_population (C_Code 144) where C_Code exists"

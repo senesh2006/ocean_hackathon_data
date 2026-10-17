@@ -1,0 +1,20 @@
+# v3 species flags: built from /workspace/fish-data-v3/species_list.csv (WoRMS accepted names, FishBase SpecCode linkage incl. synonyms)
+# FishBase species table v24.07 (https://huggingface.co/datasets/cboettig/fishbase data/fb/v24.07/parquet/species.parquet, cached /tmp/fbp)
+import pandas as pd,numpy as np
+sl=pd.read_csv("/workspace/fish-data-v3/species_list.csv")
+sp=pd.read_parquet("/tmp/fbp/species.parquet",columns=["SpecCode","FBname","DemersPelag","DepthRangeShallow","DepthRangeDeep","Brack","Fresh","Saltwater"]).drop_duplicates("SpecCode")
+f=sl[["scientific_name","names_merged","accepted_aphia_id","fb_speccode","fishbase_name","fb_link_method","genus","family","order","class","record_count","record_count_recommended","model_tier","fishbase_sri_lanka_status","habitat_salinity","habitat_salinity_detail","freshwater_only"]].rename(columns={"fishbase_sri_lanka_status":"Status"})
+f=f.merge(sp,left_on="fb_speccode",right_on="SpecCode",how="left").drop(columns="SpecCode")
+DEM={"demersal","reef-associated","bathydemersal","benthopelagic"}
+dp=f.DemersPelag.fillna("").str.lower()
+f["is_demersal_or_reef"]=dp.isin(DEM).astype(int); f["is_reef_associated"]=(dp=="reef-associated").astype(int)
+f["is_small_pelagic_family"]=f.family.isin(["Clupeidae","Engraulidae","Carangidae","Scombridae","Dorosomatidae"]).astype(int)
+f["shelf_depth_possible_lt200m"]=(f.DepthRangeShallow<200).astype(int)
+TF=["Lutjanidae","Lethrinidae","Serranidae","Nemipteridae","Leiognathidae","Sciaenidae","Mullidae","Synodontidae","Clupeidae","Engraulidae","Carangidae","Haemulidae","Priacanthidae"]
+f["trawl_target_likely"]=((dp.isin(DEM)|f.family.isin(TF))&(f.DepthRangeShallow<200)&(f.freshwater_only==0)).astype(int)
+f["is_elasmobranch"]=(f["class"]=="Elasmobranchii").astype(int)
+f["fishbase_matched"]=f.fb_speccode.notna().astype(int)
+assert f["class"].isin({"Actinopterygii","Elasmobranchii","Holocephali","Myxini","Petromyzonti"}).all()
+assert len(f)==len(sl)
+f.sort_values("record_count",ascending=False).to_csv("species_demersal_trawl_flags.csv",index=False)
+print(len(f),f["class"].value_counts().to_dict(),"matched",f.fishbase_matched.sum(),"trawl",f.trawl_target_likely.sum(),"demreef",f.is_demersal_or_reef.sum(),"fw",f.freshwater_only.sum())

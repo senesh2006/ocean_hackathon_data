@@ -1,0 +1,7 @@
+source,class_original,class,raw_rows,final_clean_rows,is_fish_class,final_clean_rows_v3
+GBIF,Actinopterygii,Actinopterygii,12326,2203,True,2141
+GBIF,Elasmobranchii,Elasmobranchii,402,144,True,144
+OBIS,Elasmobranchii,Elasmobranchii,247,91,True,91
+OBIS,Holocephali,Holocephali,1,1,True,1
+OBIS,Myxini,Myxini,3,2,True,2
+OBIS,Teleostei,Actinopterygii,9412,3625,True,3625
