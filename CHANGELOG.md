@@ -6,6 +6,23 @@ data is in [fish-data/CHANGELOG.md](fish-data/CHANGELOG.md). Times are Asia/Colo
 
 Canonical repository: <https://github.com/senesh2006/ocean_hackathon_data>
 
+## [Unreleased] — official fisheries statistics (srilanka-fisheries-official)
+
+### Added
+- `srilanka-fisheries-official/`: Sri Lankan Ministry of Fisheries statistics extracted from two PDFs into CSV + Parquet.
+  - `ministry_fish_species_list` (91 rows): commercial groups with English, scientific (as printed and WoRMS-corrected;
+    20 typos fixed) and romanised Sinhala names, AphiaIDs and an `is_fish` flag.
+  - Annual Fisheries Statistical Bulletin 2025: Tables 4.1–4.11 (production and catch by sub-sector, district,
+    fisheries district, commercial group, inland/aquaculture, shrimp), 6.10 (dried fish supply), 8.1–8.6 (GDP,
+    household fish and dried-fish consumption, per capita consumption, expenditure) and an inventory of all 67 tables.
+  - Raw PDFs and WoRMS responses in `raw/`, QC reports, extraction scripts, `catalog.csv`, catalogs and README.
+- Licence: the Ministry publications state **no licence**; recorded as `LicenseRef-GovLK-NoStatedLicence`,
+  `commercial_use_ok=unknown`, in `data_library.csv`.
+
+### Changed
+- `scripts/build_data_library.py`: RULES for the new folder, the new licence ref and the folder's `catalog.csv`.
+- `data_library.csv` / `.parquet` regenerated (53 new rows; existing rows only had commit metadata refreshed).
+
 ## [3.1.0] — unreleased (not tagged) — wind-stress QC
 
 Team task 2.62 (YasiruRF/ocean-hackathon): impossible wind-stress values.

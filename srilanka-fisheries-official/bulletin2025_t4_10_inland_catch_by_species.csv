@@ -1,0 +1,157 @@
+table_id,source_page_pdf,year,year_status,species_group_as_published,is_total,value,value_as_published,value_flag,unit,source_url
+4.10,50,2010,final,Tilapia,False,28250.0,"28,250",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2011,final,Tilapia,False,32000.0,"32,000",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2012,final,Tilapia,False,39590.0,"39,590",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2013,final,Tilapia,False,39070.0,"39,070",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2014,final,Tilapia,False,46610.0,"46,610",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2015,final,Tilapia,False,40504.0,"40,504",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2020,final,Tilapia,False,57810.0,"57,810",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2021,final,Tilapia,False,52100.0,"52,100",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2022,final,Tilapia,False,57770.0,"57,770",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2023,final,Tilapia,False,51200.0,"51,200",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2024,final,Tilapia,False,50880.0,"50,880",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2025,provisional,Tilapia,False,28330.0,"28,330",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2010,final,Carps/Mirigal,False,3740.0,"3,740",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2011,final,Carps/Mirigal,False,3680.0,"3,680",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2012,final,Carps/Mirigal,False,3570.0,"3,570",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2013,final,Carps/Mirigal,False,3450.0,"3,450",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2014,final,Carps/Mirigal,False,3920.0,"3,920",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2015,final,Carps/Mirigal,False,2847.0,"2,847",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2020,final,Carps/Mirigal,False,7220.0,"7,220",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2021,final,Carps/Mirigal,False,7760.0,"7,760",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2022,final,Carps/Mirigal,False,9530.0,9530,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2023,final,Carps/Mirigal,False,11010.0,"11,010",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2024,final,Carps/Mirigal,False,8435.0,"8,435",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2025,provisional,Carps/Mirigal,False,4228.0,"4,228",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2010,final,Catla/Rohu,False,9760.0,"9,760",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2011,final,Catla/Rohu,False,11260.0,"11,260",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2012,final,Catla/Rohu,False,12460.0,"12,460",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2013,final,Catla/Rohu,False,8980.0,"8,980",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2014,final,Catla/Rohu,False,11020.0,"11,020",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2015,final,Catla/Rohu,False,9117.0,"9,117",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2020,final,Catla/Rohu,False,9935.0,"9,935",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2021,final,Catla/Rohu,False,11950.0,"11,950",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2022,final,Catla/Rohu,False,14180.0,"14,180",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2023,final,Catla/Rohu,False,15525.0,"15,525",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2024,final,Catla/Rohu,False,12930.0,"12,930",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2025,provisional,Catla/Rohu,False,7523.0,"7,523",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2010,final,Hiri Kanaya,False,2620.0,"2,620",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2011,final,Hiri Kanaya,False,1940.0,"1,940",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2012,final,Hiri Kanaya,False,670.0,670,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2013,final,Hiri Kanaya,False,590.0,590,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2014,final,Hiri Kanaya,False,580.0,580,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2015,final,Hiri Kanaya,False,358.0,358,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2020,final,Hiri Kanaya,False,200.0,200,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2021,final,Hiri Kanaya,False,290.0,290,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2022,final,Hiri Kanaya,False,990.0,990,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2023,final,Hiri Kanaya,False,1530.0,"1,530",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2024,final,Hiri Kanaya,False,1280.0,"1,280",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2025,provisional,Hiri Kanaya,False,394.0,394,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2010,final,Lula,False,1930.0,"1,930",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2011,final,Lula,False,630.0,630,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2012,final,Lula,False,1770.0,"1,770",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2013,final,Lula,False,2040.0,"2,040",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2014,final,Lula,False,2230.0,"2,230",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2015,final,Lula,False,1582.0,"1,582",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2020,final,Lula,False,2160.0,"2,160",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2021,final,Lula,False,2130.0,"2,130",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2022,final,Lula,False,2920.0,"2,920",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2023,final,Lula,False,3260.0,"3,260",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2024,final,Lula,False,3920.0,"3,920",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2025,provisional,Lula,False,2058.0,"2,058",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2010,final,Cultured Shrimps,False,3480.0,"3,480",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2011,final,Cultured Shrimps,False,4150.0,"4,150",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2012,final,Cultured Shrimps,False,3310.0,"3,310",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2013,final,Cultured Shrimps,False,4430.0,"4,430",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2014,final,Cultured Shrimps,False,5150.0,"5,150",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2015,final,Cultured Shrimps,False,7090.0,"7,090",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2020,final,Cultured Shrimps,False,7360.0,"7,360",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2021,final,Cultured Shrimps,False,14410.0,"14,410",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2022,final,Cultured Shrimps,False,14080.0,"14,080",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2023,final,Cultured Shrimps,False,11600.0,"11,600",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2024,final,Cultured Shrimps,False,7320.0,"7,320",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2025,provisional,Cultured Shrimps,False,7144.0,"7,144",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2010,final,Freshwater prawns,False,240.0,240,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2011,final,Freshwater prawns,False,260.0,260,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2012,final,Freshwater prawns,False,290.0,290,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2013,final,Freshwater prawns,False,540.0,540,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2014,final,Freshwater prawns,False,460.0,460,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2015,final,Freshwater prawns,False,374.0,374,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2020,final,Freshwater prawns,False,1165.0,"1,165",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2021,final,Freshwater prawns,False,1040.0,"1,040",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2022,final,Freshwater prawns,False,680.0,680,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2023,final,Freshwater prawns,False,800.0,800,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2024,final,Freshwater prawns,False,590.0,590,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2025,provisional,Freshwater prawns,False,321.0,321,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2010,final,Cultured Milk fish & Sea bass,False,30.0,30,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2011,final,Cultured Milk fish & Sea bass,False,100.0,100,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2012,final,Cultured Milk fish & Sea bass,False,130.0,130,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2013,final,Cultured Milk fish & Sea bass,False,90.0,90,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2014,final,Cultured Milk fish & Sea bass,False,70.0,70,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2015,final,Cultured Milk fish & Sea bass,False,78.0,78,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2020,final,Cultured Milk fish & Sea bass,False,275.0,275,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2021,final,Cultured Milk fish & Sea bass,False,520.0,520,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2022,final,Cultured Milk fish & Sea bass,False,880.0,880,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2023,final,Cultured Milk fish & Sea bass,False,1190.0,"1,190",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2024,final,Cultured Milk fish & Sea bass,False,995.0,995,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2025,provisional,Cultured Milk fish & Sea bass,False,1196.0,"1,196",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2010,final,Sea cucumber,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2011,final,Sea cucumber,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2012,final,Sea cucumber,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2013,final,Sea cucumber,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2014,final,Sea cucumber,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2015,final,Sea cucumber,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2020,final,Sea cucumber,False,340.0,340,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2021,final,Sea cucumber,False,580.0,580,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2022,final,Sea cucumber,False,560.0,560,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2023,final,Sea cucumber,False,540.0,540,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2024,final,Sea cucumber,False,480.0,480,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2025,provisional,Sea cucumber,False,643.0,643,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2010,final,Oyster and Crabs,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2011,final,Oyster and Crabs,False,30.0,30,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2012,final,Oyster and Crabs,False,32.0,32,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2013,final,Oyster and Crabs,False,40.0,40,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2014,final,Oyster and Crabs,False,38.0,38,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2015,final,Oyster and Crabs,False,53.0,53,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2020,final,Oyster and Crabs,False,60.0,60,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2021,final,Oyster and Crabs,False,31.0,31,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2022,final,Oyster and Crabs,False,12.0,12,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2023,final,Oyster and Crabs,False,10.0,10,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2024,final,Oyster and Crabs,False,10.0,10,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2025,provisional,Oyster and Crabs,False,4.0,4,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2010,final,Lobster,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2011,final,Lobster,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2012,final,Lobster,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2013,final,Lobster,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2014,final,Lobster,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2015,final,Lobster,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2020,final,Lobster,False,5.0,5,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2021,final,Lobster,False,3.0,3,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2022,final,Lobster,False,,-,dash,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2023,final,Lobster,False,,-,dash,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2024,final,Lobster,False,,,blank,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2025,provisional,Lobster,False,,-,dash,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2010,final,Other wild fish,False,2360.0,"2,360",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2011,final,Other wild fish,False,5510.0,"5,510",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2012,final,Other wild fish,False,7128.0,"7,128",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2013,final,Other wild fish,False,7680.0,"7,680",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2014,final,Other wild fish,False,5672.0,"5,672",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2015,final,Other wild fish,False,5297.0,"5,297",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2020,final,Other wild fish,False,15280.0,"15,280",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2021,final,Other wild fish,False,13421.0,"13,421",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2022,final,Other wild fish,False,15018.0,"15,018",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2023,final,Other wild fish,False,16460.0,"16,460",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2024,final,Other wild fish,False,15490.0,"15,490",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2025,provisional,Other wild fish,False,3870.0,"3,870",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2010,final,Total,True,52410.0,"52,410",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2011,final,Total,True,59560.0,"59,560",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2012,final,Total,True,68950.0,"68,950",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2013,final,Total,True,66910.0,"66,910",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2014,final,Total,True,75750.0,"75,750",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2015,final,Total,True,67300.0,"67,300",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2020,final,Total,True,101810.0,"101,810",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2021,final,Total,True,104235.0,"104,235",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2022,final,Total,True,116620.0,"116,620",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2023,final,Total,True,113125.0,"113,125",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2024,final,Total,True,102330.0,"102,330",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.10,50,2025,provisional,Total,True,55711.0,"55,711",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf

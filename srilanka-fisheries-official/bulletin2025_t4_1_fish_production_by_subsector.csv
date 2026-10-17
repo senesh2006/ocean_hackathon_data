@@ -1,0 +1,109 @@
+table_id,source_page_pdf,year,year_status,column_group_as_published,subsector_as_published,is_total,value,value_as_published,value_flag,unit,source_url
+4.1,41,1960,final,Marine Fish Catch,Coastal,False,48768.0,"48,768",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1960,final,Marine Fish Catch,Off shore/Deep Sea,False,2235.0,"2,235",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1960,final,Marine Fish Catch,Total Marine,True,51003.0,"51,003",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1960,final,,Inland & Aquaculture,False,1524.0,"1,524",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1960,final,,Total Fish Production,True,52527.0,"52,527",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1960,final,,Estimated Wet Fish for Dry or Other Products,False,,N/A,N/A,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1965,final,Marine Fish Catch,Coastal,False,85547.0,"85,547",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1965,final,Marine Fish Catch,Off shore/Deep Sea,False,1524.0,"1,524",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1965,final,Marine Fish Catch,Total Marine,True,87071.0,"87,071",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1965,final,,Inland & Aquaculture,False,8230.0,"8,230",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1965,final,,Total Fish Production,True,95301.0,"95,301",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1965,final,,Estimated Wet Fish for Dry or Other Products,False,,N/A,N/A,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1970,final,Marine Fish Catch,Coastal,False,86563.0,"86,563",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1970,final,Marine Fish Catch,Off shore/Deep Sea,False,3258.0,"3,258",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1970,final,Marine Fish Catch,Total Marine,True,89821.0,"89,821",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1970,final,,Inland & Aquaculture,False,8331.0,"8,331",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1970,final,,Total Fish Production,True,98152.0,"98,152",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1970,final,,Estimated Wet Fish for Dry or Other Products,False,,N/A,N/A,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1975,final,Marine Fish Catch,Coastal,False,114863.0,"114,863",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1975,final,Marine Fish Catch,Off shore/Deep Sea,False,970.0,970,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1975,final,Marine Fish Catch,Total Marine,True,115833.0,"115,833",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1975,final,,Inland & Aquaculture,False,13370.0,"13,370",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1975,final,,Total Fish Production,True,129203.0,"129,203",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1975,final,,Estimated Wet Fish for Dry or Other Products,False,,N/A,N/A,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1980,final,Marine Fish Catch,Coastal,False,165264.0,"165,264",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1980,final,Marine Fish Catch,Off shore/Deep Sea,False,2148.0,"2,148",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1980,final,Marine Fish Catch,Total Marine,True,167412.0,"167,412",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1980,final,,Inland & Aquaculture,False,20266.0,"20,266",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1980,final,,Total Fish Production,True,187678.0,"187,678",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1980,final,,Estimated Wet Fish for Dry or Other Products,False,38000.0,"38,000",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1985,final,Marine Fish Catch,Coastal,False,140270.0,"140,270",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1985,final,Marine Fish Catch,Off shore/Deep Sea,False,2400.0,"2,400",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1985,final,Marine Fish Catch,Total Marine,True,142670.0,"142,670",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1985,final,,Inland & Aquaculture,False,32740.0,"32,740",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1985,final,,Total Fish Production,True,175410.0,"175,410",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1985,final,,Estimated Wet Fish for Dry or Other Products,False,24000.0,"24,000",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1990,final,Marine Fish Catch,Coastal,False,134120.0,"134,120",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1990,final,Marine Fish Catch,Off shore/Deep Sea,False,11670.0,"11,670",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1990,final,Marine Fish Catch,Total Marine,True,145790.0,"145,790",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1990,final,,Inland & Aquaculture,False,38190.0,"38,190",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1990,final,,Total Fish Production,True,183980.0,"183,980",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1990,final,,Estimated Wet Fish for Dry or Other Products,False,22000.0,"22,000",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1995,final,Marine Fish Catch,Coastal,False,157500.0,"157,500",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1995,final,Marine Fish Catch,Off shore/Deep Sea,False,60000.0,"60,000",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1995,final,Marine Fish Catch,Total Marine,True,217500.0,"217,500",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1995,final,,Inland & Aquaculture,False,18250.0,"18,250",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1995,final,,Total Fish Production,True,235750.0,"235,750",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,1995,final,,Estimated Wet Fish for Dry or Other Products,False,36000.0,"36,000",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2000,final,Marine Fish Catch,Coastal,False,175280.0,"175,280",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2000,final,Marine Fish Catch,Off shore/Deep Sea,False,88400.0,"88,400",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2000,final,Marine Fish Catch,Total Marine,True,263680.0,"263,680",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2000,final,,Inland & Aquaculture,False,36700.0,"36,700",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2000,final,,Total Fish Production,True,300380.0,"300,380",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2000,final,,Estimated Wet Fish for Dry or Other Products,False,60900.0,"60,900",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2005,final,Marine Fish Catch,Coastal,False,63690.0,"63,690",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2005,final,Marine Fish Catch,Off shore/Deep Sea,False,66710.0,"66,710",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2005,final,Marine Fish Catch,Total Marine,True,130400.0,"130,400",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2005,final,,Inland & Aquaculture,False,32830.0,"32,830",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2005,final,,Total Fish Production,True,163230.0,"163,230",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2005,final,,Estimated Wet Fish for Dry or Other Products,False,18900.0,"18,900",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2010,final,Marine Fish Catch,Coastal,False,202420.0,"202,420",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2010,final,Marine Fish Catch,Off shore/Deep Sea,False,129840.0,"129,840",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2010,final,Marine Fish Catch,Total Marine,True,332260.0,"332,260",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2010,final,,Inland & Aquaculture,False,52410.0,"52,410",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2010,final,,Total Fish Production,True,384670.0,"384,670",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2010,final,,Estimated Wet Fish for Dry or Other Products,False,100120.0,"100,120",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2015,final,Marine Fish Catch,Coastal,False,269020.0,"269,020",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2015,final,Marine Fish Catch,Off shore/Deep Sea,False,183870.0,"183,870",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2015,final,Marine Fish Catch,Total Marine,True,452890.0,"452,890",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2015,final,,Inland & Aquaculture,False,67300.0,"67,300",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2015,final,,Total Fish Production,True,520190.0,"520,190",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2015,final,,Estimated Wet Fish for Dry or Other Products,False,126390.0,"126,390",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2020,final,Marine Fish Catch,Coastal,False,182560.0,"182,560",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2020,final,Marine Fish Catch,Off shore/Deep Sea,False,144370.0,"144,370",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2020,final,Marine Fish Catch,Total Marine,True,326930.0,"326,930",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2020,final,,Inland & Aquaculture,False,101810.0,"101,810",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2020,final,,Total Fish Production,True,428740.0,"428,740",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2020,final,,Estimated Wet Fish for Dry or Other Products,False,132100.0,"132,100",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2021,final,Marine Fish Catch,Coastal,False,178260.0,"178,260",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2021,final,Marine Fish Catch,Off shore/Deep Sea,False,153415.0,"153,415",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2021,final,Marine Fish Catch,Total Marine,True,331675.0,"331,675",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2021,final,,Inland & Aquaculture,False,104235.0,"104,235",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2021,final,,Total Fish Production,True,435910.0,"435,910",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2021,final,,Estimated Wet Fish for Dry or Other Products,False,112630.0,"112,630",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2022,final,Marine Fish Catch,Coastal,False,149440.0,"149,440",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2022,final,Marine Fish Catch,Off shore/Deep Sea,False,131170.0,"131,170",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2022,final,Marine Fish Catch,Total Marine,True,280610.0,"280,610",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2022,final,,Inland & Aquaculture,False,116620.0,"116,620",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2022,final,,Total Fish Production,True,397230.0,"397,230",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2022,final,,Estimated Wet Fish for Dry or Other Products,False,51660.0,"51,660",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2023,final,Marine Fish Catch,Coastal,False,164995.0,"164,995",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2023,final,Marine Fish Catch,Off shore/Deep Sea,False,128950.0,"128,950",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2023,final,Marine Fish Catch,Total Marine,True,293945.0,"293,945",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2023,final,,Inland & Aquaculture,False,113125.0,"113,125",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2023,final,,Total Fish Production,True,407070.0,"407,070",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2023,final,,Estimated Wet Fish for Dry or Other Products,False,51040.0,"51,040",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2024,final,Marine Fish Catch,Coastal,False,165040.0,"165,040",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2024,final,Marine Fish Catch,Off shore/Deep Sea,False,143390.0,"143,390",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2024,final,Marine Fish Catch,Total Marine,True,308430.0,"308,430",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2024,final,,Inland & Aquaculture,False,102330.0,"102,330",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2024,final,,Total Fish Production,True,410760.0,"410,760",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2024,final,,Estimated Wet Fish for Dry or Other Products,False,55890.0,"55,890",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2025,provisional,Marine Fish Catch,Coastal,False,166190.0,"166,190",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2025,provisional,Marine Fish Catch,Off shore/Deep Sea,False,142015.0,"142,015",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2025,provisional,Marine Fish Catch,Total Marine,True,308205.0,"308,205",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2025,provisional,,Inland & Aquaculture,False,55985.0,"55,985",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2025,provisional,,Total Fish Production,True,364190.0,"364,190",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.1,41,2025,provisional,,Estimated Wet Fish for Dry or Other Products,False,71000.0,"71,000",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf

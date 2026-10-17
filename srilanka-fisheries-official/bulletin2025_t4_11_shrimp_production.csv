@@ -1,0 +1,65 @@
+table_id,source_page_pdf,year,year_status,measure_as_published,is_total,value,value_as_published,value_flag,unit,source_url
+4.11,51,1990,final,Shrimps: Aquaculture,False,680.0,680,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,1990,final,Shrimps: Wild Capture,False,4470.0,"4,470",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,1990,final,Shrimps: Total,True,5150.0,"5,150",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,1990,final,Exported Quantity (1),False,1855.0,"1,855",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,1995,final,Shrimps: Aquaculture,False,3600.0,"3,600",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,1995,final,Shrimps: Wild Capture,False,8000.0,"8,000",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,1995,final,Shrimps: Total,True,11600.0,"11,600",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,1995,final,Exported Quantity (1),False,2781.0,"2,781",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2000,final,Shrimps: Aquaculture,False,4360.0,"4,360",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2000,final,Shrimps: Wild Capture,False,7540.0,"7,540",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2000,final,Shrimps: Total,True,11900.0,"11,900",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2000,final,Exported Quantity (1),False,4855.0,"4,855",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2005,final,Shrimps: Aquaculture,False,1570.0,"1,570",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2005,final,Shrimps: Wild Capture,False,4680.0,"4,680",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2005,final,Shrimps: Total,True,6250.0,"6,250",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2005,final,Exported Quantity (1),False,1800.0,"1,800",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2010,final,Shrimps: Aquaculture,False,3480.0,"3,480",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2010,final,Shrimps: Wild Capture,False,17640.0,"17,640",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2010,final,Shrimps: Total,True,21120.0,"21,120",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2010,final,Exported Quantity (1),False,1262.0,"1,262",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2015,final,Shrimps: Aquaculture,False,7090.0,"7,090",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2015,final,Shrimps: Wild Capture,False,20090.0,"20,090",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2015,final,Shrimps: Total,True,27180.0,"27,180",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2015,final,Exported Quantity (1),False,1341.0,"1,341",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2016,final,Shrimps: Aquaculture,False,6030.0,"6,030",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2016,final,Shrimps: Wild Capture,False,19720.0,"19,720",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2016,final,Shrimps: Total,True,25750.0,"25,750",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2016,final,Exported Quantity (1),False,1667.0,"1,667",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2017,final,Shrimps: Aquaculture,False,4630.0,"4,630",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2017,final,Shrimps: Wild Capture,False,17620.0,"17,620",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2017,final,Shrimps: Total,True,22250.0,"22,250",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2017,final,Exported Quantity (1),False,1845.0,"1,845",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2018,final,Shrimps: Aquaculture,False,8180.0,"8,180",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2018,final,Shrimps: Wild Capture,False,16970.0,"16,970",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2018,final,Shrimps: Total,True,25150.0,"25,150",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2018,final,Exported Quantity (1),False,1984.0,"1,984",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2019,final,Shrimps: Aquaculture,False,6400.0,"6,400",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2019,final,Shrimps: Wild Capture,False,16930.0,"16,930",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2019,final,Shrimps: Total,True,23330.0,"23,330",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2019,final,Exported Quantity (1),False,2115.0,"2,115",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2020,final,Shrimps: Aquaculture,False,7360.0,"7,360",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2020,final,Shrimps: Wild Capture,False,12770.0,"12,770",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2020,final,Shrimps: Total,True,20130.0,"20,130",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2020,final,Exported Quantity (1),False,1781.0,"1,781",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2021,final,Shrimps: Aquaculture,False,14410.0,"14,410",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2021,final,Shrimps: Wild Capture,False,11340.0,"11,340",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2021,final,Shrimps: Total,True,25750.0,"25,750",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2021,final,Exported Quantity (1),False,4747.0,"4,747",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2022,final,Shrimps: Aquaculture,False,14080.0,"14,080",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2022,final,Shrimps: Wild Capture,False,7280.0,"7,280",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2022,final,Shrimps: Total,True,21360.0,"21,360",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2022,final,Exported Quantity (1),False,5486.0,"5,486",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2023,final,Shrimps: Aquaculture,False,11600.0,"11,600",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2023,final,Shrimps: Wild Capture,False,7260.0,"7,260",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2023,final,Shrimps: Total,True,18860.0,"18,860",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2023,final,Exported Quantity (1),False,4020.0,"4,020",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2024,final,Shrimps: Aquaculture,False,7321.0,"7,321",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2024,final,Shrimps: Wild Capture,False,8810.0,"8,810",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2024,final,Shrimps: Total,True,16131.0,"16,131",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2024,final,Exported Quantity (1),False,3432.0,"3,432",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2025,provisional,Shrimps: Aquaculture,False,7144.0,"7,144",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2025,provisional,Shrimps: Wild Capture,False,9349.0,"9,349",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2025,provisional,Shrimps: Total,True,16493.0,"16,493",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.11,51,2025,provisional,Exported Quantity (1),False,3646.0,"3,646",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf

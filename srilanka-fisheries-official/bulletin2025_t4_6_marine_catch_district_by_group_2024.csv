@@ -1,0 +1,225 @@
+table_id,source_page_pdf,year,year_status,fisheries_district_no,fisheries_district_as_published,fisheries_district_std,fish_group_as_published,is_total,value,value_as_published,value_flag,unit,source_url
+4.6,46,2024,final,1,Negombo,Negombo,Thora (Seer),False,370.0,370,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,1,Negombo,Negombo,Paraw (Trevally),False,210.0,210,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,1,Negombo,Negombo,Balaya (Skipjack tuna),False,1240.0,"1,240",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,1,Negombo,Negombo,Kelawalla (Yellowfin tuna),False,7430.0,"7,430",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,1,Negombo,Negombo,Tuna like fishes (other blood fishes),False,315.0,315,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,1,Negombo,Negombo,Thalapath (Billfish),False,1050.0,"1,050",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,1,Negombo,Negombo,Mora/Maduwa (Sharks/Skates),False,1030.0,"1,030",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,1,Negombo,Negombo,Gal Ma'lu (Rock fish),False,440.0,440,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,1,Negombo,Negombo,Shore Seine (Small fish),False,4490.0,"4,490",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,1,Negombo,Negombo,Issa (Shrimps),False,310.0,310,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,1,Negombo,Negombo,Pokirissa (Lobster),False,15.0,15,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,1,Negombo,Negombo,Kakuluwa (Crabs),False,35.0,35,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,1,Negombo,Negombo,Other fish,False,320.0,320,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,1,Negombo,Negombo,Total,True,17255.0,"17,255",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Thora (Seer),False,30.0,30,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Paraw (Trevally),False,80.0,80,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Balaya (Skipjack tuna),False,10.0,10,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Kelawalla (Yellowfin tuna),False,20.0,20,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Tuna like fishes (other blood fishes),False,230.0,230,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Thalapath (Billfish),False,10.0,10,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Mora/Maduwa (Sharks/Skates),False,20.0,20,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Gal Ma'lu (Rock fish),False,70.0,70,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Shore Seine (Small fish),False,460.0,460,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Issa (Shrimps),False,20.0,20,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Pokirissa (Lobster),False,5.0,5,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Kakuluwa (Crabs),False,5.0,5,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Other fish,False,85.0,85,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,2,Colombo,Colombo,Total,True,1045.0,"1,045",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Thora (Seer),False,50.0,50,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Paraw (Trevally),False,180.0,180,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Balaya (Skipjack tuna),False,12570.0,"12,570",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Kelawalla (Yellowfin tuna),False,2180.0,"2,180",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Tuna like fishes (other blood fishes),False,3165.0,"3,165",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Thalapath (Billfish),False,2020.0,"2,020",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Mora/Maduwa (Sharks/Skates),False,320.0,320,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Gal Ma'lu (Rock fish),False,110.0,110,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Shore Seine (Small fish),False,5230.0,"5,230",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Issa (Shrimps),False,,-,dash,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Pokirissa (Lobster),False,15.0,15,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Kakuluwa (Crabs),False,,-,dash,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Other fish,False,130.0,130,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,3,Kalutara,Kalutara,Total,True,25970.0,"25,970",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Thora (Seer),False,320.0,320,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Paraw (Trevally),False,950.0,950,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Balaya (Skipjack tuna),False,6920.0,"6,920",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Kelawalla (Yellowfin tuna),False,5800.0,"5,800",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Tuna like fishes (other blood fishes),False,5230.0,"5,230",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Thalapath (Billfish),False,80.0,80,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Mora/Maduwa (Sharks/Skates),False,310.0,310,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Gal Ma'lu (Rock fish),False,820.0,820,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Shore Seine (Small fish),False,27790.0,"27,790",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Issa (Shrimps),False,40.0,40,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Pokirissa (Lobster),False,10.0,10,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Kakuluwa (Crabs),False,10.0,10,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Other fish,False,1495.0,"1,495",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,4,Galle,Galle,Total,True,49775.0,"49,775",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Thora (Seer),False,80.0,80,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Paraw (Trevally),False,80.0,80,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Balaya (Skipjack tuna),False,10210.0,"10,210",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Kelawalla (Yellowfin tuna),False,5070.0,"5,070",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Tuna like fishes (other blood fishes),False,3530.0,"3,530",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Thalapath (Billfish),False,1600.0,"1,600",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Mora/Maduwa (Sharks/Skates),False,230.0,230,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Gal Ma'lu (Rock fish),False,310.0,310,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Shore Seine (Small fish),False,4315.0,"4,315",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Issa (Shrimps),False,,-,dash,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Pokirissa (Lobster),False,5.0,5,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Kakuluwa (Crabs),False,,-,dash,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Other fish,False,1390.0,"1,390",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,5,Matàra,Matara,Total,True,26820.0,"26,820",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Thora (Seer),False,130.0,130,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Paraw (Trevally),False,240.0,240,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Balaya (Skipjack tuna),False,7820.0,"7,820",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Kelawalla (Yellowfin tuna),False,1240.0,"1,240",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Tuna like fishes (other blood fishes),False,1810.0,"1,810",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Thalapath (Billfish),False,370.0,370,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Mora/Maduwa (Sharks/Skates),False,150.0,150,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Gal Ma'lu (Rock fish),False,610.0,610,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Shore Seine (Small fish),False,10710.0,"10,710",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Issa (Shrimps),False,10.0,10,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Pokirissa (Lobster),False,40.0,40,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Kakuluwa (Crabs),False,20.0,20,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Other fish,False,440.0,440,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,6,Tangalla,Tangalle,Total,True,23590.0,"23,590",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Thora (Seer),False,550.0,550,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Paraw (Trevally),False,740.0,740,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Balaya (Skipjack tuna),False,1600.0,"1,600",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Kelawalla (Yellowfin tuna),False,1090.0,"1,090",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Tuna like fishes (other blood fishes),False,755.0,755,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Thalapath (Billfish),False,600.0,600,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Mora/Maduwa (Sharks/Skates),False,660.0,660,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Gal Ma'lu (Rock fish),False,560.0,560,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Shore Seine (Small fish),False,6820.0,"6,820",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Issa (Shrimps),False,30.0,30,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Pokirissa (Lobster),False,20.0,20,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Kakuluwa (Crabs),False,20.0,20,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Other fish,False,765.0,765,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,7,Kalmunai,Kalmunai,Total,True,14210.0,"14,210",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Thora (Seer),False,830.0,830,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Paraw (Trevally),False,1190.0,"1,190",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Balaya (Skipjack tuna),False,2270.0,"2,270",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Kelawalla (Yellowfin tuna),False,1950.0,"1,950",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Tuna like fishes (other blood fishes),False,750.0,750,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Thalapath (Billfish),False,1070.0,"1,070",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Mora/Maduwa (Sharks/Skates),False,410.0,410,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Gal Ma'lu (Rock fish),False,1600.0,"1,600",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Shore Seine (Small fish),False,3080.0,"3,080",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Issa (Shrimps),False,310.0,310,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Pokirissa (Lobster),False,5.0,5,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Kakuluwa (Crabs),False,40.0,40,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Other fish,False,405.0,405,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,8,Batticaloa,Batticaloa,Total,True,13910.0,"13,910",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Thora (Seer),False,470.0,470,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Paraw (Trevally),False,1640.0,"1,640",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Balaya (Skipjack tuna),False,3550.0,"3,550",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Kelawalla (Yellowfin tuna),False,2780.0,"2,780",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Tuna like fishes (other blood fishes),False,4600.0,"4,600",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Thalapath (Billfish),False,420.0,420,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Mora/Maduwa (Sharks/Skates),False,490.0,490,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Gal Ma'lu (Rock fish),False,2780.0,"2,780",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Shore Seine (Small fish),False,12990.0,"12,990",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Issa (Shrimps),False,960.0,960,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Pokirissa (Lobster),False,5.0,5,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Kakuluwa (Crabs),False,470.0,470,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Other fish,False,630.0,630,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,9,Trincomalee,Trincomalee,Total,True,31785.0,"31,785",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Thora (Seer),False,420.0,420,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Paraw (Trevally),False,930.0,930,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Balaya (Skipjack tuna),False,320.0,320,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Kelawalla (Yellowfin tuna),False,10.0,10,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Tuna like fishes (other blood fishes),False,530.0,530,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Thalapath (Billfish),False,160.0,160,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Mora/Maduwa (Sharks/Skates),False,250.0,250,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Gal Ma'lu (Rock fish),False,1100.0,"1,100",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Shore Seine (Small fish),False,7200.0,"7,200",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Issa (Shrimps),False,410.0,410,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Pokirissa (Lobster),False,5.0,5,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Kakuluwa (Crabs),False,350.0,350,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Other fish,False,650.0,650,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,10,Mullaithivu,Mullaitivu,Total,True,12335.0,"12,335",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Thora (Seer),False,80.0,80,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Paraw (Trevally),False,450.0,450,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Balaya (Skipjack tuna),False,,-,dash,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Kelawalla (Yellowfin tuna),False,,-,dash,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Tuna like fishes (other blood fishes),False,,-,dash,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Thalapath (Billfish),False,,-,dash,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Mora/Maduwa (Sharks/Skates),False,270.0,270,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Gal Ma'lu (Rock fish),False,840.0,840,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Shore Seine (Small fish),False,3560.0,"3,560",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Issa (Shrimps),False,610.0,610,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Pokirissa (Lobster),False,,-,dash,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Kakuluwa (Crabs),False,1470.0,"1,470",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Other fish,False,665.0,665,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,11,Kilinochchi,Kilinochchi,Total,True,7945.0,"7,945",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Thora (Seer),False,990.0,990,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Paraw (Trevally),False,2520.0,"2,520",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Balaya (Skipjack tuna),False,120.0,120,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Kelawalla (Yellowfin tuna),False,70.0,70,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Tuna like fishes (other blood fishes),False,955.0,955,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Thalapath (Billfish),False,220.0,220,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Mora/Maduwa (Sharks/Skates),False,810.0,810,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Gal Ma'lu (Rock fish),False,3740.0,"3,740",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Shore Seine (Small fish),False,10840.0,"10,840",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Issa (Shrimps),False,2850.0,"2,850",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Pokirissa (Lobster),False,,-,dash,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Kakuluwa (Crabs),False,3130.0,"3,130",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Other fish,False,3130.0,"3,130",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,12,Jaffna,Jaffna,Total,True,29375.0,"29,375",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Thora (Seer),False,130.0,130,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Paraw (Trevally),False,1510.0,"1,510",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Balaya (Skipjack tuna),False,180.0,180,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Kelawalla (Yellowfin tuna),False,30.0,30,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Tuna like fishes (other blood fishes),False,195.0,195,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Thalapath (Billfish),False,100.0,100,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Mora/Maduwa (Sharks/Skates),False,380.0,380,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Gal Ma'lu (Rock fish),False,1200.0,"1,200",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Shore Seine (Small fish),False,11350.0,"11,350",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Issa (Shrimps),False,1480.0,"1,480",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Pokirissa (Lobster),False,10.0,10,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Kakuluwa (Crabs),False,1440.0,"1,440",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Other fish,False,3270.0,"3,270",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,13,Mannar,Mannar,Total,True,21275.0,"21,275",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Thora (Seer),False,90.0,90,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Paraw (Trevally),False,1640.0,"1,640",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Balaya (Skipjack tuna),False,1420.0,"1,420",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Kelawalla (Yellowfin tuna),False,1820.0,"1,820",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Tuna like fishes (other blood fishes),False,1020.0,"1,020",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Thalapath (Billfish),False,820.0,820,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Mora/Maduwa (Sharks/Skates),False,460.0,460,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Gal Ma'lu (Rock fish),False,1120.0,"1,120",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Shore Seine (Small fish),False,6880.0,"6,880",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Issa (Shrimps),False,1510.0,"1,510",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Pokirissa (Lobster),False,10.0,10,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Kakuluwa (Crabs),False,1350.0,"1,350",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Other fish,False,1485.0,"1,485",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,14,Puttalam,Puttalam,Total,True,19625.0,"19,625",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Thora (Seer),False,130.0,130,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Paraw (Trevally),False,360.0,360,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Balaya (Skipjack tuna),False,480.0,480,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Kelawalla (Yellowfin tuna),False,3810.0,"3,810",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Tuna like fishes (other blood fishes),False,380.0,380,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Thalapath (Billfish),False,1050.0,"1,050",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Mora/Maduwa (Sharks/Skates),False,170.0,170,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Gal Ma'lu (Rock fish),False,560.0,560,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Shore Seine (Small fish),False,5730.0,"5,730",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Issa (Shrimps),False,270.0,270,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Pokirissa (Lobster),False,5.0,5,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Kakuluwa (Crabs),False,260.0,260,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Other fish,False,310.0,310,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,15,Chilaw,Chilaw,Total,True,13515.0,"13,515",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Thora (Seer),True,4670.0,"4,670",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Paraw (Trevally),True,12720.0,"12,720",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Balaya (Skipjack tuna),True,48710.0,"48,710",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Kelawalla (Yellowfin tuna),True,33300.0,"33,300",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Tuna like fishes (other blood fishes),True,23465.0,"23,465",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Thalapath (Billfish),True,9570.0,"9,570",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Mora/Maduwa (Sharks/Skates),True,5960.0,"5,960",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Gal Ma'lu (Rock fish),True,15860.0,"15,860",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Shore Seine (Small fish),True,121445.0,"121,445",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Issa (Shrimps),True,8810.0,"8,810",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Pokirissa (Lobster),True,150.0,150,,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Kakuluwa (Crabs),True,8600.0,"8,600",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Other fish,True,15170.0,"15,170",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
+4.6,46,2024,final,,Total,Total,Total,True,308430.0,"308,430",,Mt,https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf
