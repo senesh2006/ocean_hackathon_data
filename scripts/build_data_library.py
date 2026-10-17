@@ -13,7 +13,7 @@ Licence: MIT (this script).  Data library metadata: CC BY 4.0.
 """
 import csv, fnmatch, hashlib, json, os, subprocess, sys
 
-LIBRARY_VERSION = "3.0.0"
+LIBRARY_VERSION = "3.1.0"
 CANONICAL_REPO = "https://github.com/senesh2006/ocean_hackathon_data"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_CSV = "data_library.csv"
@@ -151,6 +151,15 @@ RULES = [
     # ---------- fish-factors ----------
     R("fish-factors/sst/*", dataset="fish-factors/sst", source_name="NOAA Coral Reef Watch SST v3.1 via ERDDAP", license="LicenseRef-PublicDomain-USGov", commercial_use_ok="yes", attribution=CITE_NOAA_CRW),
     R("fish-factors/chlorophyll/*", dataset="fish-factors/chlorophyll", source_name="ESA OC-CCI v6.0 via NOAA ERDDAP", license="CC-BY-4.0", commercial_use_ok="yes", attribution=CITE_ESA),
+    R("fish-factors/wind/blended_windstress_monthly_2014_latest.csv", dataset="fish-factors/wind", source_name="NOAA NCEI Blended Sea Winds via CoastWatch ERDDAP", license="LicenseRef-PublicDomain-USGov", commercial_use_ok="yes", attribution="NOAA NCEI Blended Sea Winds; NOAA CoastWatch ERDDAP", status="current (raw; use _qc)",
+      license_note="RAW download, kept unchanged. Contains upstream bad values (|tau| up to 1,323 N/m2, mostly on land-mask cells) and repeated January rows. Use blended_windstress_monthly_2014_latest_qc.csv."),
+    R("fish-factors/wind/blended_winds_monthly_2014_latest.csv", dataset="fish-factors/wind", source_name="NOAA NCEI Blended Sea Winds via CoastWatch ERDDAP", license="LicenseRef-PublicDomain-USGov", commercial_use_ok="yes", attribution="NOAA NCEI Blended Sea Winds; NOAA CoastWatch ERDDAP", status="current (raw; use _qc)",
+      license_note="RAW download, kept unchanged. Contains repeated January rows and values on land-mask cells. Use blended_winds_monthly_2014_latest_qc.csv."),
+    R("fish-factors/wind/*_qc.csv", dataset="fish-factors/wind", source_name="NOAA NCEI Blended Sea Winds via CoastWatch ERDDAP; QC by ocean_hackathon_data (fish-factors/scripts/qc_windstress.py)", license="LicenseRef-PublicDomain-USGov", commercial_use_ok="yes", attribution="NOAA NCEI Blended Sea Winds; NOAA CoastWatch ERDDAP; " + CITE_SELF, date_retrieved="2026-10-16",
+      license_note="QC'd copy of the raw file: duplicate rows removed, land-mask cells and physically impossible values set to NaN; see qc_flag."),
+    R("fish-factors/wind/qc/*", dataset="fish-factors/wind/qc", source_name="Derived by qc_windstress.py from NOAA NCEI Blended Sea Winds", license="LicenseRef-PublicDomain-USGov", commercial_use_ok="yes", attribution="NOAA NCEI Blended Sea Winds; NOAA CoastWatch ERDDAP; " + CITE_SELF, date_retrieved="2026-10-17"),
+    R("fish-factors/scripts/qc_windstress.py", dataset="fish-factors/scripts", source_name="ocean_hackathon_data (original code)", source_url=CANONICAL_REPO, license="MIT", commercial_use_ok="yes", attribution=CITE_SELF,
+      description="QC for the NOAA blended wind and wind-stress files: writes *_qc.csv and wind/qc/ outlier lists without touching the raw files"),
     R("fish-factors/wind/*", dataset="fish-factors/wind", source_name="NOAA NCEI Blended Sea Winds via CoastWatch ERDDAP", license="LicenseRef-PublicDomain-USGov", commercial_use_ok="yes", attribution="NOAA NCEI Blended Sea Winds; NOAA CoastWatch ERDDAP"),
     R("fish-factors/sea_level_eddies/*", dataset="fish-factors/sea_level_eddies", source_name="NOAA CoastWatch blended SSH via ERDDAP", license="LicenseRef-PublicDomain-USGov", commercial_use_ok="yes", attribution="NOAA CoastWatch blended sea level anomaly; ERDDAP noaacwBLENDEDsshDaily"),
     R("fish-factors/currents/*", dataset="fish-factors/currents", source_name="NOAA CoastWatch blended NRT currents via ERDDAP", license="LicenseRef-PublicDomain-USGov", commercial_use_ok="yes", attribution="NOAA CoastWatch blended currents; ERDDAP noaacwBLENDEDNRTcurrentsDaily"),
@@ -214,6 +223,7 @@ FORMAT = {".csv": "CSV", ".tsv": "TSV", ".parquet": "Parquet", ".md": "Markdown"
 V1_COMMITS_END = "597ca80"   # last commit of the v1 bundle (tag v1.0.0)
 V2_COMMIT = "bba48b5"        # 'updated data sets' upload (tag v2.0.0)
 V3_COMMIT = "92f6590"        # fish-data v3
+V3_0_0_COMMIT = "92dace4"    # tag v3.0.0 (data library)
 
 def git(*a):
     return subprocess.run(["git", *a], cwd=ROOT, capture_output=True, text=True).stdout
@@ -283,6 +293,8 @@ def version_for(path, last_commit):
         return "2.0.0"
     if _is_ancestor(last_commit, V3_COMMIT):
         return "3.0.0 (fish-data v3)"
+    if _is_ancestor(last_commit, V3_0_0_COMMIT):
+        return "3.0.0"
     return LIBRARY_VERSION
 
 COLUMNS = ["path", "dataset", "description", "format", "size_bytes", "rows", "sha256", "source_name", "source_url",

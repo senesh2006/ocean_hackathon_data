@@ -1,0 +1,40 @@
+{
+  "windstress": {
+    "raw_rows": 147378,
+    "duplicate_rows_removed": 10527,
+    "qc_rows": 136851,
+    "flags": {
+      "good": 110807,
+      "land_mask": 10828,
+      "impossible_gt_3Nm2": 6,
+      "implausible_monthly_gt_1Nm2": 12,
+      "no_data": 15198
+    },
+    "raw_rows_abs_gt_3": 142,
+    "unique_rows_abs_gt_3": 133,
+    "max_abs_after_qc": {
+      "x_tau": 0.92202955,
+      "y_tau": 0.8274612
+    },
+    "p99_tau_after_qc": 0.24269377705013348
+  },
+  "winds": {
+    "raw_rows": 136851,
+    "duplicate_rows_removed": 9570,
+    "qc_rows": 127281,
+    "flags": {
+      "good": 103075,
+      "no_data": 14266,
+      "land_mask": 9940
+    },
+    "max_windspeed_after_qc": 11.197043
+  },
+  "thresholds": {
+    "component_abs_max_Nm2": 3.0,
+    "monthly_tau_magnitude_max_Nm2": 1.0
+  },
+  "mask_cells": {
+    "1": 775,
+    "0": 182
+  }
+}

@@ -136,3 +136,46 @@ species_flags/species_demersal_trawl_flags.csv,is_small_pelagic_family,int64,Fis
 species_flags/species_demersal_trawl_flags.csv,shelf_depth_possible_lt200m,int64,1 = water shallower than 200 m
 species_flags/species_demersal_trawl_flags.csv,trawl_target_likely,int64,"demersal or trawl-typical family, shallow depth limit < 200 m"
 species_flags/species_demersal_trawl_flags.csv,fishbase_matched,int64,
+wind/blended_windstress_monthly_2014_latest_qc.csv,time,str,
+wind/blended_windstress_monthly_2014_latest_qc.csv,zlev,float64,
+wind/blended_windstress_monthly_2014_latest_qc.csv,latitude,float64,
+wind/blended_windstress_monthly_2014_latest_qc.csv,longitude,float64,
+wind/blended_windstress_monthly_2014_latest_qc.csv,x_tau,float64,eastward wind stress (N/m2)
+wind/blended_windstress_monthly_2014_latest_qc.csv,y_tau,float64,northward wind stress (N/m2)
+wind/blended_windstress_monthly_2014_latest_qc.csv,mask,int64,"NOAA Blended Winds mask from the product: 0=land, 1=ocean (2=lake, 3=river, 6=model do not occur here)"
+wind/blended_windstress_monthly_2014_latest_qc.csv,qc_flag,int64,0 good; 1 land_mask (NaN); 2 impossible |component|>3 N/m2 (NaN); 3 implausible monthly |tau|>1 N/m2 (NaN); 4 no_data upstream
+wind/blended_windstress_monthly_2014_latest_qc.csv,qc_reason,str,text form of qc_flag
+wind/blended_winds_monthly_2014_latest_qc.csv,time,str,
+wind/blended_winds_monthly_2014_latest_qc.csv,zlev,float64,
+wind/blended_winds_monthly_2014_latest_qc.csv,latitude,float64,
+wind/blended_winds_monthly_2014_latest_qc.csv,longitude,float64,
+wind/blended_winds_monthly_2014_latest_qc.csv,windspeed,float64,10 m wind speed (m/s)
+wind/blended_winds_monthly_2014_latest_qc.csv,u_wind,float64,eastward wind (m/s)
+wind/blended_winds_monthly_2014_latest_qc.csv,v_wind,float64,northward wind (m/s)
+wind/blended_winds_monthly_2014_latest_qc.csv,mask,int64,"NOAA Blended Winds mask from the product: 0=land, 1=ocean (2=lake, 3=river, 6=model do not occur here)"
+wind/blended_winds_monthly_2014_latest_qc.csv,qc_flag,int64,0 good; 1 land_mask (NaN); 2 impossible |component|>3 N/m2 (NaN); 3 implausible monthly |tau|>1 N/m2 (NaN); 4 no_data upstream
+wind/blended_winds_monthly_2014_latest_qc.csv,qc_reason,str,text form of qc_flag
+wind/qc/windstress_outliers.csv,time,str,
+wind/qc/windstress_outliers.csv,latitude,float64,
+wind/qc/windstress_outliers.csv,longitude,float64,
+wind/qc/windstress_outliers.csv,x_tau,float64,eastward wind stress (N/m2)
+wind/qc/windstress_outliers.csv,y_tau,float64,northward wind stress (N/m2)
+wind/qc/windstress_outliers.csv,tau_magnitude,float64,"hypot(x_tau, y_tau) of the original value (N/m2)"
+wind/qc/windstress_outliers.csv,mask,float64,"NOAA Blended Winds mask from the product: 0=land, 1=ocean (2=lake, 3=river, 6=model do not occur here)"
+wind/qc/windstress_outliers.csv,reason,str,"why the row was removed or blanked (duplicate_row, land_mask, impossible_gt_3Nm2, implausible_monthly_gt_1Nm2)"
+wind/qc/windstress_outliers.csv,detail,str,extra note
+wind/qc/windstress_outliers.csv,zlev,float64,
+wind/qc/winds_outliers.csv,time,str,
+wind/qc/winds_outliers.csv,latitude,float64,
+wind/qc/winds_outliers.csv,longitude,float64,
+wind/qc/winds_outliers.csv,windspeed,float64,10 m wind speed (m/s)
+wind/qc/winds_outliers.csv,u_wind,float64,eastward wind (m/s)
+wind/qc/winds_outliers.csv,v_wind,float64,northward wind (m/s)
+wind/qc/winds_outliers.csv,mask,float64,"NOAA Blended Winds mask from the product: 0=land, 1=ocean (2=lake, 3=river, 6=model do not occur here)"
+wind/qc/winds_outliers.csv,reason,str,"why the row was removed or blanked (duplicate_row, land_mask, impossible_gt_3Nm2, implausible_monthly_gt_1Nm2)"
+wind/qc/winds_outliers.csv,detail,str,extra note
+wind/qc/winds_outliers.csv,zlev,float64,
+wind/qc/blended_winds_landmask_0.25deg.csv,latitude,float64,
+wind/qc/blended_winds_landmask_0.25deg.csv,longitude,float64,
+wind/qc/blended_winds_landmask_0.25deg.csv,mask,int64,"NOAA Blended Winds mask from the product: 0=land, 1=ocean (2=lake, 3=river, 6=model do not occur here)"
+wind/qc/blended_winds_landmask_0.25deg.csv,mask_meaning,str,text form of mask
