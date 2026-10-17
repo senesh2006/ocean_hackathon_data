@@ -32,6 +32,7 @@ LIC_URL = {
     "LicenseRef-UNEP-WCMC-NonCommercial": "https://doi.org/10.34892/t2wk-5t34",
     "LicenseRef-NCBI-GenBank": "https://www.ncbi.nlm.nih.gov/home/about/policies/",
     "LicenseRef-LicenseText": "LICENSES/",
+    "LicenseRef-GovLK-NoStatedLicence": "https://www.fisheries.gov.lk/",
     "unknown": "unknown",
 }
 OCC_MIX = "CC0-1.0 AND CC-BY-4.0 AND CC-BY-NC-4.0"
@@ -53,6 +54,10 @@ CITE_UNEP = "UNEP-WCMC, WorldFish Centre, WRI, TNC (2021) Global distribution of
 CITE_CHIRPS = "Funk C. et al. (2015) The climate hazards infrared precipitation with stations (CHIRPS). Sci. Data 2:150066"
 CITE_GPCP = "Adler R.F. et al. (2003, updated) GPCP v2.3 monthly precipitation; data from NOAA PSL"
 CITE_IOTC = "IOTC Secretariat (2025) Nominal catch dataset (IOTC-DATASETS NC), https://iotc.org"
+CITE_MFAR_BUL = "Statistics Unit, Ministry of Fisheries, Aquatic and Ocean Resources, Sri Lanka (2026) Annual Fisheries Statistical Bulletin 2025, https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf"
+CITE_MFAR_SPL = "Statistics Unit, Ministry of Fisheries and Aquatic Resources, Sri Lanka (2009) Major Marine Fish Types by Commercial Group, https://www.fisheries.gov.lk/wp-content/uploads/2026/07/fish_species_list.pdf"
+GOVLK_NOTE = ("No licence stated in the publication (Government of Sri Lanka, Ministry of Fisheries). Cite the Ministry; "
+              "reuse terms are unknown, so ask the Ministry before republishing at scale or using commercially.")
 CITE_GFW = "Global Fishing Watch (2024) fishing effort, https://globalfishingwatch.org (CC BY-NC 4.0)"
 
 def R(pattern, **kw):
@@ -205,6 +210,26 @@ RULES = [
     R("srilanka-fish-morphology/population_tables/*", dataset="srilanka-fish-morphology/population_tables", source_name="FishBase v24.07 (rOpenSci mirror)", source_url="https://huggingface.co/datasets/cboettig/fishbase/tree/main/data/fb/v24.07/parquet", license="CC-BY-NC-4.0", commercial_use_ok="no", attribution=CITE_FB),
     R("srilanka-fish-morphology/*.parquet", dataset="srilanka-fish-morphology", source_name="FishBase v24.07 (rOpenSci mirror)", source_url="https://huggingface.co/datasets/cboettig/fishbase/tree/main/data/fb/v24.07/parquet", license="CC-BY-NC-4.0", commercial_use_ok="no", attribution=CITE_FB),
     R("srilanka-fish-morphology/*", dataset="srilanka-fish-morphology"),
+    # ---------- official fisheries statistics (Ministry of Fisheries PDFs) ----------
+    R("srilanka-fisheries-official/scripts/*", dataset="srilanka-fisheries-official/scripts", description_fallback="Extraction / QC script (needs pdftotext + pandas)"),
+    R("srilanka-fisheries-official/qc_*", dataset="srilanka-fisheries-official/qc", source_name="QC output by ocean_hackathon_data", source_url=CANONICAL_REPO,
+      license="CC-BY-4.0", commercial_use_ok="yes", attribution=CITE_SELF, date_retrieved="2026-10-17"),
+    R("srilanka-fisheries-official/raw/worms_match_responses.json", dataset="srilanka-fisheries-official/raw", source_name="WoRMS REST AphiaRecordsByMatchNames",
+      source_url="https://www.marinespecies.org/rest/AphiaRecordsByMatchNames", license="CC-BY-4.0", commercial_use_ok="yes", attribution=CITE_WORMS, date_retrieved="2026-10-17"),
+    R("srilanka-fisheries-official/*CATALOG.md", dataset="srilanka-fisheries-official", description_fallback="Table catalog: source, method, columns, known issues"),
+    R("srilanka-fisheries-official/ministry_fish_species_list.*", dataset="srilanka-fisheries-official", source_name="Ministry of Fisheries Sri Lanka (Statistics Unit) fish species list; names validated with WoRMS",
+      source_url="https://www.fisheries.gov.lk/wp-content/uploads/2026/07/fish_species_list.pdf", license="LicenseRef-GovLK-NoStatedLicence", commercial_use_ok="unknown",
+      attribution=CITE_MFAR_SPL + "; " + CITE_WORMS, date_retrieved="2026-10-17", license_note=GOVLK_NOTE + " WoRMS columns (aphia_id, accepted name, taxonomy) are CC BY 4.0."),
+    R("srilanka-fisheries-official/raw/fish_species_list.pdf", dataset="srilanka-fisheries-official/raw", source_name="Ministry of Fisheries Sri Lanka (Statistics Unit)",
+      source_url="https://www.fisheries.gov.lk/wp-content/uploads/2026/07/fish_species_list.pdf", license="LicenseRef-GovLK-NoStatedLicence", commercial_use_ok="unknown",
+      attribution=CITE_MFAR_SPL, date_retrieved="2026-10-17", license_note=GOVLK_NOTE + " Unmodified original PDF.", description="Original PDF: Major Marine Fish Types by Commercial Group"),
+    R("srilanka-fisheries-official/raw/*.pdf", dataset="srilanka-fisheries-official/raw", source_name="Ministry of Fisheries Sri Lanka (Statistics Unit)",
+      source_url="https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf", license="LicenseRef-GovLK-NoStatedLicence", commercial_use_ok="unknown",
+      attribution=CITE_MFAR_BUL, date_retrieved="2026-10-17", license_note=GOVLK_NOTE + " Unmodified original PDF.", description="Original PDF: Annual Fisheries Statistical Bulletin 2025"),
+    R("srilanka-fisheries-official/bulletin2025_*", dataset="srilanka-fisheries-official", source_name="Ministry of Fisheries Sri Lanka (Statistics Unit), Annual Fisheries Statistical Bulletin 2025",
+      source_url="https://www.fisheries.gov.lk/wp-content/uploads/2026/10/Annual-Fisheries-Statistical-Bulletin-2025.pdf", license="LicenseRef-GovLK-NoStatedLicence", commercial_use_ok="unknown",
+      attribution=CITE_MFAR_BUL, date_retrieved="2026-10-17", license_note=GOVLK_NOTE + " 2025 values are provisional."),
+    R("srilanka-fisheries-official/*", dataset="srilanka-fisheries-official"),
     R("srilanka-fish-movement-tagging/*", dataset="srilanka-fish-movement-tagging", license_note="Documentation only; no tagging data is redistributed."),
 ]
 
@@ -258,7 +283,7 @@ def load_catalogs():
     """Map repo path -> catalog row (description, source_url, licence text, download_date)."""
     cat = {}
     for pkg in ["fish-data", "fish-factors", "srilanka-banned-marine", "srilanka-fish-genetics",
-                "srilanka-fish-morphology", "srilanka-fish-movement-tagging", "updated data sets"]:
+                "srilanka-fish-morphology", "srilanka-fish-movement-tagging", "srilanka-fisheries-official", "updated data sets"]:
         fp = os.path.join(ROOT, pkg, "catalog.csv")
         if not os.path.exists(fp):
             continue
