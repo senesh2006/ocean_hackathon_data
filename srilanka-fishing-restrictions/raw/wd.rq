@@ -1,0 +1,10 @@
+SELECT ?item ?itemLabel ?typeLabel ?coord ?wdpa ?inception ?area ?osmrel WHERE {
+  ?item wdt:P17 wd:Q854; wdt:P31 ?type.
+  ?type wdt:P279* wd:Q473972.
+  OPTIONAL{?item wdt:P625 ?coord}
+  OPTIONAL{?item wdt:P809 ?wdpa}
+  OPTIONAL{?item wdt:P571 ?inception}
+  OPTIONAL{?item wdt:P2046 ?area}
+  OPTIONAL{?item wdt:P402 ?osmrel}
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

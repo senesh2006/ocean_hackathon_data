@@ -1,0 +1,405 @@
+                                                 IOTC–2026–WPEB22(AS)-05
+   REVIEW OF CURRENT CONSERVATION AND MANAGEMENT MEASURES RELATING TO
+                          ECOSYSTEMS AND BYCATCH
+
+                                                                 PREPARED BY IOTC SECRETARIAT, AUGUST 2026
+
+PURPOSE
+To encourage participants at the Working Party on Ecosystems and Bycatch (WPEB22) to review the
+existing Conservation and Management Measures (CMM) relating to ecosystems and bycatch and as
+necessary to 1) provide recommendations to the Scientific Committee on whether modifications may
+be required; and 2) recommend whether other CMMs may be required.
+
+BACKGROUND
+Ecosystems and bycatch in the Indian Ocean are currently subject to a range of CMMs adopted by the
+Commission. At the 30th Session of the Commission (S30) held in May 2026, three new CMMs relevant
+to WPEB were adopted:
+
+
+Resolution 26/03: On the conservation of mobulid rays caught in association with fisheries managed
+by IOTC
+This Resolution will supersede Resolution 19/03. It aims to mitigate the interactions between mobulid
+rays and all fishing vessels flying the flag of a Contracting Party or Cooperating Non-Contracting Party.
+The Resolution prohibits the intentional setting on and targeting of these rays and prohibits all vessels
+retaining onboard, transhipping, landing, storing, any part or whole carcass of mobulid rays caught in
+the IOTC Area of Competence.
+CPCs shall ensure that vessels carrying out subsistence fisheries (that are allowed to retain these
+animals) do not tranship, sell or offer for sale any part or whole carcass of mobulid rays.
+CPCs shall report the information and data collected on interactions (i.e. number of discards and
+releases) with mobulid rays by vessels through logbooks and/or through observer programs.
+Detailed handling and release guidelines were adopted and a list of required tools to be carried
+onboard is included.
+Except for those CPCs that have clearly demonstrated that intentional and/or incidental catches of
+mobulid rays do not occur in their IOTC fisheries, CPCs shall develop, with the assistance from the
+IOTC Secretariat where required, catch monitoring plans for mobulid ray catches and interactions by
+their flag fishing vessels carrying out subsistence and artisanal fisheries. CPCs shall report their catch
+monitoring plans, including their scientific and operational rationale, to the Working Party on
+Ecosystems and Bycatch and in the national scientific reports to the IOTC Scientific Committee by
+2027.
+At its 30th Session in 2027, the IOTC Scientific Committee shall review the soundness of the catch
+monitoring plans submitted by CPCs, as well as the rationale and evidence provided by CPCs that
+have not submitted such plans.
+Studies on at-vessel and post-release mortality are encouraged.
+The SC shall review the status of mobulids at its annual session in 2027 including the identification
+of possible hot-spots for conservation and management within and beyond the EEZs of coastal CPCs.
+
+
+                                               Page 1 of 8
+                                                                          IOTC–2026–WPEB22(AS)-05
+
+
+
+
+Resolution 26/06: Mandatory statistical reporting requirements for IOTC Contracting Parties and
+Cooperating Non-Contracting Parties (CPCs)
+This Resolution will supersede Resolution 15/02 when it comes into force. It sets out the detailed
+requirements for reporting statistical data to the IOTC Secretariat for all gears and CPCs operating in
+IOTC fisheries as well as the deadlines for submitting these data. Data required for submission include
+catch and effort data, size data and data on fishing activities on FADs for all IOTC species as well as
+non-target species such as sharks, seabirds, marine turtles and cetaceans. It also requires CPCs to
+report geospatial catch and effort data for surface and longline fisheries differentiated by (i) areas
+under national jurisdiction, (ii) high seas, and (iii) areas under the national jurisdiction of another
+coastal state if their vessels operate in those waters. They are also required to provide a historical data
+time series within 3 years of the Resolution being adopted. CPCs must provide detailed statistics of
+the fishing vessels that contributed to the catches reported to the IOTC in the calendar year by 2030.
+
+
+Resolution 26/08: On promoting the objectives of IOTC through cooperation with the BBNJ agreement
+(The agreement under the United Nations Convention on the Law of the Sea on the conservation and
+sustainable use of marine biological diversity of areas beyond national jurisdiction)
+This Resolution aims to encourage CPCs to:
+    • ratify, approve or accede to the BBNJ Agreement (if they have not yet done so),
+    • participate in BBNJ meeting,
+    • engage with other CPCs to develop proposals for ABMTs within the IOTC Area
+
+The Resolution also requests the IOTC Secretariat and Executive Secretary to continue to engage with
+the BBNJ process and Secretariat as appropriate to promote coherence and avoid duplication taking
+into account existing practices and cooperation agreements under the BBNJ Agreement.
+There will now be a standing agenda item at the Commission to discuss issues relating to the BBNJ
+agreement.
+CPCs are encouraged to undertake research on conservation and sustainable use of marine biological
+diversity and ecosystems in the high seas of the IOTC Area in particular with respect to threatened
+and endangered species and those vulnerable to fisheries under the competence of the IOTC and
+present these to the WPEB and SC.
+
+
+OLDER CMMS
+Ecosystems and bycatch in the Indian Ocean are currently subject to a range of other CMMs adopted
+by the Commission:
+
+SHARKS AND RAYS:
+Resolution 25/08 On the conservation of sharks caught in association with fisheries managed by IOTC
+This Resolution superseded Resolutions 18/02, 17/05, 13/05, 13/06 and 12/09. The Resolution applies
+to all vessels operating in the IOTC area of competence but does not apply to vessels conducting
+research on the efficacy of the management measures.
+Retention bans
+
+
+
+
+                                               Page 2 of 8
+                                                                         IOTC–2026–WPEB22(AS)-05
+
+
+
+The Resolution prohibits the retention of oceanic whitetip shark, thresher sharks and whale sharks. It
+does allow the collection of biological samples from these species by scientific observers if they are
+dead at haulback.
+Other species – full utilisation
+For other species, CPCs shall require retained sharks to be fully utilised and prohibit shark finning.
+Sharks must be landed with fins naturally attached. However, fins may be partially sliced through and
+folded against the carcass to facilitate storage onboard. Two alternative options are also available to
+CPCs: binding of the fin to the carcass using rope or wire; or attaching uniquely numbered tags to each
+carcass and its corresponding fins. CPCs must inform the Secretariat if these alternatives are being
+applied and ensure enhanced monitoring efforts are implemented.
+Bycatch mitigation measures
+From 2026, longline vessels may not use branch lines running directly off the longline floats or drop
+lines (shark lines). For any CPCs to be allowed to continue to use wire trace north of 20oS, at least one
+CPC must undertake scientific fishing trials to assess the effects of leader materials on the mortality of
+blue sharks and vulnerable shark species (includes OCS, FAL, SMA and threshers). The objective of
+such trials would be to determining if the use of wire leaders has a higher catch and mortality for these
+species than when using nylon monofilament leaders. The results of this study should be presented to
+the SC in 2027.
+No later than 2026, the SC will also review available data pertaining to spatial and temporal trends in
+the relative distribution of the mentioned species, the distribution of total longline fishing effort, and
+the distribution and level of use of wire and monofilament leaders. In 2027, the SC will provide advice
+regarding spatial options for the application of a prohibition of wire trace taking into account the
+distribution of the vulnerable and target shark species.
+If no CPC has presented research on the use of branchlines within the timeline required, then from
+2028 CPCs wire trace leaders or branchlines shall be prohibited in the IOTC area of competence North
+of 20oS.
+Releasing sharks
+Vessels shall release vulnerable shark species (oceanic whitetip shark, thresher sharks and whale
+sharks) before bringing them onboard or when brought alongside for safe identification and shall
+release any unwanted shark species caught incidentally and not used on board for food or subsistence.
+Sharks should be released as soon as practically possible in according with the minimum standards for
+safe handling and live release procedures set out in Annex III of the Resolution. The SC shall review
+these standards by 2025 and provide recommendations to the Commission on any further
+improvements required.
+Blue shark
+The Commission will consider specific CMMs for blue shark in 2026 based on the results of the stock
+assessment to be carried out in 2025. The CMMs may include total allowable catch and catch limits
+for each CPC. The SC shall continue the development of a MSE framework for blue shark and present
+potential HCRs and candidate limit, target and threshold reference points to the Commission.
+Whale sharks
+Vessels may not intentionally set a purse seine around a whale shark if it is sighted prior to the set
+commencing. If a whale shark is unintentionally encircled, they must take all reasonable steps to
+ensure its safe release. The incident should be reported to the flag state.
+
+
+
+
+                                               Page 3 of 8
+                                                                        IOTC–2026–WPEB22(AS)-05
+
+
+
+In 2025, the SC shall review existing data and information relating to the life history and
+conservation status of whale sharks and confirm whether they meet the definition of being a taxon
+of the greatest biological vulnerability and conservation concern for which there are very few data.
+If this is the case, the SC shall advise the Commission on the appropriateness of applying precautionary
+management measures in IOTC fisheries.
+Reporting requirements
+All interactions with sharks in relation to prohibited species being caught, retained sharks, release of
+sharks and encircling of whale sharks must be recorded through logbooks and observer reports in
+accordance with Resolutions 15/01 (data collection) and 25/06 (ROS). CPCs shall report annual data
+for catches of all sharks in accordance with Resolution 15/02.
+The Commission with advice from the SC, shall develop mechanisms to encourage CPCs to comply
+with reporting requirements on sharks, notably the most vulnerable species identified by the SC.
+National Action plans
+CPCs should implement the FAO International Plan of Action for the Conservation and Management
+of Sharks (IPOA Sharks) and include these NPOAs under the IPOA sharks in their annual
+implementation report.
+Scientific work and recommendations
+The SC shall continue to monitor the status of sharks until comprehensive assessments are possible
+for all relevant sharks and advise on their vulnerability to overfishing and whether precautionary
+management is recommended. The SC shall establish ToRs for a long-term project on sharks to be
+considered by the Commission in 2026 with the aim to ensuring the collection of data required for
+performing reliable stock assessments for key species. The project will include:
+    a) the identification of data gaps for key shark species in IOTC;
+    b) the collection of relevant data, including through direct contacts with CPC national
+         administrations, research institutes and stakeholders;
+    c) any other activity that could contribute to improving the collection of data required for
+         performing stock assessments of key shark species in IOTC;
+    d) the development and further improvement of shark identification guides for relevant shark
+         species to provide a better overview on the compliance status of CPCs and thereby assist CPCs
+         to comply with their reporting obligations.
+
+CPCs with reported catches of sharks shall endeavour to undertake research to:
+   a) identify ways to make fishing gears more selective and reduce the mortality of incidentally
+       caught sharks;
+   b) improve knowledge on key biological/ecological parameters, life-history, behavioural traits,
+       migration patterns, and post-release survival of key shark species,;
+   c) facilitate capacity building of CPCs in shark species identification to improve data reporting at
+       species level;
+   d) identify key shark mating, pupping and nursery areas; and
+   e) improve handling practices for live sharks to maximise post-release survival.
+
+The SC shall annually review the information reported by CPCs and the results of research projects on
+a gear by gear basis and provide recommendations to the Commission on way to strengthen the
+conservation and management of sharks within IOTC.
+
+
+
+
+                                              Page 4 of 8
+                                                                         IOTC–2026–WPEB22(AS)-05
+
+
+
+Resolution 25/09 On the conservation of shortfin and longfin mako sharks caught in association with
+IOTC fisheries
+This Resolution requires vessels to release shortfin and longfin mako sharks when brought alongside
+a vessel. Vessels should implement the minimum standards for safe handling and release procedures
+in order to improve survivability of these species. The species may only be retained when dead at
+haulback as verified by EMS or an observer. Any retained sharks may not be transhipped, whole or in
+part. Catches including dead discards and live releases must be recorded and reported to species level
+in accordance with Resolution 15/01. By 2028, CPCs reporting annual average catches (landing and
+dead discards) of shortfin mako over 1 tonne between 2020-2023 shall present to WPEB and SC the
+statistical methodology used to estimate these data. The WPEB and SC shall review and approve the
+methods or provide feedback for improvements. CPCs are encouraged to undertake scientific research
+to provide information on key biological parameters. In 2025, the SC shall assess the requirements
+under Resolution 15/01 and advise the Commission on the necessity and feasibility to extend reporting
+of shortfin and longfin mako sharks at species level for all gears. The SC shall review the impact of the
+measures of this Resolution on shortfin mako mortality in 2029. By 2029, the Commission will develop
+a mechanism to constrain the total levels of mortality including dead discards and post-release
+mortality, with the objective for the stock to be in the green zone of the Kobe matrix by 2038.
+
+
+MARINE TURTLES:
+Resolution 12/04: On the conservation of marine turtles. This Resolution introduced amendments to
+Resolution 09/06 On Marine Turtles, by removing the term ‘hard-shelled’ to provide equal protection
+for all marine turtles in the IOTC area of competence and clarify the data reporting requirements for
+interactions with marine turtles.
+
+SEABIRDS:
+Resolution 23/07: On reducing the incidental bycatch of seabirds in longline fisheries. This Resolution
+supersedes Resolution 12/06. The Resolution applies specifically to longliners and the limit of the area
+in which longline vessels have to implement mitigation measures is south of 25°S to encompass the
+area of overlap between the distribution area of endangered species of seabirds and the longline
+fishing grounds. This Resolution builds on the previous Resolution which listed three mitigation
+measures (i.e., night setting with minimum deck lighting, bird scaring lines and line weighting)
+considered to be effective. The revised Resolution 23/07 differs from Resolution 12/06 in that CPCs
+may either use at least two of the three mitigation measure options previously mentioned or may use
+hook-shielding devices as a stand-alone measure. The Resolution also requires the SC to continue to
+review and make recommendations to the Commission on advancements and best practice in seabird
+bycatch mitigation including developing advice to the Commission on best practice branch line
+weighting by 2024.
+
+
+
+
+                                              Page 5 of 8
+                                                                         IOTC–2026–WPEB22(AS)-05
+
+
+
+CETACEANS:
+Resolution 23/06: On the conservation of cetaceans. This Resolution supersedes Resolution 13/04 and
+applies to all vessels on the IOTC record of fishing vessels so does not apply to artisanal vessels
+operating exclusively in their respective EEZ. The Resolution aims to mitigate the interactions between
+cetaceans and purse seine and gillnet fishing gear; and gather additional information from CPCs on
+the interaction rates with other fishing gears, in particular gillnets and longlines. The Resolution also
+requests that the IOTC SC develop best practice guidelines for the safe release and handling of
+encircled cetaceans and submit these to the Commission meeting for endorsement by 2025 at the
+latest and review information on the status of cetaceans in the IOTC area and provide
+recommendations or advice to the Commission to identify measures that the Commission could take
+to mitigate negative effects of interactions with cetaceans by IOTC fisheries. Comparing this Resolution
+to 13/04, the updated Resolution adds in a clause saying that CPCs shall endeavour to ensure that
+fishermen are aware of and use proper mitigation, identification, handling and releasing techniques
+and keep on board all necessary equipment for the safe release of cetaceans before the guidelines are
+endorsed and another encouraging CPCs with national and state legislation for protecting these
+species to provide information to the SC.
+
+REGIONAL OBSERVER SCHEME, EMS AND DATA COLLECTION AND REPORTING REQUIREMENTS:
+Resolution 25/06 On a Regional Observer Scheme. This Resolution supersedes and is based on
+Resolution 24/04. The main change from the previous Resolution is that the timelines for reporting
+fisheries observer reports and data collected through the ROS will now be harmonised with those for
+the main IOTC datasets so observer data collecting during a year should be submitted by 30 June the
+following year. This resolution puts in place a programme comprising national observer schemes to
+collect verified catch data and other scientific data related to the fisheries for tuna and tuna-like
+species in the IOTC area. CPCs are required to cover a minimum of 5% of their operations/sets per
+year on vessels over 24m in length or vessels of all lengths operating outside of their EEZ. The
+Resolution provides provisions for the use of Electronic Monitoring Systems (EMS) to complement or
+substitute for human onboard observers once the EMS standards have been adopted. This revision
+includes a note saying that CPCs may present a list of implementation plans for alternate data
+collection to the SC which if endorsed by the SC, may be used to record and report mandatory ROS
+data requirements for by vessels less than 24m in length fishing exclusively in the CPC’s EEZ. The
+Resolution also includes a requirement for the SC to update the ROS observer manual and observer
+reporting forms including the minimum data fields and provide advice on a training program.
+Resolution 16/04: On the implementation of a pilot project in view of promoting the regional observer
+scheme of IOTC. This resolution creates a pilot project aiming to enhance the implementation of the
+Resolution 11/04 on a Regional Observer Scheme (Now Resolution 22/04) and to raise the level of
+compliance to the implementation of Resolutions 15/01 and 15/02, respectively on the recording of
+catch and effort data by fishing vessels in the IOTC area of competence and on mandatory statistical
+reporting requirements for IOTC Contracting Parties and Cooperating non-Contracting parties (CPCs).
+Resolution 23/08 On Electronic Monitoring Standards for IOTC fisheries. This Resolution sets out the
+minimum standards for electronic monitoring in IOTC fisheries and for implementing a Regional
+Electronic Monitoring Program (REMP). It sets out the rules for the implementation of national
+electronic monitoring programs by CPCs including the requirement to meet the EM program standard
+and EM system and data standards and submit Vessel Monitoring plans to the Secretariat and the SC
+on an annual basis. The Resolution requires the SC to review the Ros minimum data fields no later
+than 2024 to identify fields that are difficult for EM and/or human observers to collect; provide advice
+and recommendations to the Commission on the need and use of those identified fields for scientific
+purposes and provide advice to the Commission on the potential need to develop a separate EM ROS
+minimum data fields list. CPCs are encouraged to share relevant information, approaches and
+experiences with the SC and Compliance Committee to support to the implementation of the REMP
+
+
+
+
+                                              Page 6 of 8
+                                                                         IOTC–2026–WPEB22(AS)-05
+
+
+
+and the work of the SC.
+Resolution 15/01: On the recording of catch and effort data by fishing vessels in the IOTC area of
+competence.
+This Resolution sets out the detailed data recording requirements for all gears and CPCs operating in
+IOTC fisheries. The Resolution applies to vessels over 24m LOA and those under 24m LOA operating
+outside the EEZs of their flag states.
+To be superseded - Resolution 15/02: Mandatory statistical reporting requirements for IOTC
+Contracting Parties and Cooperating non-Contracting Parties (CPCs).
+This Resolution sets out the detailed requirements for reporting statistical data to the IOTC Secretariat
+for all gears and CPCs operating in IOTC fisheries as well as the deadlines for submitting these data.
+Data required for submission include catch and effort data, size data and data on fishing activities on
+FADs for all IOTC species as well as non-target species such as sharks, seabirds, marine turtles and
+cetaceans.
+
+
+OTHER:
+Resolution 19/05: On a ban on discards of bigeye tuna, skipjack tuna, yellowfin tuna and a
+recommendation for non-targeted species caught by purse seine vessels in the IOTC area of
+competence. The Resolution bans the discard of three tropical tuna species, with the exception of fish
+unfit for human consumption or if no space available to accommodate all fish. This Resolution
+supersedes Resolution 17/04.
+Resolution 12/12: To prohibit the use of large-scale driftnets on the high seas in the IOTC area. This
+Resolution banned the use of large-scale driftnets (more than 2.5 km long) on the high seas within the
+IOTC area of competence. Paragraph 6 of this Resolution states that “The IOTC shall periodically assess
+whether additional measures should be adopted and implemented to ensure that large-scale driftnets
+are not used on the high seas in the Convention Area. The first such assessment shall take place in
+2012.”.
+Resolution 18/04: On bioFAD experimental project. This Resolution acknowledges and supports the
+Biodegradable FAD (BIOFAD) project with the objective of reducing the impact and the amount of
+synthetic marine debris of the use of non-biodegradable FAD in the ecosystem. The Project
+Consortium will make available to the IOTC Scientific Committee the results of the project at the latest
+two months in advance of its 2020 meeting. The Scientific Committee will analyse the outcomes of the
+project and provide scientific advice on possible additional FAD management options for
+consideration by the Commission in 2021.
+Resolution 18/09: On a scoping study of socio-economic indicators of IOTC fisheries. This Resolution
+specifies the terms of reference for a scoping study of socio-economic aspects of IOTC fisheries.
+Pursuant to Article XII.5 of the Agreement, the Commission shall review the results of the scoping
+study and determine if a permanent Working Party on the Socio-Economic Aspects of the Fisheries
+the IOTC Area of the Competence is needed, at its 23rd Session in 2019.
+Resolution 19/02: Procedures on a Fish Aggregating Devices (FADs) Management Plan. This
+Resolution sets a limit of 300 buoys to be set by any purse seine vessel at a time and the requirement
+for CPCs to submit information to the Secretariat on the number of operational buoys followed by
+vessels by type, 1x1 grid area and month strata. CPCs are also required to submit FAD management
+plants to the Commission for analysis by the Compliance Committee and these should include
+initiatives to investigate the minimise the capture of small bigeye and yellowfin tuna and non-target
+species associated with fishing on FADs as well as guidelines to prevent the loss or abandonment of
+FADs. The Resolution also states that vessels are required to use non-entangling FAD designs and
+
+
+
+
+                                              Page 7 of 8
+                                                                      IOTC–2026–WPEB22(AS)-05
+
+
+
+natural or biodegradable materials to construct them.
+Resolution 25/01 On climate change as it relates to the Indian Ocean Tuna Commission. This
+Resolution supersedes and expands on Resolution 24/01. This Resolution requires that the
+Commission shall take into account scientific information available from the Scientific Committee and
+other relevant international processes on the relationship between climate change, tuna fisheries and
+tuna stocks, bycatch and ecosystems. The Commission will support further research into the
+relationship between climate change, fisheries for IOTC species, bycatch and the ecosystem. The SC
+will consider and where possible, advise on the potential impacts of climate change on IOTC species
+and any related impacts on developing states and SIDs. The WPEB will include climate change as a
+standing agenda item. The SC will consider how climate change and fishing activities may be related
+and provide advice on the potential implications for these relationships for the conservation and
+management of IOTC species, bycatch and ecosystems. Capacity building programs in developing
+coastal states are also to be supported by the Commission and SC. The SC shall review and consider
+any climate change information and advice from its working parties and provide advice to the
+Commission and suggest further steps that may be taken to integrate climate change considerations
+into its decision-making processes.
+
+
+DISCUSSION
+As part of best practice, the WPEB is obliged to review existing CMMs and consider whether their
+science-based components need to be revised. If this is the case, then the WPEB should provide clear,
+science-based recommendations for the Scientific Committee’s consideration.
+
+RECOMMENDATION
+That the WPEB NOTE paper IOTC–2026–WPEB22(AS)–05 which aimed to encourage the WPEB to
+review the existing Conservation and Management Measures (CMMs) relating to the WPEB, and as
+necessary to 1) provide recommendations to the Scientific Committee on whether modifications may
+be required; and 2) recommend whether other CMMs may be required.
+
+
+
+
+                                            Page 8 of 8
+

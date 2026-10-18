@@ -39,6 +39,7 @@ Machine-readable indexes: each package’s `catalog.csv` and `data_dictionary.cs
 | [`fish-data/`](fish-data/) | **Species presence** (OBIS, GBIF), FishBase & IOTC tables, env grids, merged clean set (7,355 records, 1,090 species), `train_ready/features.parquet` | SDM / species models; join with factors |
 | [`fish-factors/`](fish-factors/) | **Ocean & habitat covariates** (22 data files): SST, chlorophyll, wind, SLA, currents, SMAP salinity, WOA23 bottom T/S/O₂, MLD, rainfall, moon, monsoon, IOD/ONI, seabed/trawl grid, coral reefs, species trawl flags | Trawl / distribution models; richer env than `fish-data/env/` alone |
 | [`srilanka-banned-marine/`](srilanka-banned-marine/) | **Regulatory context**: 90 banned/restricted species rows + 9 gear/area rules (FARA, FFPO, IOTC, DFAR sources) | Compliance overlays, bycatch risk, route planning |
+| [`srilanka-fishing-restrictions/`](srilanka-fishing-restrictions/) | **Where/what is illegal to fish** (added 2026-10-18): 40 zones (28 GeoJSON shapes: EEZ, 12 NM, IMBL, coastal gear bands, MPAs, lagoon FMAs) + 56 zone rules + 189 species rules + 104-row DFAR gazette register. Approximate geometries are not legal boundaries | Illegal-fishing masks, compliance overlays |
 
 ---
 

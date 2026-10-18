@@ -34,6 +34,7 @@ If the organisation repo is ever refreshed, copy from a tagged release here, and
 | `Fishing_sl.csv` | Global Fishing Watch fishing hours, 0.1° monthly, 2012–2024 (61,420 rows) | GFW BigQuery export (per DATA.md) | **CC BY-NC 4.0** (as stated in DATA.md; owner to confirm) | **no** |
 | `splitwater_ro_log_1h_5s.csv` | SplitWater RO unit sample log (721 rows, 5 s interval) | **unknown** | **unknown: owner to confirm** (no licence grant until then) | unknown |
 | `updated data sets/` | **Superseded** v2 partial upload (9 files). Each row in `data_library.csv` names its v3 replacement in `superseded_by` | as fish-data | as its fish-data counterpart | as counterpart |
+| `srilanka-fishing-restrictions/` | Spatial fishing restrictions: 40 zones / 28 GeoJSON shapes, 56 zone rules, 189 species rules, 104 DFAR regulations (added 2026-10-18). **Not legal advice**; `approx_*` geometries are not legal boundaries | DFAR gazettes (text + OCR), FARA 1996/2017, FFPO 2009, Marine Regions, OSM/Nominatim, geoBoundaries, Natural Earth, IOTC, CITES CoP20, WoRMS | **ODbL 1.0** (OSM- and geoBoundaries-derived shapes, share-alike); Marine Regions CC BY 4.0; rest CC BY 4.0 | yes (share-alike for ODbL parts) |
 | root docs and library files | README, DATA.md (v1-era reference), LICENSE, CITATION.cff, CHANGELOG, data library | this repo | CC BY 4.0 (docs), MIT (code) | yes |
 
 ## Licence matrix

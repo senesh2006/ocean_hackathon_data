@@ -1,0 +1,212 @@
+{
+  "generated": "2026-10-18T11:56:17+05:30",
+  "zones": {
+    "rows": 40,
+    "with_geometry": 28,
+    "invalid": 0,
+    "outside_bbox": [],
+    "no_sea_overlap": [
+      "LK-PA-KUMANA",
+      "LK-FMA-REKAWA",
+      "LK-FMA-MUNDEL",
+      "LK-PA-BUNDALA"
+    ],
+    "no_sea_overlap_note": "all are lagoon/inland-water zones (Rekawa, Mundel lagoons; Kumana, Bundala lagoon parks): legally part of Sri Lanka Waters but masked as land by Natural Earth 1:10m",
+    "water_context_counts": {
+      "marine": 14,
+      "lagoon_or_inland_water (Natural Earth land mask includes lagoons)": 6,
+      "line": 4,
+      "mixed_land_sea": 4
+    },
+    "bbox_rule": "polygons must lie inside lon 77-85 / lat 4-11; maritime_zone and boundary_line only need to intersect (EEZ reaches 2.57N-11.45N, 85.23E)",
+    "geometry_quality_counts": {
+      "no_geometry": 12,
+      "approx_point_buffer": 8,
+      "authoritative_dataset": 6,
+      "computed_from_rule_coarse_coastline": 5,
+      "osm_polygon": 4,
+      "authoritative_dataset_derived": 1,
+      "approx_extent_offshore_limit_unspecified": 1,
+      "gazette_coordinates": 1,
+      "osm_polygon_lagoon_water": 1,
+      "osm_polygon_lagoon_water_partial": 1
+    },
+    "area_vs_official": [
+      {
+        "zone_id": "LK-MPA-KAYANKERNI",
+        "area_km2": 19.253,
+        "official_km2": 9.53
+      },
+      {
+        "zone_id": "LK-MPA-PIGEON",
+        "area_km2": 3.159,
+        "official_km2": 4.714
+      },
+      {
+        "zone_id": "LK-MPA-BARREEF",
+        "area_km2": 302.775,
+        "official_km2": 306.7
+      },
+      {
+        "zone_id": "LK-MPA-HIKKADUWA",
+        "area_km2": 0.559,
+        "official_km2": 1.016
+      },
+      {
+        "zone_id": "LK-MPA-ADAMSBRIDGE",
+        "area_km2": 188.113,
+        "official_km2": 189.9
+      },
+      {
+        "zone_id": "LK-PA-VANKALAI",
+        "area_km2": 48.312,
+        "official_km2": 48.39
+      },
+      {
+        "zone_id": "LK-PA-KOKKILAI",
+        "area_km2": 19.918,
+        "official_km2": 19.95
+      },
+      {
+        "zone_id": "LK-PA-CHUNDIKKULAM",
+        "area_km2": 195.336,
+        "official_km2": 195.65
+      },
+      {
+        "zone_id": "LK-PA-BUNDALA",
+        "area_km2": 33.336,
+        "official_km2": 33.39
+      }
+    ]
+  },
+  "species": {
+    "rows": 189,
+    "unique_taxa": 167,
+    "aphia_found": 189,
+    "aphia_missing": [],
+    "unaccepted_names": [
+      [
+        "Alcyonacea",
+        "Octocorallia"
+      ],
+      [
+        "Chaetodon madagascariensis",
+        "Chaetodon madagaskariensis"
+      ],
+      [
+        "Chaetodon semion",
+        "Chaetodon semeion"
+      ],
+      [
+        "Chicoreus palmarosae",
+        "Chicoreus rosarius"
+      ],
+      [
+        "Chrysiptera kuiteri",
+        "Amblypomacentrus kuiteri"
+      ],
+      [
+        "Epinephelus caeruleopunctatus",
+        "Epinephelus coeruleopunctatus"
+      ],
+      [
+        "Holothuria fuscogilva",
+        "Holothuria (Microthele) fuscogilva"
+      ],
+      [
+        "Holothuria lessoni",
+        "Holothuria (Metriatyla) lessoni"
+      ],
+      [
+        "Lambis chiragra",
+        "Harpago chiragra"
+      ],
+      [
+        "Pterois radiata",
+        "Pteropterus radiatus"
+      ],
+      [
+        "Strombus listeri",
+        "Mirabilistrombus listeri"
+      ],
+      [
+        "Symphyllia",
+        "Lobophyllia"
+      ],
+      [
+        "Tridacnidae",
+        "Tridacninae"
+      ]
+    ],
+    "bad_dates": [],
+    "rule_type_counts": {
+      "total_ban": 90,
+      "export_permit_live": 33,
+      "cites_appendix_II": 22,
+      "export_ban_live": 12,
+      "cites_appendix_I": 10,
+      "size_limit": 9,
+      "retention_ban_rfmo": 4,
+      "release_required_rfmo": 2,
+      "bycatch_mitigation_rfmo": 2,
+      "gear_restriction": 1,
+      "finning_ban": 1,
+      "seasonal_closure": 1,
+      "export_restriction": 1,
+      "berried_ban": 1
+    },
+    "aphia_ids_positive_int": true
+  },
+  "rules": {
+    "rows": 56,
+    "bad_dates": [],
+    "orphan_zone_ids": [],
+    "status_counts": {
+      "in_force": 53,
+      "in_force_uncertain": 2,
+      "expired": 1
+    },
+    "restriction_type_counts": {
+      "gear_ban": 14,
+      "no_take_without_permit": 13,
+      "gear_limit": 8,
+      "permit_required": 7,
+      "foreign_fishing_ban": 4,
+      "method_ban": 2,
+      "time_window": 2,
+      "seasonal_closure": 2,
+      "habitat_protection": 1,
+      "no_fishing_buffer": 1,
+      "management_area": 1,
+      "temporary_closure": 1
+    },
+    "verified_from_counts": {
+      "gazette_ocr": 19,
+      "gazette_text": 18,
+      "act_text": 15,
+      "secondary": 4
+    }
+  },
+  "register": {
+    "rows": 104,
+    "pdfs_downloaded": 60,
+    "text_source_counts": {
+      "NaN": 47,
+      "text_layer": 30,
+      "ocr": 27
+    },
+    "date_check_counts": {
+      "not_checked": 66,
+      "match": 37,
+      "mismatch": 1
+    },
+    "date_mismatches": [
+      {
+        "dfar_row_id": 203,
+        "gazette_no": "1601/36",
+        "register_date": "2009-05-05",
+        "gazette_date_from_pdf": "2009-05-15"
+      }
+    ]
+  }
+}

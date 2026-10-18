@@ -1,0 +1,13 @@
+[out:json][timeout:180];
+(
+ way["boundary"="protected_area"](5.7,79.4,10.0,82.1);
+ relation["boundary"="protected_area"](5.7,79.4,10.0,82.1);
+ way["leisure"="nature_reserve"](5.7,79.4,10.0,82.1);
+ relation["leisure"="nature_reserve"](5.7,79.4,10.0,82.1);
+ way["boundary"="national_park"](5.7,79.4,10.0,82.1);
+ relation["boundary"="national_park"](5.7,79.4,10.0,82.1);
+ way["protected_area"="marine"](5.7,79.4,10.0,82.1);
+ relation["seamark:type"="restricted_area"](5.0,79.0,10.5,82.5);
+ way["seamark:type"="restricted_area"](5.0,79.0,10.5,82.5);
+);
+out geom;

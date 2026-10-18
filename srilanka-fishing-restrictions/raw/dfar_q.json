@@ -1,0 +1,1 @@
+{"query": "query{ getAllRegulationTopics(language:\"en\", activeOnly:true){ id navLabelEn headerEn slug sortOrder rows { \n  id topicId nameEn nameSi nameTa name\n  number date pdfPath pdfUrl sortOrder\n } } }"}
