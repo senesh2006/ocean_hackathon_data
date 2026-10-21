@@ -1,0 +1,91 @@
+{
+ "built": "2026-10-20",
+ "validated": "2026-10-21T10:48:20 Asia/Colombo",
+ "checks": {
+  "species_niche_rows": 1437,
+  "species_niche_cols": 146,
+  "species_prey_rows": 48407,
+  "species_prey_cols": 22,
+  "csv_parquet_match": true,
+  "species_set_equals_fish-data/species_list.csv": true,
+  "duplicate_species": 0,
+  "prey_predators_not_in_niche": 0,
+  "prey_exact_duplicate_rows": 0,
+  "prey_blank_prey_name": 0,
+  "prey_rows_by_source": {
+   "GloBI": 38301,
+   "FishBase fooditems": 6015,
+   "FishBase diet": 4091
+  },
+  "dictionary_covers_all_columns": true,
+  "work_occ_env_rows": 6004,
+  "work_bg_env_rows": 20000
+ },
+ "files": {
+  "README.md": {
+   "bytes": 7499,
+   "sha256": "2683286956de004a163e2a2975a4b3a81e2f322f00c742b3e36e42d1b9f8b786"
+  },
+  "catalog.md": {
+   "bytes": 5585,
+   "sha256": "df4ff8dbb5bc1bbc1ef0e98336e294113f4ea29f4d38e632e61f201e57e23127"
+  },
+  "coverage_stats.csv": {
+   "bytes": 725,
+   "sha256": "aa7f3e8629ea156388c1f6bd9293c54ab4a1fae40fea921a7a1f09987ee1abb7"
+  },
+  "coverage_stats.parquet": {
+   "bytes": 2980,
+   "sha256": "be5c70f1df5ea2f9975aa3ae3199d00962fdf877e00ffb6954b25926117b219a"
+  },
+  "data_dictionary.csv": {
+   "bytes": 31280,
+   "sha256": "0d3e5dd6a7a9d56aca99c26b29e3dc196e5cb9d7e91c754fbf27e24767ebcc49"
+  },
+  "data_dictionary.parquet": {
+   "bytes": 13101,
+   "sha256": "94907d29e6657d4a1d4095b52e3c34ad51d6480794c3fbaffd989bc43e0db7df"
+  },
+  "scripts/build_niche.py": {
+   "bytes": 26840,
+   "sha256": "d61f00dc8ac49115fce42c6226e14341919122e8cdcab2cecee227c4abc9c010"
+  },
+  "scripts/fetch_globi.py": {
+   "bytes": 1870,
+   "sha256": "cd8eaa22472591bdefec5d9cead981af413962ba77871d2ceca30458a8fe628d"
+  },
+  "scripts/join_env.py": {
+   "bytes": 2977,
+   "sha256": "e6e42f289c8d343edc065cfaed3639d723ded5b1fccdc46ef3fb298ba8cca281"
+  },
+  "scripts/make_docs.py": {
+   "bytes": 14196,
+   "sha256": "f804ade76196523573f3e0e9359870c4885346eb939f7f132d68028610e7a268"
+  },
+  "species_niche.csv": {
+   "bytes": 2064910,
+   "sha256": "06daddb48747e8f182847644f3fb68eb230548a30954c7411999b17f2fc23b59"
+  },
+  "species_niche.parquet": {
+   "bytes": 725067,
+   "sha256": "ffd04ee5bdcd3f0efbd6d2d4bf4d5dc1c96c884e3a57a5a6c584d4befe4f7052"
+  },
+  "species_prey.csv": {
+   "bytes": 21283632,
+   "sha256": "9c447431157e9440c3c1070890d4ba0055e2aa638c7bc8ca01bd6b29cfb29bfc"
+  },
+  "species_prey.parquet": {
+   "bytes": 769142,
+   "sha256": "d8a965d07179d074d675b5815c72afa9cdf3c1b640b6b3de1cbc28484bb21354"
+  },
+  "work/bg_env.parquet": {
+   "bytes": 1405009,
+   "sha256": "4ffad8b330e84928ecd77fbd139a8f93fcc2a303c6d3a93722147515ee2fd30b"
+  },
+  "work/occ_env.parquet": {
+   "bytes": 389215,
+   "sha256": "ce006417ab9cd7539a95d0b80994888a9fd41476f047c4cd674456feda52db4a"
+  }
+ },
+ "excluded": "raw/ (FishBase, AquaMaps, GloBI caches, ~64 MB) - see catalog.md"
+}

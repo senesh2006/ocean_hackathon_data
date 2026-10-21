@@ -1,0 +1,169 @@
+file,column,description,units,source,non_null,pct_species
+species_niche.csv,scientific_name,WoRMS accepted name used as species key in the repo,,repo fish-data/species_list.csv (v3),1437,100.0
+species_niche.csv,fishbase_name,Name of the species in FishBase,,repo fish-data/species_list.csv (v3),1429,99.4
+species_niche.csv,common_name,FishBase common name,,repo fish-data/species_list.csv (v3),1301,90.5
+species_niche.csv,family,Family (most common across records),,repo fish-data/species_list.csv (v3),1437,100.0
+species_niche.csv,order,Order,,repo fish-data/species_list.csv (v3),1437,100.0
+species_niche.csv,class,Class,,repo fish-data/species_list.csv (v3),1437,100.0
+species_niche.csv,fish_group,"Coarse group (ray_finned, shark_ray, ...)",,repo fish-data/species_list.csv (v3),1437,100.0
+species_niche.csv,accepted_aphia_id,WoRMS AphiaID of the accepted name,,repo fish-data/species_list.csv (v3),1433,99.7
+species_niche.csv,fb_speccode,FishBase SpecCode,,repo fish-data/species_list.csv (v3),1429,99.4
+species_niche.csv,fb_link_method,How the FishBase SpecCode was linked,,repo fish-data/species_list.csv (v3),1437,100.0
+species_niche.csv,am_species_id,AquaMaps SpeciesID (key into hspen_r),,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_link_method,How AquaMaps was linked (fb_speccode / accepted_name / fishbase_name),,derived,1225,85.2
+species_niche.csv,fishbase_sri_lanka_status,"FishBase country status for Sri Lanka (C_Code 144), blank if the species is not on the FishBase Sri Lanka checklist",,repo fish-data/species_list.csv (v3),677,47.1
+species_niche.csv,habitat_salinity,marine / brackish / freshwater from FishBase Saltwater/Brack/Fresh,,repo fish-data/species_list.csv (v3),1437,100.0
+species_niche.csv,freshwater_only,1 if FishBase lists freshwater only,0/1,repo fish-data/species_list.csv (v3),1437,100.0
+species_niche.csv,preferred_conditions_summary,"Text summary of conditions the species stays in: local p5-p95 SST and seabed depth (only if n_records>=5), AquaMaps preferred temp/depth, FishBase usual depth and habitats",,derived,1299,90.4
+species_niche.csv,avoided_conditions_summary,"Text summary of conditions the species avoids: local avoidance (n>=10), AquaMaps unsuitable range, FishBase max depth; joined with ' | '",,derived,1374,95.6
+species_niche.csv,prey_main_groups,Top 5 harmonised prey groups with share of distinct prey taxa across FishBase + GloBI,% of distinct prey names,derived from species_prey.csv,1013,70.5
+species_niche.csv,n_records,Clean occurrence records in the repo (v3),count,repo fish-data/species_list.csv (v3),1437,100.0
+species_niche.csv,n_records_recommended,Records in the recommended training subset,count,repo fish-data/species_list.csv (v3),1437,100.0
+species_niche.csv,model_tier,Repo model tier by record count,,repo fish-data/species_list.csv (v3),1437,100.0
+species_niche.csv,fb_demers_pelag,"FishBase habitat type (DemersPelag): pelagic-oceanic, pelagic-neritic, reef-associated, demersal, benthopelagic, bathydemersal, ...",,FishBase v24.07 (rOpenSci HF parquet mirror) species,1429,99.4
+species_niche.csv,fb_migration,FishBase migration category (AnaCat),,FishBase v24.07 (rOpenSci HF parquet mirror) species,404,28.1
+species_niche.csv,fb_depth_min_m,FishBase shallowest recorded depth (DepthRangeShallow),m,FishBase v24.07 (rOpenSci HF parquet mirror) species,1146,79.7
+species_niche.csv,fb_depth_max_m,FishBase deepest recorded depth (DepthRangeDeep),m,FishBase v24.07 (rOpenSci HF parquet mirror) species,1193,83.0
+species_niche.csv,fb_depth_common_min_m,"FishBase usual depth, shallow (DepthRangeComShallow)",m,FishBase v24.07 (rOpenSci HF parquet mirror) species,225,15.7
+species_niche.csv,fb_depth_common_max_m,"FishBase usual depth, deep (DepthRangeComDeep)",m,FishBase v24.07 (rOpenSci HF parquet mirror) species,233,16.2
+species_niche.csv,fb_max_length_cm,FishBase max length,cm,FishBase v24.07 (rOpenSci HF parquet mirror) species,1393,96.9
+species_niche.csv,fb_climate_zone,FishBase environment/climate zone (EnvTemp),,FishBase v24.07 (rOpenSci HF parquet mirror) stocks,1427,99.3
+species_niche.csv,fb_temp_min_c,FishBase stocks TempMin (often from aquarium/lab literature),°C,FishBase v24.07 (rOpenSci HF parquet mirror) stocks,190,13.2
+species_niche.csv,fb_temp_max_c,FishBase stocks TempMax,°C,FishBase v24.07 (rOpenSci HF parquet mirror) stocks,182,12.7
+species_niche.csv,fb_temp_pref_min_c,FishBase estimate TempPrefMin (10th percentile of temperature in occupied cells; AquaMaps-based),°C,FishBase v24.07 (rOpenSci HF parquet mirror) estimate,1240,86.3
+species_niche.csv,fb_temp_pref_mean_c,FishBase estimate TempPrefMean,°C,FishBase v24.07 (rOpenSci HF parquet mirror) estimate,1240,86.3
+species_niche.csv,fb_temp_pref_max_c,FishBase estimate TempPrefMax (90th percentile),°C,FishBase v24.07 (rOpenSci HF parquet mirror) estimate,1240,86.3
+species_niche.csv,fb_trophic_level,FishBase trophic level (estimate.Troph),TL (2=herbivore ... 4.5=top predator),FishBase v24.07 (rOpenSci HF parquet mirror) estimate,1427,99.3
+species_niche.csv,fb_trophic_level_se,SE of trophic level,TL,FishBase v24.07 (rOpenSci HF parquet mirror) estimate,1427,99.3
+species_niche.csv,fb_trophic_level_basis,Whether trophic level comes from observed diet/food items or is model-predicted,,FishBase v24.07 (rOpenSci HF parquet mirror) estimate.TrophObserved,1427,99.3
+species_niche.csv,fb_feeding_path,Benthic vs pelagic food chain (FeedingPath),,FishBase v24.07 (rOpenSci HF parquet mirror) estimate,1421,98.9
+species_niche.csv,fb_habitats,Habitat flags set in FishBase ecology (any stock),; list,FishBase v24.07 (rOpenSci HF parquet mirror) ecology,1031,71.7
+species_niche.csv,fb_social_behaviour,schooling / shoaling / solitary flags,; list,FishBase v24.07 (rOpenSci HF parquet mirror) ecology,107,7.4
+species_niche.csv,fb_feeding_type,FishBase main feeding type,,FishBase v24.07 (rOpenSci HF parquet mirror) ecology.FeedingType,857,59.6
+species_niche.csv,fb_diet_troph,Trophic level from diet composition studies,TL,FishBase v24.07 (rOpenSci HF parquet mirror) ecology,323,22.5
+species_niche.csv,fb_food_troph,Trophic level from food items,TL,FishBase v24.07 (rOpenSci HF parquet mirror) ecology,897,62.4
+species_niche.csv,fb_resilience,FishBase resilience (High/Medium/Low/Very low),,FishBase v24.07 (rOpenSci HF parquet mirror) stocks,1359,94.6
+species_niche.csv,fb_iucn_code,IUCN category as stored in FishBase (may lag the live Red List),,FishBase v24.07 (rOpenSci HF parquet mirror) stocks,1427,99.3
+species_niche.csv,am_layer,"Which layer AquaMaps used for temp/salinity: s = surface, b = bottom",,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_pelagic_flag,AquaMaps pelagic flag (1 = only min depth limits the seabed),0/1,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_n_occurrence_cells,Number of 0.5° cells with occurrences used to fit the envelope,count,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r) speciesoccursum_r",1225,85.2
+species_niche.csv,am_date_created,Envelope creation date,date,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_depth_used,1 if AquaMaps used depth in the model,0/1,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_depth_min_m,AquaMaps envelope absolute minimum of depth,m,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_depth_prefmin_m,AquaMaps envelope preferred minimum (10th pct) of depth,m,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_depth_prefmax_m,AquaMaps envelope preferred maximum (90th pct) of depth,m,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_depth_max_m,AquaMaps envelope absolute maximum of depth,m,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_temp_used,1 if AquaMaps used temperature (surface or bottom per am_layer) in the model,0/1,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_temp_min_c,AquaMaps envelope absolute minimum of temperature (surface or bottom per am_layer),°C,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_temp_prefmin_c,AquaMaps envelope preferred minimum (10th pct) of temperature (surface or bottom per am_layer),°C,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_temp_prefmax_c,AquaMaps envelope preferred maximum (90th pct) of temperature (surface or bottom per am_layer),°C,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_temp_max_c,AquaMaps envelope absolute maximum of temperature (surface or bottom per am_layer),°C,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_salinity_used,1 if AquaMaps used salinity (surface or bottom per am_layer) in the model,0/1,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_salinity_min_psu,AquaMaps envelope absolute minimum of salinity (surface or bottom per am_layer),psu,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_salinity_prefmin_psu,AquaMaps envelope preferred minimum (10th pct) of salinity (surface or bottom per am_layer),psu,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_salinity_prefmax_psu,AquaMaps envelope preferred maximum (90th pct) of salinity (surface or bottom per am_layer),psu,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_salinity_max_psu,AquaMaps envelope absolute maximum of salinity (surface or bottom per am_layer),psu,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_o2_used,1 if AquaMaps used bottom dissolved oxygen in the model,0/1,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_o2_min_mmol_m3,AquaMaps envelope absolute minimum of bottom dissolved oxygen,mmol m-3 (≈ umol/L),"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_o2_prefmin_mmol_m3,AquaMaps envelope preferred minimum (10th pct) of bottom dissolved oxygen,mmol m-3 (≈ umol/L),"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_o2_prefmax_mmol_m3,AquaMaps envelope preferred maximum (90th pct) of bottom dissolved oxygen,mmol m-3 (≈ umol/L),"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_o2_max_mmol_m3,AquaMaps envelope absolute maximum of bottom dissolved oxygen,mmol m-3 (≈ umol/L),"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_primprod_used,1 if AquaMaps used primary production in the model,0/1,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_primprod_min_mgc_m2_d,AquaMaps envelope absolute minimum of primary production,mgC m-2 day-1,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_primprod_prefmin_mgc_m2_d,AquaMaps envelope preferred minimum (10th pct) of primary production,mgC m-2 day-1,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_primprod_prefmax_mgc_m2_d,AquaMaps envelope preferred maximum (90th pct) of primary production,mgC m-2 day-1,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_primprod_max_mgc_m2_d,AquaMaps envelope absolute maximum of primary production,mgC m-2 day-1,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_landdist_used,1 if AquaMaps used distance to land in the model,0/1,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_landdist_min_km,AquaMaps envelope absolute minimum of distance to land,km,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_landdist_prefmin_km,AquaMaps envelope preferred minimum (10th pct) of distance to land,km,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_landdist_prefmax_km,AquaMaps envelope preferred maximum (90th pct) of distance to land,km,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_landdist_max_km,AquaMaps envelope absolute maximum of distance to land,km,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,obs_n_cells_0p1deg,Distinct 0.1° cells with records,count,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_months,Calendar months with records,list,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_frac_coral_reef_cell,Fraction of records in a UNEP-WCMC coral reef cell (fish-factors seabed_shelf_habitat 1 arcmin),0-1,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1428,99.4
+species_niche.csv,obs_frac_shelf_lt200m,Fraction of records (with seabed depth >0) on the shelf (<200 m),0-1,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1196,83.2
+species_niche.csv,obs_sst_c_n,"Observed local number of records with a value for SST, month-matched NOAA CRW else 2003-2026 climatology (repo sst_filled) at the species' records",count,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_sst_c_p05,"Observed local 5th percentile of SST, month-matched NOAA CRW else 2003-2026 climatology (repo sst_filled) at the species' records",°C,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_sst_c_p50,"Observed local median of SST, month-matched NOAA CRW else 2003-2026 climatology (repo sst_filled) at the species' records",°C,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_sst_c_p95,"Observed local 95th percentile of SST, month-matched NOAA CRW else 2003-2026 climatology (repo sst_filled) at the species' records",°C,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_sst_c_min,"Observed local minimum of SST, month-matched NOAA CRW else 2003-2026 climatology (repo sst_filled) at the species' records",°C,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_sst_c_max,"Observed local maximum of SST, month-matched NOAA CRW else 2003-2026 climatology (repo sst_filled) at the species' records",°C,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_chla_mg_m3_n,"Observed local number of records with a value for chl-a, ESA OC-CCI month or climatology (10**log_chla); lagoon outliers >10 mg/m3 excluded at the species' records",count,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_chla_mg_m3_p05,"Observed local 5th percentile of chl-a, ESA OC-CCI month or climatology (10**log_chla); lagoon outliers >10 mg/m3 excluded at the species' records",mg m-3,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_chla_mg_m3_p50,"Observed local median of chl-a, ESA OC-CCI month or climatology (10**log_chla); lagoon outliers >10 mg/m3 excluded at the species' records",mg m-3,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_chla_mg_m3_p95,"Observed local 95th percentile of chl-a, ESA OC-CCI month or climatology (10**log_chla); lagoon outliers >10 mg/m3 excluded at the species' records",mg m-3,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_chla_mg_m3_min,"Observed local minimum of chl-a, ESA OC-CCI month or climatology (10**log_chla); lagoon outliers >10 mg/m3 excluded at the species' records",mg m-3,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_chla_mg_m3_max,"Observed local maximum of chl-a, ESA OC-CCI month or climatology (10**log_chla); lagoon outliers >10 mg/m3 excluded at the species' records",mg m-3,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_seabed_depth_m_n,Observed local number of records with a value for ETOPO 2022 seabed depth (records snapped to coast with depth 0 excluded) at the species' records,count,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_seabed_depth_m_p05,Observed local 5th percentile of ETOPO 2022 seabed depth (records snapped to coast with depth 0 excluded) at the species' records,m,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1196,83.2
+species_niche.csv,obs_seabed_depth_m_p50,Observed local median of ETOPO 2022 seabed depth (records snapped to coast with depth 0 excluded) at the species' records,m,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1196,83.2
+species_niche.csv,obs_seabed_depth_m_p95,Observed local 95th percentile of ETOPO 2022 seabed depth (records snapped to coast with depth 0 excluded) at the species' records,m,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1196,83.2
+species_niche.csv,obs_seabed_depth_m_min,Observed local minimum of ETOPO 2022 seabed depth (records snapped to coast with depth 0 excluded) at the species' records,m,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1196,83.2
+species_niche.csv,obs_seabed_depth_m_max,Observed local maximum of ETOPO 2022 seabed depth (records snapped to coast with depth 0 excluded) at the species' records,m,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1196,83.2
+species_niche.csv,obs_sss_psu_n,Observed local number of records with a value for WOA23 surface salinity monthly climatology 0.25° at the species' records,count,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_sss_psu_p05,Observed local 5th percentile of WOA23 surface salinity monthly climatology 0.25° at the species' records,psu,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_sss_psu_p50,Observed local median of WOA23 surface salinity monthly climatology 0.25° at the species' records,psu,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_sss_psu_p95,Observed local 95th percentile of WOA23 surface salinity monthly climatology 0.25° at the species' records,psu,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_sss_psu_min,Observed local minimum of WOA23 surface salinity monthly climatology 0.25° at the species' records,psu,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_sss_psu_max,Observed local maximum of WOA23 surface salinity monthly climatology 0.25° at the species' records,psu,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_t100m_c_n,Observed local number of records with a value for WOA23 temperature at 100 m (thermocline proxy) at the species' records,count,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_t100m_c_p05,Observed local 5th percentile of WOA23 temperature at 100 m (thermocline proxy) at the species' records,°C,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1388,96.6
+species_niche.csv,obs_t100m_c_p50,Observed local median of WOA23 temperature at 100 m (thermocline proxy) at the species' records,°C,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1388,96.6
+species_niche.csv,obs_t100m_c_p95,Observed local 95th percentile of WOA23 temperature at 100 m (thermocline proxy) at the species' records,°C,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1388,96.6
+species_niche.csv,obs_bottom_temp_c_n,Observed local number of records with a value for WOA23 near-bottom temperature at the species' records,count,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_bottom_temp_c_p05,Observed local 5th percentile of WOA23 near-bottom temperature at the species' records,°C,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_bottom_temp_c_p50,Observed local median of WOA23 near-bottom temperature at the species' records,°C,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_bottom_temp_c_p95,Observed local 95th percentile of WOA23 near-bottom temperature at the species' records,°C,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_bottom_sal_psu_n,Observed local number of records with a value for WOA23 near-bottom salinity at the species' records,count,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_bottom_sal_psu_p05,Observed local 5th percentile of WOA23 near-bottom salinity at the species' records,psu,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_bottom_sal_psu_p50,Observed local median of WOA23 near-bottom salinity at the species' records,psu,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_bottom_sal_psu_p95,Observed local 95th percentile of WOA23 near-bottom salinity at the species' records,psu,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_bottom_o2_umolkg_n,Observed local number of records with a value for WOA23 near-bottom dissolved oxygen (1° grid) at the species' records,count,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_bottom_o2_umolkg_p05,Observed local 5th percentile of WOA23 near-bottom dissolved oxygen (1° grid) at the species' records,umol kg-1,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1364,94.9
+species_niche.csv,obs_bottom_o2_umolkg_p50,Observed local median of WOA23 near-bottom dissolved oxygen (1° grid) at the species' records,umol kg-1,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1364,94.9
+species_niche.csv,obs_bottom_o2_umolkg_p95,Observed local 95th percentile of WOA23 near-bottom dissolved oxygen (1° grid) at the species' records,umol kg-1,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1364,94.9
+species_niche.csv,obs_bottom_o2_umolkg_min,Observed local minimum of WOA23 near-bottom dissolved oxygen (1° grid) at the species' records,umol kg-1,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1364,94.9
+species_niche.csv,obs_bottom_o2_umolkg_max,Observed local maximum of WOA23 near-bottom dissolved oxygen (1° grid) at the species' records,umol kg-1,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1364,94.9
+species_niche.csv,obs_mld_m_n,Observed local number of records with a value for Mixed layer depth from WOA23 T (0.5 °C criterion) at the species' records,count,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_mld_m_p05,Observed local 5th percentile of Mixed layer depth from WOA23 T (0.5 °C criterion) at the species' records,m,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_mld_m_p50,Observed local median of Mixed layer depth from WOA23 T (0.5 °C criterion) at the species' records,m,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_mld_m_p95,Observed local 95th percentile of Mixed layer depth from WOA23 T (0.5 °C criterion) at the species' records,m,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1435,99.9
+species_niche.csv,obs_slope_deg_n,Observed local number of records with a value for Seabed slope (1 arcmin) at the species' records,count,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1437,100.0
+species_niche.csv,obs_slope_deg_p05,Observed local 5th percentile of Seabed slope (1 arcmin) at the species' records,degrees,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1428,99.4
+species_niche.csv,obs_slope_deg_p50,Observed local median of Seabed slope (1 arcmin) at the species' records,degrees,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1428,99.4
+species_niche.csv,obs_slope_deg_p95,Observed local 95th percentile of Seabed slope (1 arcmin) at the species' records,degrees,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,1428,99.4
+species_niche.csv,obs_reliability,Reliability of local ranges by n_records: none / very low (<5) / low (5-19) / moderate (20-49) / good (>=50),,derived,1437,100.0
+species_niche.csv,avoid_local_summary,"Only species with n_records>=10: variables where >=20% of study-area water (10,000 uniform_water background points) lies outside the species' observed min-max",,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,131,9.1
+species_niche.csv,avoid_local_max_frac_bg_outside,"Largest single-variable fraction of uniform background outside the observed min-max (depth, SST, chl-a, SSS)",0-1,derived: repo occurrences (fish-data/train_ready/features.parquet) joined to repo env grids,131,9.1
+species_niche.csv,avoid_aquamaps_summary,AquaMaps min/max limits (outside = unsuitable) for parameters the model used (YN=1),,"AquaMaps HSPEN (aquamapsdb am.db, archive.org; hspen_r)",1225,85.2
+species_niche.csv,am_frac_study_area_outside_envelope,"Fraction of uniform background points (study area water) outside the AquaMaps min/max for depth, temp, salinity, bottom O2 (layer-matched to repo SST/WOA23)",0-1,derived: AquaMaps x repo grids,1225,85.2
+species_niche.csv,avoid_fishbase_summary,FishBase max depth and freshwater-only flag as avoidance hints,,FishBase v24.07 (rOpenSci HF parquet mirror),1263,87.9
+species_niche.csv,prey_n_pairs_fishbase,Distinct prey items in FishBase fooditems + diet for this predator,count,species_prey.csv,1437,100.0
+species_niche.csv,prey_n_pairs_globi,Distinct prey name x interaction type pairs in GloBI,count,species_prey.csv,1437,100.0
+species_niche.csv,prey_top_group,Harmonised prey group with most distinct prey taxa,,species_prey.csv,1013,70.5
+species_niche.csv,prey_example_taxa,"Up to 8 species-level prey names, most frequently recorded first",; list,species_prey.csv,417,29.0
+species_niche.csv,fb_diet_top_items,Top 5 items by max % in FishBase diet composition studies,%,FishBase v24.07 (rOpenSci HF parquet mirror) diet/diet_items,393,27.3
+species_niche.csv,prey_recorded_in_sri_lanka_or_box,Any prey record from Sri Lanka (FishBase C_Code 144) or with coordinates in lat 4-11N lon 77-85E (GloBI),bool,species_prey.csv,1013,70.5
+species_niche.csv,data_retrieved,Date sources were downloaded,date,,1437,100.0
+species_prey.csv,predator_scientific_name,Predator = repo species (WoRMS accepted name),,repo fish-data/species_list.csv (v3),48407,
+species_prey.csv,predator_family,Predator family,,repo fish-data/species_list.csv (v3),48407,
+species_prey.csv,predator_common_name,Predator common name,,repo fish-data/species_list.csv (v3),48099,
+species_prey.csv,source,FishBase fooditems / FishBase diet / GloBI,,,48407,
+species_prey.csv,interaction_type,"food item, diet composition item (FishBase); eats or preysOn (GloBI)",,,48407,
+species_prey.csv,prey_name,Prey taxon or item name as given by the source (FishBase prey SpecCode resolved to binomial when available),,,48407,
+species_prey.csv,prey_rank,Taxonomic rank of prey (GloBI path ranks; FishBase: 'species' when the name is a binomial),,,32820,
+species_prey.csv,prey_group,"Harmonised prey group (finfish, cephalopods, crustaceans (planktonic), crustaceans (benthic/other), other molluscs, worms, echinoderms, cnidarians/jellyfish, sponges/tunicates, other zooplankton, other benthic invertebrates, phytoplankton, algae/plants, detritus, fish eggs/larvae, insects/terrestrial invertebrates, tetrapods, other, other/unresolved). FishBase: from FoodII; GloBI: from taxon path, else name keywords",,derived,48407,
+species_prey.csv,prey_category_l1,"FishBase FoodI (detritus, plants, zoobenthos, zooplankton, nekton, others)",,FishBase v24.07 (rOpenSci HF parquet mirror),10106,
+species_prey.csv,prey_category_l2,FishBase FoodII,,FishBase v24.07 (rOpenSci HF parquet mirror),10106,
+species_prey.csv,prey_category_l3,FishBase FoodIII,,FishBase v24.07 (rOpenSci HF parquet mirror),10106,
+species_prey.csv,prey_taxon_path,GloBI target taxon path,,GloBI,31025,
+species_prey.csv,prey_life_stage,Prey life stage(s),,,20527,
+species_prey.csv,predator_life_stage,Predator life stage(s),,,37801,
+species_prey.csv,diet_percent_max,Max % contribution of the item in FishBase diet studies,%,FishBase v24.07 (rOpenSci HF parquet mirror) diet_items,4091,
+species_prey.csv,n_records,Number of source rows/observations aggregated into this pair,count,,48407,
+species_prey.csv,recorded_in_sri_lanka,FishBase record from Sri Lanka (C_Code 144),bool,FishBase v24.07 (rOpenSci HF parquet mirror),10106,
+species_prey.csv,recorded_in_study_box,GloBI observation with coordinates inside lat 4-11N lon 77-85E,bool,GloBI,38301,
+species_prey.csv,locality_examples,Up to 3 FishBase localities,,FishBase v24.07 (rOpenSci HF parquet mirror),6458,
+species_prey.csv,citation,"FishBase RefNo(s), or up to 3 GloBI study citations",,,48407,
+species_prey.csv,via_fishbase_in_globi,GloBI row whose citation mentions FishBase (possible duplicate of FishBase rows),bool,GloBI,38301,
+species_prey.csv,globi_query_name,Name(s) queried in GloBI (accepted and/or FishBase name),,GloBI,38301,
