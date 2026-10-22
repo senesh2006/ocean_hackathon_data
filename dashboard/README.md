@@ -10,6 +10,8 @@ An interactive overview of every dataset in this repo: what each one holds, its 
 - **In the browser, without downloading:** https://htmlpreview.github.io/?https://github.com/senesh2006/ocean_hackathon_data/blob/main/dashboard/index.html
 - **GitHub Pages:** turn on Pages for `main` (Settings → Pages → Deploy from branch → `main` / root). The dashboard will then be at `https://senesh2006.github.io/ocean_hackathon_data/dashboard/`.
 
+If the page ever shows an error box instead of the dashboard, the box names the JavaScript error, so report that text.
+
 ## What's on it
 
 - **Filters:** theme, licence type, dataset, a free-text search on path, source or licence, and toggles for QC/metadata/raw files and for the superseded `updated data sets/` folder.
