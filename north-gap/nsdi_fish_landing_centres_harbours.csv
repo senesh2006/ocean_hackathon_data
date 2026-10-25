@@ -1,0 +1,102 @@
+layer,objectid,name,description,lat,lon,has_geometry,cell_lat,cell_lon,north_bbox,source_url
+fish_landing_center,14,Ullakalie,,8.357154520000051,81.38772857400005,True,8.35,81.35,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,15,Batticaloa,,7.721297608000043,81.70569427600003,True,7.75,81.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,16,Valachchenai,,7.92556122600007,81.52499232000008,True,7.95,81.55,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,17,Panichchankerni,,8.110907922000024,81.45700196500007,True,8.15,81.45,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,18,Patchenai,,8.198986216000037,81.42221301300003,True,8.15,81.45,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,19,Kaddaiparichchan,,8.464255094000066,81.27417496000004,True,8.45,81.25,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,20,Kinniyai,,8.503070132000062,81.19190811800007,True,8.55,81.15,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,21,Kuchchaveli,,8.789865581000072,81.12274321800004,True,8.75,81.15,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,22,Kuchchaveli,,8.858263443000055,81.07119763200006,True,8.85,81.05,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,23,Kokilai,,8.936382516000037,81.00173479900008,True,8.95,81.05,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,24,Pulmoddai,,8.951569739000035,80.98990032900008,True,8.95,80.95,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,25,Kokilai,,8.990214379000065,80.95980817800006,True,8.95,80.95,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,26,Wellawatta,,,,False,,,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,27,Bangadeniya,,7.626071452000076,79.80085256400008,True,7.65,79.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,28,Wellawatta,,6.87831496900003,79.85613666400008,True,6.85,79.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,29,Lunawa,,6.79399360900004,79.87303244900005,True,6.75,79.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,30,Lunawa,,6.7957295420000605,79.87250122500006,True,6.75,79.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,31,Panadura,,6.716645716000073,79.90195483700006,True,6.75,79.95,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,32,Naduwatta,,6.604447103000041,79.94909672400007,True,6.65,79.95,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,33,Naduwatta,,6.603848165000045,79.94944170100007,True,6.65,79.95,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,34,Kaluthara,,6.587546303000067,79.95568825900006,True,6.55,79.95,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,35,Kalamulla,,6.538189408000051,79.97166028100008,True,6.55,79.95,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,36,Payagala north,,6.527719899000033,79.97578097300004,True,6.55,79.95,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,37,Beruwala,,6.473548038000047,79.98013446600004,True,6.45,79.95,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,38,Sillia Lagoon,,6.466416656000035,79.97514068500004,True,6.45,79.95,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,39,Bentota,,6.442182390000028,79.98915200400006,True,6.45,79.95,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,40,Kaikawala,,6.376717411000072,80.00888900000007,True,6.35,80.05,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,41,Ahungalla,,6.322108015000026,80.03071871500003,True,6.35,80.05,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,42,Wellaboda,,6.284445693000066,80.03445043000005,True,6.25,80.05,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,43,Madu ganga,,6.273036025000067,80.03564691900004,True,6.25,80.05,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,44,Dodanduwa,,6.104883384000061,80.12499629000007,True,6.15,80.15,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,45,Galle,,6.035623962000045,80.22912387500008,True,6.05,80.25,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,46,Kadawata ela,,6.029882003000068,80.24115575600007,True,6.05,80.25,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,47,Kapparathota,,5.9606977200000415,80.42155686900009,True,5.95,80.45,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,48,Waligama,,5.972177203000058,80.43374449600003,True,5.95,80.45,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,49,Matara,,5.942866924000043,80.53985075900005,True,5.95,80.55,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,50,Edanwella,,5.946554760000026,80.63767718900004,True,5.95,80.65,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,51,Mawella,,5.989625086000046,80.74523350100003,True,5.95,80.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,52,Kotuwaththawa,,5.997366051000029,80.74738752200005,True,5.95,80.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,53,Kirama,,6.027171845000055,80.79795330800005,True,6.05,80.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,54,Kalamatiya,,6.076177589000054,80.93720523000007,True,6.05,80.95,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,55,Ambalantota,,6.109710367000048,81.05302360000007,True,6.15,81.05,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,56,Kirinda,,6.217820301000074,81.33672738500007,True,6.25,81.35,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,57,Kalido aru,,7.291967969000041,81.86794645200007,True,7.25,81.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,58,Kinnayadi,,7.3693282800000475,81.85284035500007,True,7.35,81.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,59,Sainthamaruthu,,7.397035242000072,81.84360585800005,True,7.35,81.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,60,Palatupangoda,,6.279492815000026,81.42686577600006,True,6.25,81.45,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,61,Okanda,,6.6523765710000475,81.77422454900005,True,6.65,81.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,62,Halawe,,6.667888842000025,81.77176213700005,True,6.65,81.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,63,Panama,,6.768601959000023,81.82287568700008,True,6.75,81.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,64,Potuvil,,6.898428918000036,81.84632822800006,True,6.85,81.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,65,Komari,,6.975876075000031,81.86625865700006,True,6.95,81.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,66,Korai,,7.096920117000025,81.85900076200005,True,7.05,81.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,67,Tambaddai,,7.188064791000045,81.86180785800008,True,7.15,81.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,68,Akkaraipattu,,7.243579498000031,81.86378633400005,True,7.25,81.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,69,Valalai,,9.822028955000064,80.13630556300006,True,9.85,80.15,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,70,Kumulamunai,,9.287742191000063,80.11652730200007,True,9.25,80.15,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,71,Nachchikudha,,9.262238904000071,80.11949464800006,True,9.25,80.15,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,72,Thekampuddi,,9.165237899000033,80.10124879700004,True,9.15,80.15,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,73,Arippu,,8.79485728800006,79.92518943000005,True,8.75,79.95,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,74,Silavaturai,,8.754375616000061,79.94447275600004,True,8.75,79.95,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,75,Karadikkuli,,8.684215418000065,79.95109707800003,True,8.65,79.95,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,76,Kalpitiya,,8.237919904000023,79.76684006100004,True,8.25,79.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,77,Palaichilai,,7.95519323700006,79.73804840100007,True,7.95,79.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,78,Mudukadu,,7.892787340000041,79.75534553300008,True,7.85,79.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,79,Udappuwa,,7.751365967000027,79.78899839800005,True,7.75,79.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,80,Muthupanthiya,,7.731673426000043,79.79249634400009,True,7.75,79.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,81,Toduwawa,,7.492575740000063,79.79769380800008,True,7.45,79.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,82,Gin Oya,,7.303377692000026,79.83699602600007,True,7.35,79.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,83,Negombo Lagoon,,7.206030967000061,79.82670702500008,True,7.25,79.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,84,Negombo Lagoon,,7.208012491000034,79.82868793800003,True,7.25,79.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,85,Kelanin Ganga,,6.979178269000045,79.87291800200006,True,6.95,79.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,86,Negombo Lagoon,,7.207898155000066,79.83407406000003,True,7.25,79.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,87,Negombo Lagoon,,7.206839471000023,79.83180049800006,True,7.25,79.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fish_landing_center,88,Wellawatta,,,,False,,,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/5
+fishing_harbour,4,Valachchenai,,7.931075251000038,81.56553028400003,True,7.95,81.55,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,5,Trincomalee,,8.562158043000068,81.23061672000006,True,8.55,81.25,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,6,Poduwakattu,,8.862565638000035,81.07930338200003,True,8.85,81.05,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,7,Modara - Colombo,,6.973911152000028,79.86908518100006,True,6.95,79.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,8,Beruwala,,6.473863802000039,79.97885037600008,True,6.45,79.95,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,9,Galle,,6.033794991000036,80.22041850600004,True,6.05,80.25,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,10,Mirissa,,5.94820911100004,80.45057925200007,True,5.95,80.45,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,11,Puranawella,,5.922161234000043,80.58460076300008,True,5.95,80.55,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,12,Tangalle,,6.024170250000054,80.79942308300008,True,6.05,80.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,13,Kirinda,,6.219427927000027,81.33747032900004,True,6.25,81.35,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,14,Myliddy,,9.812012992000064,80.07203060800003,True,9.85,80.05,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,15,Mannar,,8.966705895000075,79.90687971300008,True,8.95,79.95,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,16,Kalpitiya,,8.240184424000063,79.76896433900004,True,8.25,79.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,17,Chilaw,,7.607451474000072,79.79054870600004,True,7.65,79.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,18,Panadura,,6.716288338000027,79.90042985800005,True,6.75,79.95,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,19,Ambalangoda,,6.234430848000045,80.05224887300005,True,6.25,80.05,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,20,Hikkaduwa,,6.143247267000049,80.09846611000006,True,6.15,80.05,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,21,Dodanduwa,,6.06240002100003,80.17286137700006,True,6.05,80.15,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,22,Kudawella,,5.980038534000073,80.73721202700006,True,5.95,80.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,23,Kalamitiya,,6.0776740930000415,80.93702586600006,True,6.05,80.95,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,24,Hambantota,,6.124774688000059,81.12854214900005,True,6.15,81.15,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,25,Arugam Bay,,6.8417757750000305,81.83580407900007,True,6.85,81.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,26,Point Pedro,,9.828758267000069,80.24086968400007,True,9.85,80.25,True,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,27,Kandakuli,,8.21417931600007,79.70472773300008,True,8.25,79.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,28,Toduwawa,,7.495351155000037,79.79694824600006,True,7.45,79.75,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4
+fishing_harbour,29,Dickowita,,7.122815873000036,79.83808282800004,True,7.15,79.85,False,https://gisapps.nsdi.gov.lk/server/rest/services/Srilanka/Economy_Structure/MapServer/4

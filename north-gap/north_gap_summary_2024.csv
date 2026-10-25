@@ -1,0 +1,10 @@
+metric,north_value,national_value,north_share_pct,unit,year,source,note
+GFW AIS apparent fishing hours (all flags),6854.69,696972.64,1.0,hours,2024,Fishing_sl.csv (repo),"north = cells in 8.5-10.5N, 78.9-81.5E"
+"GFW AIS fishing hours, Sri Lanka flag",5543.87,675897.09,0.8,hours,2024,Fishing_sl.csv (repo),north = bbox
+Marine catch,102715.0,308430.0,33.3,tonnes,2024,Bulletin 2025 Table 4.4 (repo),north = Jaffna+Kilinochchi+Mannar+Mullaitivu+Trincomalee districts
+Operating fishing boats (all),22483.0,49271.0,45.6,boats,2024,Bulletin 2025 Table 3.2 (new extract),north = 5 districts
+Small-scale boats (OFRP+MTRB+NTRB+NBSB),21211.0,43522.0,48.7,boats,2024,Bulletin 2025 Table 3.2 (new extract),north = 5 districts
+Multi-day boats IMUL (most likely AIS-equipped),657.0,4869.0,13.5,boats,2024,Bulletin 2025 Table 3.2 (new extract),north = 5 districts
+Active marine fishers,86150.0,225480.0,38.2,fishers,2024,Bulletin 2025 Table 1.5 (new extract),north = 5 districts
+"Rousseau artisanal APW effort, LKA fleet",20455537.0,54985666.0,37.2,nominal kW-days,2017,Rousseau et al. 2024 / IMAS mapped_2017_APW,0.5deg cells with centres in bbox; LKA SAUP 144
+"Rousseau subsistence UP effort, LKA fleet",3058148.0,7868257.0,38.9,nominal kW-days,2017,Rousseau et al. 2024 / IMAS mapped_2017_UP,0.5deg cells with centres in bbox; LKA SAUP 144
